@@ -5,7 +5,7 @@ let questions = [];
       let right = 0;
       let wrong = 0;
       let temporaryRight = 0;
-      console.log(3);
+      console.log(1);
       fetchQuestions()
       async function fetchQuestions(){
         questions = await fetchData();
@@ -79,11 +79,15 @@ let questions = [];
       function checkAnswer(index, selected) {
         const q = questions[index];
         if(q.selected){
-              alert("Already answered!\n Go for next Question.");
+              alert("Already answered!\nGo for next Question.");
               const radio = document.querySelectorAll("input");
+              console.log(`selected ${selected}`);
               radio.forEach((radio) => {
+                    console.log(`radioVal ${radio.value}`);
                    if(radio.value === selected){
+                         console.log("checking");
                         radio.checked = true;
+                         console.log("checked");
                    }
               });
               return;
