@@ -94,9 +94,7 @@ let questions = [];
       }
 
       function updateReport(ans) {
-        const nCorrect = questions.filter((q)=>{
-          returns q.answered === "correct";
-        }).length();
+        const nCorrect = questions.filter(q=> q.answered === "correct").length;
 
         let percent = (nCorrect * 100) / (qNum + 1);
         percent = Math.round(percent * 100) / 100;
