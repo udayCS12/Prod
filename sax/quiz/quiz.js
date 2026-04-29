@@ -82,22 +82,24 @@ let questions = [];
         if (selected === correct) {
           ansDiv.textContent = `✅ Correct! (Q:${index+1})`;
           ansDiv.style.color = "green";
+          q.answered = "correct";
           updateReport(true);
         } else {
           ansDiv.textContent = `❌ Wrong! Correct answer: ${correct} (Q:${index+1})`;
           ansDiv.style.color = "red";
+          q.answered = "wrong";
           updateReport(false);
         }
       }
 
       function updateReport(ans) {
-        if (ans) {
-          temporaryRight = right + 1;
-        }
+        const nCorrect = questions.filter((q)=>{
+          returns q.answered = "correct";
+        }).length();
 
-        let percent = (temporaryRight * 100) / (qNum + 1);
+        let percent = (nCorrect * 100) / (qNum + 1);
         percent = Math.round(percent * 100) / 100;
 
         const report = document.getElementById("report");
-        report.innerHTML = `<b>${percent}%</b> <span>(${temporaryRight}/${qNum + 1})`;
+        report.innerHTML = `<b>${percent}%</b> <span>(${nCorrect}/${qNum + 1})`;
       }
