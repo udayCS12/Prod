@@ -78,6 +78,10 @@ let questions = [];
 
       function checkAnswer(index, selected) {
         const q = questions[index];
+        if(q.answered){
+              alert("Already answered!\n Go for next Question.");
+              return;
+        }
         const correct = q.answer;
         const ansDiv = document.getElementById(`answer${index}`);
         if (selected === correct) {
