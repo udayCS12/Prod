@@ -47,11 +47,11 @@
         const tittleDiv = document.getElementById("tittle");
         tittleDiv.innerHTML += `<b> (Total:${total})</b>`;
   
-        getQuestion();
+        getQuestion(quizDiv);
       }
       
             
-      function getQuestion() {
+      function getQuestion(quizDiv) {
         const q = questions[indexes[qNum]];
         const index = indexes[qNum];
         const qDiv = document.createElement("div");
