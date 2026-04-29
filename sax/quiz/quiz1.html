@@ -14,6 +14,12 @@
     <script>
       let questions = [];
       let indexes = [];
+      let qNum = 0;
+      let total = 0;
+      let right = 0;
+      let wrong = 0;
+      let temporaryRight = 0;
+      
       fetchQuestions()
       async function fetchQuestions(){
         questions = await fetchData();
@@ -33,14 +39,10 @@
           let j = Math.floor(Math.random() * (i + 1)); // 0 to i
           [indexes[i], indexes[j]] = [indexes[j], indexes[i]]; // swap
         }
+
+        total = indexes.length;
   
-        const quizDiv = document.getElementById("quiz");
-  
-        let qNum = 0;
-        const total = indexes.length;
-        let right = 0;
-        let wrong = 0;
-        let temporaryRight = 0;
+        const quizDiv = document.getElementById("quiz");        
   
         const tittleDiv = document.getElementById("tittle");
         tittleDiv.innerHTML += `<b> (Total:${total})</b>`;
