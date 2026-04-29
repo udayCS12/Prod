@@ -94,11 +94,11 @@
         const correct = questions[index].answer;
         const ansDiv = document.getElementById(`answer${index}`);
         if (selected === correct) {
-          ansDiv.textContent = `✅ Correct! (Q:${index})`;
+          ansDiv.textContent = `✅ Correct! (Q:${index+1})`;
           ansDiv.style.color = "green";
           updateReport(true);
         } else {
-          ansDiv.textContent = `❌ Wrong! Correct answer: ${correct} (Q:${index})`;
+          ansDiv.textContent = `❌ Wrong! Correct answer: ${correct} (Q:${index+1})`;
           ansDiv.style.color = "red";
           updateReport(false);
         }
