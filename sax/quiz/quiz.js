@@ -77,7 +77,8 @@ let questions = [];
       }
 
       function checkAnswer(index, selected) {
-        const correct = questions[index].answer;
+        const q = questions[index];
+        const correct = q.answer;
         const ansDiv = document.getElementById(`answer${index}`);
         if (selected === correct) {
           ansDiv.textContent = `✅ Correct! (Q:${index+1})`;
