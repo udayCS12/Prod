@@ -5,7 +5,7 @@ let questions = [];
       let right = 0;
       let wrong = 0;
       let temporaryRight = 0;
-      console.log(1);
+      console.log(3);
       fetchQuestions()
       async function fetchQuestions(){
         questions = await fetchData();
@@ -96,7 +96,6 @@ let questions = [];
           ansDiv.textContent = `✅ Correct! (Q:${index+1})`;
           ansDiv.style.color = "green";
           q.answered = "correct";
-              q.selected =  
           updateReport(true);
         } else {
           ansDiv.textContent = `❌ Wrong! Correct answer: ${correct} (Q:${index+1})`;
