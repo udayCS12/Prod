@@ -1,0 +1,3013 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz 1-10</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+
+      .questionsContainer {
+        height: 0px;
+        overflow: auto;
+      }
+      .questionsContainer::-webkit-scrollbar {
+        display: none;
+      }
+      .question {
+        margin-bottom: 20px;
+        color: red;
+      }
+      .options label {
+        display: block;
+        margin: 5px 0;
+        color: rgb(19, 100, 129);
+      }
+      .answer {
+        font-weight: bold;
+        margin-top: 5px;
+      }
+      .subjectHeading {
+        color: rgb(147, 171, 16);
+      }
+      h2 {
+        text-align: center;
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Quiz</h2>
+
+    <div id="quiz"></div>
+
+    <script>
+      const questions = [
+        {
+          question:
+            "Who is responsible for Flag Officer Commanding in Chief administration and material management for the Navy?",
+          options: ["CPRO", "MSO", "MS", "MO"],
+          answer: "MS",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Material superintendent is responsible for Flag Officer Commanding in Chief administration and material management for the Navy (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "MS organisation have five nos. of components (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "MS organisation have four nos. of components (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "MS organisation have how many components?",
+          options: ["03", "04", "06", "05"],
+          answer: "05",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "Expand CMP.",
+          options: [
+            "Contractor of Material Planning",
+            "Controllerate of Material Planning",
+            "Controller of Material Project",
+            "Controllerate of Material Programme"
+          ],
+          answer: "Controllerate of Material Planning",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "Expand CPRO.",
+          options: [
+            "Controller of Procedures",
+            "Controller of Planning",
+            "Controller of Programme",
+            "Controller of Procurement"
+          ],
+          answer: "Controller of Procurement",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "Expand CWH.",
+          options: [
+            "Controller of Ware Housing",
+            "Controller of Vare Housing",
+            "Controller of Were Housing",
+            "Controller of Ware House"
+          ],
+          answer: "Controller of Ware Housing",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "Expand CTS.",
+          options: [
+            "Controller of Technical Services",
+            "Controller of Technical Server",
+            "Controller of Training Services",
+            "Controller of Technology Services"
+          ],
+          answer: "Controller of Technical Services",
+          subject: "Technical Organisation"
+        },
+        {
+          question: "Expand CMS.",
+          options: [
+            "Controllerate of Manager Services",
+            "Controllerate of Management Services",
+            "Controllerate of Material Services",
+            "Controllerate of Management Ship"
+          ],
+          answer: "Controllerate of Management Services",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CMP is responsible for issuing of Naval stores and spare gear items (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CMP is responsible for procurement & spare gear and naval store items (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Who is responsible for raising FODAs & X slip for procurement & spare gear and naval store items?",
+          options: ["CPRO", "CTS", "CMP", "CMS"],
+          answer: "CMP",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CPRO is responsible for floating tenders and placing orders on firms against X slip raised by CMP (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Who is responsible for floating tenders and placing orders on firms against X slip raised by CMP?",
+          options: ["CPRO", "CTS", "CMP", "CMS"],
+          answer: "CPRO",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CPRO is responsible for placing contract orders on firms for indigenously developed equipment (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Who is responsible for placing contract orders on firms for indigenously developed equipment?",
+          options: ["CPRO", "CTS", "CMP", "CMS"],
+          answer: "CPRO",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CPRO is responsible for market survey and up-to-date information and suppliers with their address (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Who is responsible for market survey and up-to-date information and suppliers with their address?",
+          options: ["CTS", "OPRO", "CMP", "CMS"],
+          answer: "OPRO",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CMP is responsible for market survey and up-to-date information and suppliers with their address (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CMP is responsible for market survey and up to date information and suppliers with their address (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CPRO is responsible for payment of purchased stores through CDA(N) (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Who is responsible for payment of purchased stores through CDA(N)?",
+          options: ["CTS", "CPRO", "CMP", "CMS"],
+          answer: "CPRO",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CTS department of MO is responsible to keep custody and upkeep of technical documentation including D787 (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Which department of MO is responsible to keep custody and upkeep of technical documentation including D787?",
+          options: ["CTS", "CPRO"],
+          answer: "CTS",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CTS department of MO is responsible to keep custody and upkeep of drawings of ships machinery (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CWH department of MO is responsible to keep custody and upkeep of drawings of ships machinery (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Which department of MO is responsible to keep custody and upkeep of drawings of ships machinery?",
+          options: ["CTS", "CPRO", "CMP", "CMS"],
+          answer: "CTS",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CTS department of MO is responsible for survey of spare part items returned by ships (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Which department of MO is responsible for survey of spare part items returned by ships?",
+          options: ["CTS", "CPRO", "CMP", "CMS"],
+          answer: "CTS",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CMS department of MO is responsible for survey of spare part items returned by ships (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CTS department of MO is responsible for preservation and packing of store/spare gear (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Which department of MO is responsible for preservation and packing of store/spare gear?",
+          options: ["CTS", "CPRO", "CMP", "CMS"],
+          answer: "CTS",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "CTS department of MO is responsible for classification and coding of spare gear (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Technical Organisation"
+        },
+        {
+          question:
+            "Which department of MO is responsible for classification and coding of spare gear?",
+          options: ["CTS", "CPRO", "CMP", "CMS"],
+          answer: "CTS",
+          subject: "Technical Organisation"
+        },
+        {
+          subject: "Reports and Returns",
+          question: "Expand DART.",
+          options: [
+            "Defect and repair transaction",
+            "Defect and report transaction",
+            "Defect and running transaction",
+            "Delivery and repair transaction"
+          ],
+          answer: "Defect and repair transaction"
+        },
+        {
+          subject: "Reports and Returns",
+          question: "Expand SRAR.",
+          options: [
+            "Ship’s running and activity returns",
+            "Ship’s repair and activity returns",
+            "Ship’s running and activity of repairs",
+            "Ship’s reply and activity returns"
+          ],
+          answer: "Ship’s running and activity returns"
+        },
+        {
+          subject: "Reports and Returns",
+          question: "Expand FUSS.",
+          options: [
+            "Feedback on unit support shortfall",
+            "Feedback on upkeep shortfall",
+            "Feed on upcoming support shortfall",
+            "Feedback on upkeep support & spare"
+          ],
+          answer: "Feedback on upkeep shortfall"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "FUSS return is intended for providing feedback information on shortfall in scheduled maintenance. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "FUSS return is intended for providing feedback information on shortfall in scheduled maintenance. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "FUSS intimation can be render any time in the month. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Duration between the consecutive FUSS should not be less than one month. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Duration between the consecutive FUSS should not be less than ______ month.",
+          options: ["One", "Two", "Three", "Four"],
+          answer: "One"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Annual reports on FUSS intimation are to be send by all ships to INSM(A). (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Duration between the consecutive FUSS should not be less than two months. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Reports and Returns",
+          question: "Expand CANDEF.",
+          options: [
+            "Condition based defect",
+            "Central defect",
+            "Cannibalization defect",
+            "Canned defect"
+          ],
+          answer: "Cannibalization defect"
+        },
+        {
+          subject: "Reports and Returns",
+          question: "Expand CANDEM.",
+          options: [
+            "Condition based demand",
+            "Central demand",
+            "Cannibalization demand",
+            "Canned demand"
+          ],
+          answer: "Cannibalization demand"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Report on mustering of INBR is sent to INDA by all ships/establishments. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Report on mustering of INBR is sent to IHQ by all ships/establishments. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Report on mustering of INBR is sent to INDA by all ships/establishments. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Details of computers and peripherals are annually sent to CITO. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Details of computers and peripherals are annually sent to DIT (IHQ). (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Reports and Returns",
+          question:
+            "Details of computers and peripherals are annually sent to ________",
+          options: ["CEO", "CITO", "CLO", "CRO"],
+          answer: "CITO"
+        },
+        {
+          subject: "Reports and Returns",
+          question: "FUSS is an occasional return. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+
+        {
+          subject: "Refit Management",
+          question:
+            "Period where maintenance done by ships staff only is called",
+          options: [
+            "Annual Refit Conference",
+            "Assisted maintenance period",
+            "Self-maintenance period",
+            "Refit Planning Programme"
+          ],
+          answer: "Self-maintenance period"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Period where maintenance done with dockyard’s assistance is called",
+          options: [
+            "Dockyards Centers",
+            "Assisted maintenance period",
+            "Self-maintenance period",
+            "Dock master"
+          ],
+          answer: "Assisted maintenance period"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "During AMP, defect must be forwarded in the form of _______",
+          options: ["AWRF", "SDL", "Normal RA", "FAX RA"],
+          answer: "AWRF"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "In AMP, AWRF’s are to be sent 03 weeks before its starting date to HQ, Dockyard. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "AWRF includes 04 months outstanding maintenance which cannot be done by SS. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Schedule mentioned through AWRF should be completed in AMP period. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "In AMPS, only operational defects are needed to be sent through AWRF. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Period where major routines are only projected to CRO called _______",
+          options: [
+            "AMR",
+            "Self-maintenance period",
+            "Refit",
+            "Assisted maintenance period"
+          ],
+          answer: "Refit"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Defect lists projects defects/routines which are sent to _______",
+          options: ["MS", "MO", "CRO, Dockyard", "IHQ"],
+          answer: "CRO, Dockyard"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Once refit programme is received, ships staff prepare a combined list of defects routine. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Once defect list is prepared by SS, it is directly forwarded to CRO and dockyard. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question: "Defect list part 1 is forwarded along with part 2. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Defect list part 1 is forwarded _____ weeks prior to commencement of refit.",
+          options: ["20", "12", "08", "04"],
+          answer: "20"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Defect list part 2 is forwarded ____ weeks prior to commencement of refit.",
+          options: ["12", "08", "04", "02"],
+          answer: "08"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Supplementary defect list also contains defects observed since submission of part 2. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "AWRF’s are forwarded with defects found after submission of ______ and defects observed during ______.",
+          options: [
+            "DL II, Refit",
+            "DL III, Refit",
+            "DL II, Refit",
+            "DL III, Refit"
+          ],
+          answer: "DL III, Refit"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Last AWRF shall be raised prior ____ weeks before completion of refit.",
+          options: ["20", "12", "08", "04"],
+          answer: "08"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Completed defect list is serially numbered between 10000 to 39999. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Defect group under hull are given serial from _____ to ______.",
+          options: [
+            "10000 to 19999",
+            "20000 to 29999",
+            "30000 to 39999",
+            "31000 to 39999"
+          ],
+          answer: "10000 to 19999"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Defect group under eng are given serial from _____ to ______.",
+          options: [
+            "10000 to 19999",
+            "20000 to 29999",
+            "30000 to 39999",
+            "31000 to 39999"
+          ],
+          answer: "20000 to 29999"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Defect group under L and weapons are given serial from _____ to ______.",
+          options: [
+            "10000 to 19999",
+            "20000 to 29999",
+            "30000 to 39999",
+            "31000 to 39999"
+          ],
+          answer: "10000 to 19999"
+        },
+
+        {
+          subject: "Refit Management",
+          question:
+            "Refit planning programme is made by ______ floor of dockyard.",
+          options: [
+            "Diesel & Auxiliary",
+            "Machinery",
+            "Planning",
+            "Construction"
+          ],
+          answer: "Planning"
+        },
+        {
+          subject: "Refit Management",
+          question: "RPP is yearly programme. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question: "DLC is held before commencement of refit. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question: "FEO attends the DLC. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Pre refit trials are done 05 weeks prior to scheduled refit. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Pre refit trials include performance checks of main and auxiliary machineries. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Pre refit trials schedule is intimated ______ weeks prior to commencement.",
+          options: ["03", "02", "01", "04"],
+          answer: "01"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Intimation w.r.t. to pre refit trials are given only to ETMA/MTU. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question: "Pre refit trials schedule is intimated ______.",
+          options: [
+            "CO/EXO/EO/INHQ/DOCKYARD",
+            "MTU/ETMA/DOCKYARD/COMMAND HQS",
+            "CO/EO/MTU/DOCKYARD",
+            "COMMAND HQS/MTU/CO/EO"
+          ],
+          answer: "CO/EO/MTU/DOCKYARD"
+        },
+        {
+          subject: "Refit Management",
+          question: "Post refit trials are done in ______ phase.",
+          options: ["03", "02", "01", "04"],
+          answer: "03"
+        },
+        {
+          subject: "Refit Management",
+          question: "Harbor trial is a phase of post refit trial. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question: "Preliminary trials is a phase of post refit trial. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question: "Final Sea Trails are a phase of post refit trials. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Refit coordinator is appointed from one of the ship’s staff for day to day monitoring of refit. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Refit coordinator is appointed from planning depart of dockyard. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Refit coordinator represents Manager (Planning) during refit. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question: "DCD stands for Dockyard Controlled duties. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question: "DCD stands for ____________.",
+          options: [
+            "Dockyard Conduct Docking",
+            "Diesel Cleaning Date",
+            "Dockyard Cleaning Day",
+            "Dockyard completion Date"
+          ],
+          answer: "Dockyard completion Date"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Fortnightly Refit Progress meeting discusses about milestone and DCD of refit. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "__________ Officer is generally designated as Refit Officer.",
+          options: ["Electrical", "Hull", "Engineering", "Executive"],
+          answer: "Engineering"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Sailors from logistics department man the refit office. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Refit progress review of capital ships held Quarterly for NR/MR. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Refit progress review of capital ships held _______ for NR/MR.",
+          options: ["Half Yearly", "Quarterly", "Yearly", "Monthly"],
+          answer: "Quarterly"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Sailors from electrical department are only authorized to man refit office. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Sailors from Hull department can man the refit office. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "During Refit, dockyard staff is responsible for machineries. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Refit office act as liaison between __________ and ________.",
+          options: [
+            "Dockyard, EO",
+            "CO, EO",
+            "Ship, Dockyard",
+            "NHQ, Dockmaster"
+          ],
+          answer: "Ship, Dockyard"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Dockyard staff are responsible for preparation HATS basin trial. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Refit Management",
+          question: "ARC is chaired by __________.",
+          options: ["MS", "CNO", "COM"],
+          answer: "COM"
+        },
+        {
+          subject: "Refit Management",
+          question:
+            "Refit cycle for different class of ships are given at navy order ______.",
+          options: ["40/72", "54/70", "42/76", "48/79"],
+          answer: "48/79"
+        },
+        {
+          subject: "Refit Management",
+          question: "DLC stands for ____________",
+          options: [
+            "Defect list Contract",
+            "Defect list Category",
+            "Defect low Category",
+            "Defect list conference"
+          ],
+          answer: "Defect list conference"
+        },
+        {
+          question:
+            "Trials help in establishing key parameters of new machinery (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Trials help periodical check of ships operational status (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Trials help to check proficiency of S coy in machinery operations (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Trials help in finding out defect in machinery before proceeding for refit (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question: "Endurance trial is a type of periodical trial (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question: "Fuel consumption trial is a type of sea trial (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Pre refit trial is a type of harbor trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Post refit trial is a type of trials?",
+          options: ["Harbour", "Sea", "Anchorage", "Shaft locking"],
+          answer: "Sea",
+          subject: "Trials"
+        },
+        {
+          question: "Brain trial is a type of sea trial (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Basin trial is type of trials?",
+          options: ["Sea", "Anchorage", "Harbor", "Full power trial"],
+          answer: "Harbor",
+          subject: "Trials"
+        },
+        {
+          question:
+            "When a ship is to be commissioned harbor acceptance trial are conducted (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Machinery acceptance trial is conducted for commissioning of ship (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Contractor ship trials are conducted to commission new ship (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question: "Sea acceptance trials is type of harbor trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Sea acceptance trials is type of harbor trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Large repair trial is type of trials?",
+          options: [
+            "Supplementary",
+            "Occasional periodical",
+            "Planned",
+            "Harbor acceptance"
+          ],
+          answer: "Occasional periodical",
+          subject: "Trials"
+        },
+        {
+          question: "Refit trial and ______ refit trial are type of sea trial.",
+          options: ["Basin, Sea", "Pst, Sats", "Psp, Fpt", "Pre, Post"],
+          answer: "Pre, Post",
+          subject: "Trials"
+        },
+        {
+          question: "Harbour acceptance trial is type of sea trial (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Endurance trials is type of harbor trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Endurance trials is type of sea trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Basin trial is type of periodical trial (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Pre refit trials assimilate ______ capacity of machinery.",
+          options: [
+            "Large repair trials",
+            "Habitability",
+            "PSP trials",
+            "Load carrying"
+          ],
+          answer: "Load carrying",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Pre refit trials helps in completion of ______ defect list.",
+          options: ["AWRF", "Supplementary", "DL part II", "DL part III"],
+          answer: "Supplementary",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Machinery limitations can be found during pre-refit trials (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question: "As and as are compiled using pre-refit trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Part one of defect list can be prepared during pre-refit trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Pre refit trials are commenced after DLC (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Pre refit trials are commenced before DLC (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question:
+            "Entire supplementary defect list is prepared only during pre-refit trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Harbor acceptance conducted at the start of refit (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "HATS are conducted at the ______ of refit.",
+          options: ["Pre", "Mid", "During", "End"],
+          answer: "End",
+          subject: "Trials"
+        },
+        {
+          question: "DA trials are carried out during pre-refit trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Steering gear trial are carried out during ______ trials.",
+          options: [
+            "Sea acceptance",
+            "Harbor acceptance",
+            "Occasionally",
+            "Periodically"
+          ],
+          answer: "Harbor acceptance",
+          subject: "Trials"
+        },
+        {
+          question: "HATS comprises of REF and A/C plant trials (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Trials"
+        },
+        {
+          question: "HATS comprises of stabilisers trials (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Air compressor is part of ______ trials.",
+          options: ["SATS", "HATS", "Occasionally", "Periodically"],
+          answer: "HATS",
+          subject: "Trials"
+        },
+        {
+          question: "Control system to be checked prior to ______ trials.",
+          options: ["HATS", "SATS", "FPT", "Refit"],
+          answer: "HATS",
+          subject: "Trials"
+        },
+        {
+          question: "Main propulsion trials are part of HATS (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "Cold checks of ______ to be done in HATS.",
+          options: ["Cool room", "Cold room", "DA", "M/E"],
+          answer: "M/E",
+          subject: "Trials"
+        },
+        {
+          question: "Shaft should be particularly turned during HATS (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Trials"
+        },
+        {
+          question: "FPT stands for?",
+          options: [
+            "Full performance trials",
+            "Fuel power trials",
+            "Full power trials",
+            "Fuel performance trials"
+          ],
+          answer: "Full power trials",
+          subject: "Trials"
+        },
+
+        {
+          question: "Expand DME.",
+          options: [
+            "Diesel Of Marine Engineering",
+            "Duty Of Marine Engineering",
+            "Directorate Of Marine Engineering",
+            "Domain Of Marine Engineering"
+          ],
+          answer: "Directorate Of Marine Engineering",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "Expand DSR.",
+          options: [
+            "Duty Of Staff Requirement",
+            "Defect Of Spare Required",
+            "Delivery of Spare Required",
+            "Directorate Of Staff Requirement"
+          ],
+          answer: "Directorate Of Staff Requirement",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "Expand DND.",
+          options: [
+            "Directorate Of Naval Designed",
+            "Delivery Of Naval Directorate",
+            "Despatch Of Naval Demand",
+            "Document Of Naval Demand"
+          ],
+          answer: "Directorate Of Naval Designed",
+          subject: "Commissioning of Ships"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question: "Expand DSA",
+          options: [
+            "Directorate Of Sailor Accommodation",
+            "Document Of Spare Accessories",
+            "Distribution Of Account",
+            "Directorate Of Surface Augmentation"
+          ],
+          answer: "Directorate Of Surface Augmentation"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question: "Expand WPS",
+          options: [
+            "Warfare Production Superintendant",
+            "Warship Production Superintendant",
+            "Weapons Production Superintendant",
+            "Work Production Superintendant"
+          ],
+          answer: "Warship Production Superintendant"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "For commissioning of warship, all the professional directorates at IHQ give Feed Back to __________ regarding type of ship required by Navy.",
+          options: ["DSA", "WPA", "DSR", "WPS"],
+          answer: "DSR"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "For inducting new ships in Navy, __________ consult to all the Agencies (Ship Builders).",
+          options: ["WPA", "DSR", "WPS", "DSA"],
+          answer: "DSA"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "If a new ship to be inducted in Navy is made by an Indian company then __________ will be the overall co-ordinator.",
+          options: ["WPA", "DSR", "WPS", "DSA"],
+          answer: "DSR"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "If a ship is made by other country, __________ nominate the team naval personnel as a naval attach.",
+          options: ["DSR/DOP", "DSR", "WPS", "WPA"],
+          answer: "DSR/DOP"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "Number of cardinal dates in commissioning of a warship are __________",
+          options: ["07", "06", "08", "09"],
+          answer: "09"
+        },
+
+        {
+          question: "During Ship's commissioning, cardinal date D0 represents?",
+          options: ["Docking", "Sailing", "Date Of Commissioning", "Undocking"],
+          answer: "Date Of Commissioning",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "During Ship's commissioning, cardinal date D1 represents?",
+          options: [
+            "Undocking",
+            "Cold checks of all the equipment",
+            "Docking",
+            "Date Of Commissioning"
+          ],
+          answer: "Undocking",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "During Ship's commissioning, cardinal date D3 represents?",
+          options: [
+            "Date Of Commissioning",
+            "Sailing",
+            "Dry Docking Of Ship",
+            "Hot checks"
+          ],
+          answer: "Dry Docking Of Ship",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "During Ship's commissioning, cardinal date D5 represents?",
+          options: [
+            "Undocking",
+            "Sailing for Sea Trials",
+            "Date Of Commissioning",
+            "Docking"
+          ],
+          answer: "Sailing for Sea Trials",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "During Ship's commissioning, cardinal date D6 represents?",
+          options: [
+            "Docking",
+            "Hot Start Of Main Engines/Equipment",
+            "Undocking",
+            "Sailing for Sea Trials"
+          ],
+          answer: "Hot Start Of Main Engines/Equipment",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "During Ship's commissioning, cardinal date D7 represents?",
+          options: [
+            "Sailing for Sea Trials",
+            "Date Of Commissioning",
+            "Hot Start Of Auxiliaries/Equipment",
+            "Docking"
+          ],
+          answer: "Hot Start Of Auxiliaries/Equipment",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question: "During Ship's commissioning, cardinal date D8 represents?",
+          options: [
+            "Cold Checks Of All The Equipment",
+            "Docking",
+            "Sailing for Sea Trials",
+            "Undocking"
+          ],
+          answer: "Cold Checks Of All The Equipment",
+          subject: "Commissioning of Ships"
+        },
+        {
+          question:
+            "During Ship's commissioning, cardinal date D12 represents?",
+          options: [
+            "Cold Checks Of All The Equipment",
+            "Hot Start Of Main Engines/Equipment",
+            "Date Of Commissioning",
+            "SPTA Thorough Checks And Taken Over"
+          ],
+          answer: "SPTA Thorough Checks And Taken Over",
+          subject: "Commissioning of Ships"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "In Commissioning of ship, commissioning ceremony is indicated by cardinal date ________",
+          options: ["D0", "D1", "D2", "D3"],
+          answer: "D0"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "In Commissioning of ship, undocking date is indicated by cardinal date ________",
+          options: ["D4", "D5", "D6", "D7"],
+          answer: "D5"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "In Commissioning of ship, dry docking date is indicated by cardinal date ________",
+          options: ["D4", "D5", "D6", "D3"],
+          answer: "D3"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "In Commissioning of ship, sailing for sea trials is indicated by cardinal date ________",
+          options: ["D6", "D1", "D4", "D5"],
+          answer: "D5"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "In Commissioning of ship, hot start of main engines is indicated by cardinal date ________",
+          options: ["D1", "D2", "D6", "D5"],
+          answer: "D6"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "In Commissioning of ship, cold checks of all the equipment’s is indicated by cardinal date ________",
+          options: ["D1", "D7", "D8", "D6"],
+          answer: "D1"
+        },
+        {
+          subject: "Commissioning of Ships",
+          question:
+            "During Ship’s Commissioning, warrant is signed by Rep of ________ and Rep of Ship builder.",
+          options: [
+            "Ship Yard",
+            "Ship Contractor",
+            "Govt of India",
+            "Contractor sea trail"
+          ],
+          answer: "Govt of India"
+        },
+
+        {
+          question: "BR stands for?",
+          options: [
+            "Book Of Reference",
+            "Beyond Repair",
+            "Base Repair",
+            "Book Of Recruit"
+          ],
+          answer: "Book Of Reference",
+          subject: "Engineering BR"
+        },
+        {
+          question: "BRs are publications issued by IHQ (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Engineering BR"
+        },
+
+        {
+          question:
+            "_______are publications issued by IHQ promulgating instructions and information.",
+          options: ["INBR", "JBR", "JSP", "BRs"],
+          answer: "BRs",
+          subject: "Engineering BR"
+        },
+
+        {
+          question: "BRs are publications issued by INDA (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Engineering BR"
+        },
+        {
+          question: "BRs are the publications distributed by?",
+          options: ["Russia", "India", "England", "None of the above"],
+          answer: "India",
+          subject: "Engineering BR"
+        },
+        {
+          question:
+            "BRs have security classifications confidential and below (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Engineering BR"
+        },
+        {
+          question: "BRs have no Security Classifications (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Expand RBRs.",
+          options: [
+            "Recruit books of reference",
+            "Repair books of reference",
+            "Russian books of reference",
+            "Russian books of Report"
+          ],
+          answer: "Russian books of reference",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Expand INAP.",
+          options: [
+            "Indian Naval Afloat Plan",
+            "Indian Naval Approval in Principle",
+            "Indian Naval Aircraft Publication",
+            "Indian Naval Air Publication"
+          ],
+          answer: "Indian Naval Air Publication",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Expand JSP.",
+          options: [
+            "Joint Stock Publication",
+            "Joint Signal Publications",
+            "Joint Spare Publication",
+            "Joint Service Publication"
+          ],
+          answer: "Joint Signal Publications",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Expand JSCP.",
+          options: [
+            "Joint Ship Communication Publication",
+            "Joint Signal Communication Publication",
+            "Joint Support Communication Publication",
+            "Joint Stock Communication Publication"
+          ],
+          answer: "Joint Signal Communication Publication",
+          subject: "Engineering BR"
+        },
+        {
+          question: "The term BR also include INAP (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Engineering BR"
+        },
+        {
+          question: "The term BR also include JSCP (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Engineering BR"
+        },
+        {
+          question: "An MCPO can be carried out duties of BR Officer (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Marine Engineering Manual is BR?",
+          options: ["2170", "3000", "3001", "3525"],
+          answer: "3000",
+          subject: "Engineering BR"
+        },
+        {
+          question: "BR 3000 is ______ Manual.",
+          options: [
+            "Marine Engineering",
+            "Naval Oil Manual",
+            "NBCD Manual",
+            "Shafting & Propeller"
+          ],
+          answer: "Marine Engineering",
+          subject: "Engineering BR"
+        },
+        {
+          question:
+            "Marine Engineering Technical Instructions are contained in BR?",
+          options: ["2170", "3001", "3009", "3000"],
+          answer: "3001",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Ship NBCD Manual is BR?",
+          options: ["3000", "2170", "3001", "3009"],
+          answer: "3000",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Naval Oil Manual is BR?",
+          options: ["3000", "2190", "3005", "3009"],
+          answer: "3009",
+          subject: "Engineering BR"
+        },
+        {
+          question: "Naval Oil Manual is BR?",
+          options: ["3000", "2190", "3005", "3009"],
+          answer: "3009",
+          subject: "Engineering BR"
+        },
+        {
+          question: "BRs related with Shafting, Propeller and Rudders is?",
+          options: ["2190", "2170", "3009", "3525"],
+          answer: "3525",
+          subject: "Engineering BR"
+        },
+        {
+          question:
+            "Preservation of spares require all time serviceability (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question: "During preservation, spares may get damaged (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "During transfer of spares under preservation, they must not be damaged (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question: "Maintaining a spare needs to apply ______ coating.",
+          options: [
+            "Permanent Coating",
+            "GRP coating",
+            "Temporary protective",
+            "Primer"
+          ],
+          answer: "Temporary protective",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "During maintaining a spare, it is applied with a permanent protective coating (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question: "Adequate packaging of a spare gets it preserved (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "Acidic cleaning is a way of metallic spare cleaning (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "During solvent cleaning of a spare, spare is cleaned by sand blasting (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "During solvent cleaning of a spare, spare is cleaned by brushing (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "Sand blasting is a mechanical process to clean spares (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "Shot blasting is an alkaline process of cleaning spare (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "Post cleaning of spares, it can be touched by bare hands (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question:
+            "Drying is a process post completion of cleaning a spare (T/F).",
+          options: ["True", "False"],
+          answer: "True",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question: "Spare is dried before cleaning it (T/F).",
+          options: ["True", "False"],
+          answer: "False",
+          subject: "Preservation and Depreservation"
+        },
+        {
+          question: "Drying in large scale of spares require?",
+          options: [
+            "Electric ovens",
+            "Electric heaters",
+            "Exhaust blower",
+            "All of the above"
+          ],
+          answer: "Electric heaters",
+          subject: "Preservation and Depreservation"
+        },
+
+        {
+          subject: "Correspondences",
+          question:
+            "In service writing, introduction should be detailed as possible. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "In service writing, any matter not dealt with in the body should not be introduced in conclusion part. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "An informal letter used by an officer in his personal capacity to convey official information on any matter.",
+          options: [
+            "Official letter",
+            "Demi Official letter",
+            "Personal letter",
+            "Private letter"
+          ],
+          answer: "Demi Official letter"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "_______ is a form of service correspondence which is always addressed to senior officer.",
+          options: [
+            "Service letter",
+            "Demi Official letter",
+            "Personal letter",
+            "Private letter"
+          ],
+          answer: "Demi Official letter"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Service personnel order are given security classification as _______.",
+          options: ["Secret", "Confidential", "Restricted", "Top Secret"],
+          answer: "Confidential"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Store of intelligence and method used are given security classification as _______.",
+          options: ["Secret", "Confidential", "Restricted", "Top Secret"],
+          answer: "Secret"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Secret” may be circulated monthly. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Secret” may be circulated under sealed cover being signed in circulation book. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Confidential” may be circulated monthly. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Confidential” may be circulated under sealed cover being signed in circulation book. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Restricted” may be circulated monthly. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Restricted” may be circulated under sealed cover being signed in circulation book. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Top Secret” may be circulated monthly. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "A document with security classification as “Top Secret” may be circulated under sealed cover being signed in circulation book. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated only by hand of officer. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through circulation book. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through sealed cover. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through ordinary post. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through special messenger. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through telegram. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through telephone. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question: "Top Secret documents are circulated through fax. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question: "Top Secret documents are circulated through email. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through internet. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Correspondences",
+          question:
+            "Top Secret documents are circulated through intranet. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank ERA V to ERA IV VG conduct 12 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank ERA IV to ERA III VG conduct 12 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank ERA III to ERA II VG conduct 12 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank ERA II to ERA I VG conduct 12 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank ERA I to MEO IV VG conduct 12 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank MEO IV to MEO III VG conduct 12 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank ERA IV TO ERA III VG conduct 6 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "Promotion Regulation",
+          question:
+            "Promotion of rank ERA III TO ERA II VG conduct 6 month. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Service Document (IN271 Revised) is an official document in an booklet form. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Sheet from service document can be removed as convenient. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Sheet from service document cannot be removed as convenient. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Any alteration made in service document without proper authority is not liable to severe penalties. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Service Document is divided into ____ station.",
+          options: ["10", "4", "5", "6"],
+          answer: "5"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Service Document is divided into six station. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Service Document is divided into five station. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Section I of Service Document is named as _____",
+          options: [
+            "Training particulars",
+            "Service particulars",
+            "Personal particulars",
+            "Leave records"
+          ],
+          answer: "Personal particulars"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Section I of Service Document is named as Service particulars. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Section I of Service Document is named as Personal particulars. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Section II of Service Document is named as _____",
+          options: [
+            "Training particulars",
+            "Service particulars",
+            "Personal particulars",
+            "Leave records"
+          ],
+          answer: "Service particulars"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Section II of Service Document is named as Personal Particulars. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Section III of Service Document is named as _____",
+          options: [
+            "Training particulars",
+            "Service particulars",
+            "Personal particulars",
+            "Leave records"
+          ],
+          answer: "Training particulars"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Section III of Service Document is named as Training particulars. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "TRUE"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Section IV of Service Document is named as _____",
+          options: [
+            "Training particulars",
+            "Service particulars",
+            "Personal particulars",
+            "Leave records"
+          ],
+          answer: "Leave records"
+        },
+        {
+          subject: "SD and ACR",
+          question:
+            "Section IV of Service Document is named as Training particulars. (T/F)",
+          options: ["TRUE", "FALSE"],
+          answer: "FALSE"
+        },
+        {
+          subject: "SD and ACR",
+          question: "Section V of Service Document is named as _____",
+          options: [
+            "Training particulars",
+            "Service particulars",
+            "Record of certificates",
+            "Leave records"
+          ],
+          answer: "Record of certificates"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "If the bill is passed by CDA (N) payment will be made directly to concerned firm by CDA (N) informing CO of the ship. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "Local purchase by ship’s staff under post audit procedure can be done only if the cost of the item is ______ the delegated financial power of the Commanding officer",
+          options: ["Lower", "Higher", "All of the above"],
+          answer: "Lower"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "The receipt, issue and return on naval stores shall be recorded on ledger pages, which is made of _____ Types.",
+          options: ["01", "02", "03", "04"],
+          answer: "01"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "Reception of NAC from MO have the validity of _____ months only.",
+          options: ["02", "03", "04", "06"],
+          answer: "03"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "In case of pre audit, Local market survey is to assess the cost of items and a minimum of _____ Quotations from different dealers/firm are to be obtained.",
+          options: ["02", "03", "04", "05"],
+          answer: "03"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question: "CRV stands for",
+          options: [
+            "Certificate Receipt Voucher",
+            "Certified Receipt Voucher",
+            "Certificate Receipt Voucher/Voucher",
+            "Certificate Receipt Voter"
+          ],
+          answer: "Certified Receipt Voucher"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "Proposal book to be put up to _____ for approval along with comparative statement of tender (CST).",
+          options: ["EO", "Log", "CO", "CDA"],
+          answer: "CO"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question: "Permanent Store Ledger form which is used are-",
+          options: [
+            "IN 330 ledger page",
+            "IN 423 ledger binder",
+            "IN 333 ledger binder",
+            "All"
+          ],
+          answer: "All"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "All office machinery and equipment shall issued to the user department on",
+          options: [
+            "Ty Loan",
+            "Permanent Loan",
+            "On Transfer Voucher",
+            "On SMS"
+          ],
+          answer: "Permanent Loan"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "_____ allocates funds under revenue budget heads to the commands depending on the availability of the funds.",
+          options: ["IHQ", "NHQ", "MOD", "Ministry of Finance"],
+          answer: "NHQ"
+        },
+        {
+          subject: "Cash and Fund Mangament",
+          question:
+            "Proposal for new procurement must be supported by a statement of case justifying the requirements along with the quotations. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "A _____ machine is the machine that will be manipulated during the alignment process.",
+          options: ["Rigid", "Fixed", "Movable", "All of the above"],
+          answer: "Movable"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "A Movable machine is the machine that will be manipulated during the alignment process. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "A _____ machine is the machine that will be manipulated during the alignment process.",
+          options: ["Rigid", "Fixed", "Movable", "All of the above"],
+          answer: "Movable"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "A Movable machine is the machine that will be manipulated during the alignment process. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "What is the offset of the TIR is _______",
+          options: ['0.005"', '0.010"', '0.015"', '0.020"'],
+          answer: '0.015"'
+        },
+        {
+          subject: "Alignment",
+          question: 'The offset of the TIR is 0.015". (T/F)',
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "TIR in alignment stands for ___________",
+          options: [
+            "Total Direct Indicator Reading",
+            "Transferred Dial Indication Reading",
+            "Total Dial Indicator Review",
+            "Total Dial Indicator Reading"
+          ],
+          answer: "Total Dial Indicator Reading"
+        },
+        {
+          subject: "Alignment",
+          question: "Radial and _____ are the two main type of alignments.",
+          options: ["Vertical", "Axial", "Horizontal", "All of the above"],
+          answer: "Axial"
+        },
+        {
+          subject: "Alignment",
+          question: "_____ and _____ are the two main type of alignments.",
+          options: [
+            "Radial and Vertical",
+            "Radial and Horizontal",
+            "Radial and axial",
+            "None of the above"
+          ],
+          answer: "Radial and axial"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "A machine should be kept misaligned in cold alignment according to hot alignment values. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "A machine should not be kept misaligned in cold alignment according to hot alignment values. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Hot alignment values are given by machine manufactures. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "If the hot alignment values are not given by machine manufactures then machine should be aligned in cold condition and then made to run up to normal operating condition and the stop abruptly and take the misalignment reading within 5–10 mins. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Movable machine is one which is easy to move for shimming and correction of misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "______ machine is one which is easy to move for shimming and correction of misalignment.",
+          options: ["Rigid", "Fixed", "Movable", "All of the above"],
+          answer: "Movable"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "In Pump and motor, Pump will be fix machine and motor will moveable machine in most of cases. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "In pump and motor alignment pump is kept fixed because it is connected to piping. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "The feet of machine near to coupling is called Near feet or front feet. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "The feet of machine near to coupling is called rear feet or away feet. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "The feet of machine near to coupling is called ______ feet.",
+          options: [
+            "Near feet or front feet",
+            "Near feet or rear feet",
+            "Rear feet or front feet",
+            "Rear feet or away feet"
+          ],
+          answer: "Near feet or front feet"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "The feet of machine away from machine are called rear feet or away feet. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Rear feet or away feet are the feet of machine away from coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "Cold alignment is done when machine is not running. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Rear feet or away feet are the feet of machine away from coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "Cold alignment is done when machine is not running. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "Hot alignment is done when machine is running. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "Hot alignment is done when machine is not running. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "Cold alignment is done when machine is running. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "__________ break the lubrication film inside the bearing",
+          options: [
+            "Alignment",
+            "Misalignment",
+            "Both A & B",
+            "None of the above"
+          ],
+          answer: "Misalignment"
+        },
+        {
+          subject: "Alignment",
+          question: "Parallel or offset misalignment are same. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "Parallel or offset misalignment are not same. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "__________ misalignment are same.",
+          options: [
+            "Parallel or Angular",
+            "Parallel or offset",
+            "Angular or offset",
+            "Parallel or Skew"
+          ],
+          answer: "Parallel or offset"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are parallel but not in same plane then this is known as parallel offset misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are not parallel but in same plane then this is known as parallel offset misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are parallel but not in same plane then this is known as",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel offset misalignment",
+            "None of the above"
+          ],
+          answer: "Parallel offset misalignment"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the un parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the _____ misalignment is the deviation from one datum axis to the other",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel offset misalignment",
+            "None of the above"
+          ],
+          answer: "Parallel offset misalignment"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Horizontal offset is characterized at side to side misalignment when looking from top of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Horizontal offset is characterized at side to side misalignment when looking from bottom of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "__________ is characterized at side to side misalignment when looking from top of the coupling",
+          options: [
+            "Horizontal offset",
+            "Vertical offset",
+            "Axial offset",
+            "All of the above"
+          ],
+          answer: "Horizontal offset"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Elastomeric type of coupling uses elastomeric medium to transmit torque. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Elastomeric coupling can be detreated due to oxidation of rubber/corrosive attacks. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Vertical offset is characterized as up and down misalignment when viewed from either side of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question: "Parallel or offset misalignment are not same. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "__________ misalignment are same.",
+          options: [
+            "Parallel or Angular",
+            "Parallel or offset",
+            "Angular or offset",
+            "Parallel or Skew"
+          ],
+          answer: "Parallel or offset"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are parallel but not in same plane then this is known as parallel offset misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are not parallel but in same plane then this is known as parallel offset misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are parallel but not in same plane then this is known as",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel offset misalignment",
+            "None of the above"
+          ],
+          answer: "Parallel offset misalignment"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the un parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the _____ misalignment is the deviation from one datum axis to the other",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel offset misalignment",
+            "None of the above"
+          ],
+          answer: "Parallel offset misalignment"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Horizontal offset is characterized at side to side misalignment when looking from top of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Horizontal offset is characterized at side to side misalignment when looking from bottom of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "__________ is characterized at side to side misalignment when looking from top of the coupling",
+          options: [
+            "Horizontal offset",
+            "Vertical offset",
+            "Axial offset",
+            "All of the above"
+          ],
+          answer: "Horizontal offset"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Elastomeric type of coupling uses elastomeric medium to transmit torque. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Elastomeric coupling can be detreated due to oxidation of rubber/corrosive attacks. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Vertical offset is characterized as up and down misalignment when viewed from either side of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Vertical offset is characterized as up and down misalignment when viewed from both of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "_______ method is used to determine angular misalignment",
+          options: [
+            "Face gap",
+            "Face and rim indicator method",
+            "Straight edge method",
+            "Rough method"
+          ],
+          answer: "Face gap"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Cross laced metallic links are used in _______ type of coupling.",
+          options: ["Gear", "Flexible link", "Pin drive", "Flexible"],
+          answer: "Flexible link"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Pin drive coupling consists of _______ with leaf springs that engage directly into holes bored in shaft hubs.",
+          options: ["Metal pins", "Roller", "Gear Sprockets", "Disc"],
+          answer: "Metal pins"
+        },
+        {
+          subject: "Alignment",
+          question: "Couplings can be lubricated in four ways. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Single charge lubricated coupling are lubricated with _______.",
+          options: ["Grease", "Lub oil", "Preservative", "None"],
+          answer: "Grease"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Continuous feed lubricated couplings use _______ for both lubrication and heat transfer purpose.",
+          options: ["Lub oil", "Grease", "Preservative", "None"],
+          answer: "Lub oil"
+        },
+        {
+          subject: "Alignment",
+          question: "Parallel or offset misalignment are not same. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "__________ misalignment are same.",
+          options: [
+            "Parallel or Angular",
+            "Parallel or offset",
+            "Angular or offset",
+            "Parallel or Skew"
+          ],
+          answer: "Parallel or offset"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are parallel but not in same plane then this is known as parallel offset misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are not parallel but in same plane then this is known as parallel offset misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When two objects are parallel but not in same plane then this is known as",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel offset misalignment",
+            "None of the above"
+          ],
+          answer: "Parallel offset misalignment"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the un parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Magnitude of the _____ misalignment is the deviation from one datum axis to the other",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel offset misalignment",
+            "None of the above"
+          ],
+          answer: "Parallel offset misalignment"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Horizontal offset is characterized at side to side misalignment when looking from top of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Horizontal offset is characterized at side to side misalignment when looking from bottom of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "__________ is characterized at side to side misalignment when looking from top of the coupling",
+          options: [
+            "Horizontal offset",
+            "Vertical offset",
+            "Axial offset",
+            "All of the above"
+          ],
+          answer: "Horizontal offset"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Elastomeric type of coupling uses elastomeric medium to transmit torque. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Elastomeric coupling can be detreated due to oxidation of rubber/corrosive attacks. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Vertical offset is characterized as up and down misalignment when viewed from either side of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Vertical offset is characterized as up and down misalignment when viewed from both of the coupling. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "_______ method is used to determine angular misalignment",
+          options: [
+            "Face gap",
+            "Face and rim indicator method",
+            "Straight edge method",
+            "Rough method"
+          ],
+          answer: "Face gap"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Cross laced metallic links are used in _______ type of coupling.",
+          options: ["Gear", "Flexible link", "Pin drive", "Flexible"],
+          answer: "Flexible link"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Pin drive coupling consists of _______ with leaf springs that engage directly into holes bored in shaft hubs.",
+          options: ["Metal pins", "Roller", "Gear Sprockets", "Disc"],
+          answer: "Metal pins"
+        },
+        {
+          subject: "Alignment",
+          question: "Couplings can be lubricated in four ways. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Single charge lubricated coupling are lubricated with _______.",
+          options: ["Grease", "Lub oil", "Preservative", "None"],
+          answer: "Grease"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Continuous feed lubricated couplings use _______ for both lubrication and heat transfer purpose.",
+          options: ["Lub oil", "Grease", "Preservative", "None"],
+          answer: "Lub oil"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Coupling installation needs proper inspection of clearance, fits. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "_______ is characterized as up and down misalignment when viewed from either side of the coupling.",
+          options: ["Vertical offset", "Axial offset", "All of the above"],
+          answer: "Axial offset"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When the datum axis of two objects is neither parallel nor coaxial then this is known as angular misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When the datum axis of two objects is neither parallel nor coaxial then this is known as skew misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When the datum axis of two objects is neither parallel nor coaxial then this is known as _______ angular misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When the datum axis of two objects is neither parallel nor coaxial then this is known as",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel or offset misalignment",
+            "None of the above"
+          ],
+          answer: "Angular misalignment"
+        },
+        {
+          subject: "Alignment",
+          question: "When axial float is unmanageable _______ method is used.",
+          options: [
+            "Reverse indicator",
+            "Straight edge method",
+            "Face gap",
+            "Face and rim indicator method"
+          ],
+          answer: "Reverse indicator"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Skew misalignment is the combination of parallel offset and angular misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Angular misalignment is the combination of parallel offset and angular misalignment. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "_______ misalignment is the combination of parallel offset and angular misalignment.",
+          options: [
+            "Skew misalignment",
+            "Angular misalignment",
+            "Parallel offset misalignment",
+            "None of the above"
+          ],
+          answer: "Skew misalignment"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Excessive amount of quaze inside the coupling guard is an indication of misalignment (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "Normal amount of quaze inside the coupling guard is an indication of misalignment (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When the axial float in machinery is unmanageable the reverse indicator method should be used. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When the axial float in machinery is unmanageable the _____ method should be used",
+          options: [
+            "Direct Indicator",
+            "Reverse Indicator",
+            "Indirect Indicator",
+            "Reserve Indicator"
+          ],
+          answer: "Reverse Indicator"
+        },
+        {
+          subject: "Alignment",
+          question:
+            "When the radial float in machinery is unmanageable the reverse indicator method should be used. (T/F)",
+          options: ["True", "False"],
+          answer: "False"
+        },
+        {
+          subject: "Alignment",
+          question: "Straight edge method is _____ alignment method.",
+          options: ["Rough", "Direct", "Indirect", "Reverse"],
+          answer: "Rough"
+        },
+        {
+          subject: "Alignment",
+          question: "Straight edge method is a rough alignment method. (T/F)",
+          options: ["True", "False"],
+          answer: "True"
+        }
+      ];
+
+      const quizDiv = document.getElementById("quiz");
+
+      let subject = "";
+
+      let subjectDiv = "";
+      let questionsContainer = "";
+      questions.forEach((q, index) => {
+        if (subject !== q.subject) {
+          let displaying = false;
+          const maxHeight = "500px";
+          subject = q.subject;
+
+          subjectDiv = document.createElement("div");
+          subjectDiv.className = "subjectDiv";
+          subjectDiv.classList.add(`subjectDiv_1`);
+          quizDiv.appendChild(subjectDiv);
+
+          const subjectHeading = document.createElement("h3");
+          subjectHeading.className = "subjectHeading";
+          subjectHeading.innerHTML = `<u>${subject}</u>`;
+          subjectHeading.onclick = function () {
+            const myQcontainer = document.getElementById(
+              `questionsContainer_${index}`
+            );
+            const height = myQcontainer.style.offsetHeight;
+            const qContainers = document.querySelectorAll(
+              ".questionsContainer"
+            );
+            qContainers.forEach((qCont) => {
+              qCont.style.height = "0px";
+            });
+            if (displaying) {
+              myQcontainer.style.height = "0px";
+              displaying = false;
+            } else {
+              myQcontainer.style.height = maxHeight;
+              displaying = true;
+            }
+          };
+          subjectDiv.appendChild(subjectHeading);
+
+          questionsContainer = document.createElement("div");
+          questionsContainer.className = "questionsContainer";
+          questionsContainer.id = `questionsContainer_${index}`;
+          subjectDiv.appendChild(questionsContainer);
+        }
+
+        const qDiv = document.createElement("div");
+        qDiv.className = "question";
+        qDiv.innerHTML = `<p><b>Q${index + 1}:</b> ${q.question}</p>`;
+
+        const optionsDiv = document.createElement("div");
+        optionsDiv.className = "options";
+
+        q.options.forEach((opt) => {
+          const id = `q${index}_opt_${opt}`;
+          optionsDiv.innerHTML += `
+                  <label>
+                    <input type="radio" name="q${index}" value="${opt}" onclick="checkAnswer(${index}, '${opt}')"> ${opt}
+                  </label>
+                `;
+        });
+
+        const ansDiv = document.createElement("div");
+        ansDiv.id = `answer${index}`;
+        ansDiv.className = "answer";
+
+        questionsContainer.appendChild(qDiv);
+        questionsContainer.appendChild(optionsDiv);
+        questionsContainer.appendChild(ansDiv);
+      });
+
+      function checkAnswer(index, selected) {
+        const correct = questions[index].answer;
+        const ansDiv = document.getElementById(`answer${index}`);
+        if (selected === correct) {
+          ansDiv.textContent = "✅ Correct!";
+          ansDiv.style.color = "green";
+        } else {
+          ansDiv.textContent = `❌ Wrong! Correct answer: ${correct}`;
+          ansDiv.style.color = "red";
+        }
+      }
+    </script>
+  </body>
+</html>
