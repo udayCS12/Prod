@@ -80,8 +80,12 @@ let questions = [];
         const q = questions[index];
         if(q.selected){
               alert("Already answered!\n Go for next Question.");
-              const radio = document.querySelectorAll("input").filter(radio => radio.value === selected);
-              radio.checked = true;
+              const radio = document.querySelectorAll("input");
+              radio.forEach((radio) => {
+                   if(radio.value === selected){
+                        radio.checked = true;
+                   }
+              });
               return;
         }else{
             q.selected = selected;
