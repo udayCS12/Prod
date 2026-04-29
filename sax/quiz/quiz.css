@@ -1,0 +1,45 @@
+body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+
+      #tittle {
+        text-align: center;
+        text-decoration: underline;
+      }
+
+      #report {
+        text-align: center;
+        height: 20px;
+      }
+
+      #quiz {
+        margin: 20px;
+        padding: 12px 12px;
+        box-shadow:
+          5px 5px 5px orange,
+          -5px -5px 5px orange;
+        border-radius: 16px;
+      }
+
+      .question {
+        margin-bottom: 20px;
+        color: red;
+      }
+      .options label {
+        display: block;
+        margin: 5px 0;
+        color: rgb(19, 100, 129);
+      }
+      .answer {
+        font-weight: bold;
+        margin-top: 5px;
+      }
+      #nextBtn {
+        background-color: blue;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        padding: 10px 20px;
+        cursor: pointer;
+      }
