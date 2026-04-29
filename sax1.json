@@ -1,5 +1,4 @@
-      const questions = [
-        {
+      {
           question:
             "Who is responsible for Flag Officer Commanding in Chief administration and material management for the Navy?",
           options: ["CPRO", "MSO", "MS", "MO"],
@@ -2877,4 +2876,4 @@
           options: ["True", "False"],
           answer: "True"
         }
-      ];
+      ]
