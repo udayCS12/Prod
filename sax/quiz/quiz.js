@@ -77,37 +77,39 @@ let questions = [];
       }
 
       function checkAnswer(index, selected) {
-        const q = questions[index];
-        if(q.selected){
-              alert("Already answered!\nGo for next Question.");
-              const radio = document.querySelectorAll("input");
-              console.log(`selected ${selected}`);
-              radio.forEach((radio) => {
-                    console.log(`radioVal ${radio.value}`);
-                   if(radio.value === selected){
-                         console.log("checking");
-                        radio.checked = true;
-                         console.log("checked");
-                   }
-              });
-              return;
-        }else{
-            q.selected = selected;
-        }
-        const correct = q.answer;
-        const ansDiv = document.getElementById(`answer${index}`);
-        if (selected === correct) {
-          ansDiv.textContent = `✅ Correct! (Q:${index+1})`;
-          ansDiv.style.color = "green";
-          q.answered = "correct";
-          updateReport(true);
-        } else {
-          ansDiv.textContent = `❌ Wrong! Correct answer: ${correct} (Q:${index+1})`;
-          ansDiv.style.color = "red";
-          q.answered = "wrong";
-          updateReport(false);
-        }
-      }
+  const q = questions[index];
+
+  if (q.selected) {
+    alert("Already answered!\nGo for next Question.");
+
+    const radios = document.querySelectorAll(
+      `input[name="q${index}"]`
+    );
+
+    radios.forEach(radio => {
+      radio.checked = radio.value === q.selected;
+    });
+
+    return;
+  }
+
+  q.selected = selected;
+
+  const correct = q.answer;
+  const ansDiv = document.getElementById(`answer${index}`);
+
+  if (selected === correct) {
+    ansDiv.textContent = `✅ Correct! (Q:${index + 1})`;
+    ansDiv.style.color = "green";
+    q.answered = "correct";
+    updateReport(true);
+  } else {
+    ansDiv.textContent = `❌ Wrong! Correct answer: ${correct} (Q:${index + 1})`;
+    ansDiv.style.color = "red";
+    q.answered = "wrong";
+    updateReport(false);
+  }
+}
 
       function updateReport(ans) {
         const nCorrect = questions.filter(q=> q.answered === "correct").length;
