@@ -78,9 +78,13 @@ let questions = [];
 
       function checkAnswer(index, selected) {
         const q = questions[index];
-        if(q.answered){
+        if(q.selected){
               alert("Already answered!\n Go for next Question.");
+              const radio = document.querySelectorAll("input").filter(radio => radio.value === selected);
+              radio.checked = true;
               return;
+        }else{
+            q.selected = selected;
         }
         const correct = q.answer;
         const ansDiv = document.getElementById(`answer${index}`);
@@ -88,6 +92,7 @@ let questions = [];
           ansDiv.textContent = `✅ Correct! (Q:${index+1})`;
           ansDiv.style.color = "green";
           q.answered = "correct";
+              q.selected =  
           updateReport(true);
         } else {
           ansDiv.textContent = `❌ Wrong! Correct answer: ${correct} (Q:${index+1})`;
