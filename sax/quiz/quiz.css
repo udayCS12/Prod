@@ -16,9 +16,7 @@ body {
       #quiz {
         margin: 20px;
         padding: 12px 12px;
-        box-shadow:
-          5px 5px 12px orange,
-          -5px -5px 12px orange;
+        box-shadow: 0 0 10px orange, 0 0 20px orange;
         border-radius: 16px;
       }
 
