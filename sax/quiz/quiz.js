@@ -5,7 +5,7 @@ let questions = [];
       let right = 0;
       let wrong = 0;
       let temporaryRight = 0;
-      console.log("1");
+      console.log(2);
       fetchQuestions()
       async function fetchQuestions(){
         questions = await fetchData();
