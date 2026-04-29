@@ -1,0 +1,32 @@
+body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+
+      .questionsContainer {
+        height: 0px;
+        overflow: auto;
+      }
+      .questionsContainer::-webkit-scrollbar {
+        display: none;
+      }
+      .question {
+        margin-bottom: 20px;
+        color: red;
+      }
+      .options label {
+        display: block;
+        margin: 5px 0;
+        color: rgb(19, 100, 129);
+      }
+      .answer {
+        font-weight: bold;
+        margin-top: 5px;
+      }
+      .subjectHeading {
+        color: rgb(147, 171, 16);
+      }
+      h2 {
+        text-align: center;
+        text-decoration: underline;
+      }
