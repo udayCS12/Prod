@@ -13,15 +13,31 @@ body {
 #heading{
   display: inline-block;
   margin-right: 10px;
+  text-align: center;
+  text-decoration: underline;
 }
 
 #wingSl, #doneBtn{
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-        padding: 5px 10px;
-        border:none;
-        border-radius: 12px;
+  padding: 5px 10px;
+  border-radius: 12px;
+}
+
+#quiz{
+  overflow: auto;
+}
+#quiz::-webkit-scrollbar {
+  display: none;
+}
+
+.subjectDiv{
+  margin-bottom: 10px;
+}
+
+.subjectHeading {
+  color: rgb(147, 171, 16);
 }
 
 .questionsContainer {
@@ -31,11 +47,9 @@ body {
 .questionsContainer::-webkit-scrollbar {
   display: none;
 }
-.subjectDiv{
-  margin-bottom: 10px;
-}
+
 .question {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   color: red;
 }
 .options label {
@@ -46,11 +60,4 @@ body {
 .answer {
   font-weight: bold;
   margin-top: 5px;
-}
-.subjectHeading {
-  color: rgb(147, 171, 16);
-}
-h2 {
-  text-align: center;
-  text-decoration: underline;
 }
