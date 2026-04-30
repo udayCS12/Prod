@@ -9,14 +9,14 @@ body {
   margin: 20px;
   overflow:hidden;
 }
-/*
+
 #topFixed{
-  position: relative;
+  position: fixed;
   top: 5px;
-}*/
+  background-color: white;
+}
 
 #quizTittle{
-  margin-right: 10px;
   text-align: center;
   text-decoration: underline;
 }
@@ -30,9 +30,8 @@ body {
 }
 
 #quiz{
-  overflow: auto;
+  /*overflow: auto;*/
   padding-bottom: 20px;
-  border:2px solid red;
 }
 #quiz::-webkit-scrollbar {
   display: none;
