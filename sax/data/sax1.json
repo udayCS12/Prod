@@ -2784,134 +2784,221 @@
     "answer": "True"
   },
   {
-    "subject": "Alignement",
-    "question": "A _____ machine is the machine that will be manipulated during the alignment process.",
-    "options": ["Rigid", "Fixed", "Movable", "All of the above"],
-    "answer": "Movable"
-  },
+  "subject": "Alignment",
+  "question": "The feet of machine away from machine are called near feet or front feet. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "The feet of machine away from machine are called _______ feet.",
+  "options": ["Near feet or front feet","Near feet or rear feet","Rear feet or front feet","Rear feet or away feet"],
+  "answer": "Rear feet or away feet"
+},
+{
+  "subject": "Alignment",
+  "question": "Nearly 50% of all machine breakdown are caused by misalignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Machines driven at higher speed and placed under higher load are more vulnerable to consequences of misalignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Machines driven at lower speed and placed under lighter load are more vulnerable to consequences of misalignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "Alignment is the process of positioning two or more machines that are coupled so that center line of rotating shafts form a single line. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "_______ is the process of positioning two or more machines that are coupled so that center line of rotating shafts form a single line.",
+  "options": ["Alignment","Misalignment","Both A & B","None of the above"],
+  "answer": "Alignment"
+},
+{
+  "subject": "Alignment",
+  "question": "Misalignment is the process of positioning two or more machines that are coupled so that center line of rotating shafts form a single line. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "Misalignment is the deviation of the relative shaft position from collinear axis of rotation when the equipment is running at normal operating condition. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Alignment is the deviation of the relative shaft position from collinear axis of rotation when the equipment is running at normal operating condition. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "_______ is the deviation of the relative shaft position from collinear axis of rotation when the equipment is running at normal operating condition.",
+  "options": ["Alignment","Misalignment","Both A & B","None of the above"],
+  "answer": "Misalignment"
+},
+{
+  "subject": "Alignment",
+  "question": "Excessive vibration is the consequences of poor shaft alignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Seal leakage is the consequences of poor shaft alignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Bearing overheating is the consequences of poor shaft alignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Coupling wear down is the consequences of poor shaft alignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Increased power consumption is the consequences of poor shaft alignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Material fatigue is the consequences of poor shaft alignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Premature seal failure is the consequences of poor shaft alignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Misalignment has no effect break the lubrication film inside the bearing. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
   {
-    "subject": "Alignement",
-    "question": "A Movable machine is the machine that will be manipulated during the alignment process. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "What is the offset of the TIR is _______",
-    "options": ["0.005\"", "0.010\"", "0.015\"", "0.020\""],
-    "answer": "0.015\""
-  },
-  {
-    "subject": "Alignement",
-    "question": "The offset of the TIR is 0.015\". (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "TIR in alignment stands for _________",
-    "options": [
-      "Total Direct Indicator Reading",
-      "Transferred Dial Indication Reading",
-      "Total Dial Indicator Review",
-      "Total Dial Indicator Reading"
-    ],
-    "answer": "Total Dial Indicator Reading"
-  },
-  {
-    "subject": "Alignement",
-    "question": "Radial and ______ are the two main type of alignments.",
-    "options": ["Vertical", "Axial", "Horizontal", "All of the above"],
-    "answer": "Axial"
-  },
-  {
-    "subject": "Alignement",
-    "question": "______ and ______ are the two main type of alignments.",
-    "options": [
-      "Radial and Vertical",
-      "Radial and Horizontal",
-      "Radial and axial",
-      "None of the above"
-    ],
-    "answer": "Radial and axial"
-  },
-  {
-    "subject": "Alignement",
-    "question": "A machine should be kept misaligned in cold alignment according to hot alignment values. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "A machine should not be kept misaligned in cold alignment according to hot alignment values. (T/F)",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "subject": "Alignement",
-    "question": "Hot alignment values are given by machine manufactures. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "If the hot alignment values are not given by machine manufactures then machine should be aligned in cold condition and then made to run up to normal operating condition and then stop abruptly and take the misalignment reading within 5–10 mins. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "Movable machine is one which is easy to move for shimming and correction of misalignment. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "______ machine is one which is easy to move for shimming and correction of misalignment.",
-    "options": ["Rigid", "Fixed", "Movable", "All of the above"],
-    "answer": "Movable"
-  },
-  {
-    "subject": "Alignement",
-    "question": "In Pump and motor, Pump will be fix machine and motor will moveable machine in most of cases. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "In pump and motor alignment pump is kept fixed because it is connected to piping. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "The feet of machine near to coupling is called Near feet or front feet. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "subject": "Alignement",
-    "question": "The feet of machine near to coupling is called rear feet or away feet. (T/F)",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "subject": "Alignement",
-    "question": "The feet of machine near to coupling is called ______ feet",
-    "options": [
-      "Near feet or front feet",
-      "Near feet or rear feet",
-      "Rear feet or front feet",
-      "Rear feet or away feet"
-    ],
-    "answer": "Near feet or front feet"
-  },
-  {
-    "subject": "Alignement",
-    "question": "The feet of machine away from machine are called rear feet or away feet. (T/F)",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
+  "subject": "Alignment",
+  "question": "__________ break the lubrication film inside the bearing",
+  "options": ["Alignment","Misalignment","Both A & B","None of the above"],
+  "answer": "Misalignment"
+},
+{
+  "subject": "Alignment",
+  "question": "Parallel or offset misalignment are same. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Parallel or offset misalignment are not same. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "__________ misalignment are same.",
+  "options": ["Parallel or Angular","Parallel or offset","Angular or offset","Parallel or Skew"],
+  "answer": "Parallel or offset"
+},
+{
+  "subject": "Alignment",
+  "question": "When two objects are parallel but not in same plane then this is known as parallel offset misalignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "When two objects are not parallel but in same plane then this is known as parallel offset misalignment. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "When two objects are parallel but not in same plane then this is known as",
+  "options": ["Skew misalignment","Angular misalignment","Parallel offset misalignment","None of the above"],
+  "answer": "Parallel offset misalignment"
+},
+{
+  "subject": "Alignment",
+  "question": "Magnitude of the parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Magnitude of the un parallel misalignment is the deviation from one datum axis to the other. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "Magnitude of the _____ misalignment is the deviation from one datum axis to the other",
+  "options": ["Skew misalignment","Angular misalignment","Parallel offset misalignment","None of the above"],
+  "answer": "Parallel offset misalignment"
+},
+{
+  "subject": "Alignment",
+  "question": "Horizontal offset is characterized at side to side misalignment when looking from top of the coupling. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Horizontal offset is characterized at side to side misalignment when looking from bottom of the coupling. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
+{
+  "subject": "Alignment",
+  "question": "__________ is characterized at side to side misalignment when looking from top of the coupling",
+  "options": ["Horizontal offset","Vertical offset","Axial offset","All of the above"],
+  "answer": "Horizontal offset"
+},
+{
+  "subject": "Alignment",
+  "question": "Elastomeric type of coupling uses elastomeric medium to transmit torque. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Elastomeric coupling can be detreated due to oxidation of rubber/corrosive attacks. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Vertical offset is characterized as up and down misalignment when viewed from either side of the coupling. (T/F)",
+  "options": ["True","False"],
+  "answer": "True"
+},
+{
+  "subject": "Alignment",
+  "question": "Vertical offset is characterized as up and down misalignment when viewed from both of the coupling. (T/F)",
+  "options": ["True","False"],
+  "answer": "False"
+},
   {
     "subject": "Alignement",
     "question": "_______ method is used to determine angular misalignment",
