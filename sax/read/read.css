@@ -10,8 +10,6 @@ body {
 }
 
 #topFixed{
-  position: fixed;
-  top: 5px;
   display: flex;
   justify-content: center;
   background-color: white;
@@ -23,15 +21,13 @@ body {
 }
 
 #wingSl, #doneBtn{
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
   padding: 5px 10px;
   border-radius: 12px;
 }
 
 #quiz{
-  /*overflow: auto;*/
+  overflow: auto;
+  height: calc(100% - 60px);
   padding-bottom: 20px;
   margin-top: 70px;
 }
