@@ -1,7 +1,7 @@
 const quizDiv = document.getElementById("quiz");
 
 document.getElementById("doneBtn").onclick = async function(){
-      qDiv.innerHTML = "";
+      quizDiv.innerHTML = "";
       const wing = document.getElementById("wingSl").value;
       let fileName;
       if(wing === "sax"){
