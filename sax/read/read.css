@@ -31,9 +31,10 @@ body {
 
 #quiz{
   overflow: auto;
-  height: calc(100% - 60px);
+  height: 600px;
   padding-bottom: 20px;
   margin-top: 10px;
+  border: 1px solid red;
 }
 /*
 #quiz::-webkit-scrollbar {
