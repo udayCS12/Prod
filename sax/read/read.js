@@ -46,10 +46,10 @@ function renderQuestions() {
           qCont.style.height = "0px";
         });
         if (displaying) {
-          myQcontainer.style.height = "0px";
+          myQcontainer.style.display = "none";
           displaying = false;
         } else {
-          myQcontainer.style.height = maxHeight;
+          myQcontainer.style.display = "block";
           displaying = true;
         }
       };
