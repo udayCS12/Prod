@@ -87,7 +87,7 @@ function renderQuestions() {
   });
 }
 
-function checkAnswer(questions,index, selected) {
+function checkAnswer(index, selected) {
   const correct = questions[index].answer;
   const ansDiv = document.getElementById(`answer${index}`);
   if (selected === correct) {
