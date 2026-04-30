@@ -65,7 +65,8 @@ function renderQuestions() {
       questionsContainer.id = `questionsContainer_${index}`;
       subjectDiv.appendChild(questionsContainer);
     }
-
+      const qContainer = getEachQ(q,index);
+        /*
     const qDiv = document.createElement("div");
     qDiv.className = "question";
     qDiv.innerHTML = `<p><b>Q${index + 1}:</b> ${q.question}</p>`;
@@ -88,7 +89,8 @@ function renderQuestions() {
 
     questionsContainer.appendChild(qDiv);
     questionsContainer.appendChild(optionsDiv);
-    questionsContainer.appendChild(ansDiv);
+    questionsContainer.appendChild(ansDiv);*/
+        questionsContainer.appendChild(qContainer);
   });
 }
 
@@ -110,11 +112,32 @@ async function fetchData(fileName) {
   return data;
 }
 
-/*
-let questions = [];
-fetchQuestions();
-async function fetchQuestions() {
-  questions = await fetchData();
-  start();
+function getEachQ(q,index){
+      const qContainer = document.createElement('div');
+
+  const qDiv = document.createElement("div");
+  qDiv.className = "question";
+  qDiv.innerHTML = `<p><b>Q${index + 1}:</b> ${q.question}</p>`;
+
+  const optionsDiv = document.createElement("div");
+  optionsDiv.className = "options";
+
+    q.options.forEach((opt) => {
+      const id = `q${index}_opt_${opt}`;
+      optionsDiv.innerHTML += `
+                    <label>
+                      <input type="radio" name="q${index}" value="${opt}" onclick="checkAnswer(${index}, '${opt}')"> ${opt}
+                    </label>
+                  `;
+    });
+
+    const ansDiv = document.createElement("div");
+    ansDiv.id = `answer${index}`;
+    ansDiv.className = "answer";
+
+      qContainer.appendChild(qDiv);
+      qContainer.appendChild(optionsDiv);
+      qContainer.appendChild(ansDiv);
+
+      return qContainer;
 }
-*/
