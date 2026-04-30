@@ -27,6 +27,7 @@ body {
 
 #quiz{
   overflow: auto;
+  padding-bottom: 20px;
 }
 #quiz::-webkit-scrollbar {
   display: none;
@@ -43,6 +44,7 @@ body {
 .questionsContainer {
   height: 0px;
   overflow: auto;
+  padding: 20px;
 }
 .questionsContainer::-webkit-scrollbar {
   display: none;
