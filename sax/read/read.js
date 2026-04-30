@@ -1,9 +1,12 @@
 const quizDiv = document.getElementById("quiz");
 const wingSl = document.getElementById("wingSl");
+const loadingSpan = document.getElementById("loadingSpan");
+
 let questions=[];
 
 wingSl.onchange = async function(){
       quizDiv.innerHTML = "";
+      loadingSpan.textContent = "Loading...";
       const wing = wingSl.value;
       let fileName;
       if(wing === "sax"){
@@ -14,6 +17,7 @@ wingSl.onchange = async function(){
       if(fileName){
             questions = await fetchData(fileName);
             renderQuestions();
+            loadingSpan.textContent = "";
       }
 }
 
