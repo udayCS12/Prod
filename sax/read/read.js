@@ -1,4 +1,5 @@
 const quizDiv = document.getElementById("quiz");
+let questions=[];
 
 document.getElementById("doneBtn").onclick = async function(){
       quizDiv.innerHTML = "";
@@ -10,13 +11,13 @@ document.getElementById("doneBtn").onclick = async function(){
             fileName = "gtw";
       }
       if(fileName){
-            const questions = await fetchData(fileName);
-            renderQuestions(questions);
+            questions = await fetchData(fileName);
+            renderQuestions();
       }
 }
 
 
-function renderQuestions(questions) {
+function renderQuestions() {
   let subject = "";
   let subjectDiv = "";
   let questionsContainer = "";
@@ -86,7 +87,7 @@ function renderQuestions(questions) {
   });
 }
 
-function checkAnswer(index, selected) {
+function checkAnswer(questions,index, selected) {
   const correct = questions[index].answer;
   const ansDiv = document.getElementById(`answer${index}`);
   if (selected === correct) {
