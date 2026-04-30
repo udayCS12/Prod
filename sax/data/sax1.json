@@ -3438,5 +3438,1616 @@
     "question": "In a water jet propulsion steering assembly is rotated sideways with the use of Hydraulic cylinder. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
+  },
+  {
+    "question": "Expand GRP_________",
+    "options": [
+      "General Fibre Reinforced Plastics",
+      "Glass Fibre Reinforced Plastics",
+      "Glass Fibre Redmade Plastics",
+      "Glass Fixed Reinforced Plastics"
+    ],
+    "answer": "Glass Fibre Reinforced Plastics",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP, glass fiber is the reinforcement.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP, the plastic that surrounds glass fiber is called Matrix.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP, no chemical reaction takes place between glass fiber and Matrix.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP, Chemical reaction takes place between glass fiber and Matrix.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP fiber glass filament diameter is less than 15 Micron.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP fiber glass filament diameter is more than 15 Micron.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "GRP"
+  },
+  {
+    "question": "Most commonly used glass in GRP is 'E' Glass.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP, ______ are solid particles added to reduce the cost.",
+    "options": [
+      "Fillers",
+      "Matrix",
+      "Both A & B",
+      "None"
+    ],
+    "answer": "Fillers",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP, Fillers are solid particles added to reduce the cost.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "GRP"
+  },
+  {
+    "question": "In GRP, the dark colours are more susceptible to fading by sunlight than light colours.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "GRP"
+  },
+  {
+    "question": "________ is the deterioration of the material due to interaction with its environment.",
+    "options": [
+      "Cavitation",
+      "Oxidation",
+      "Corrosion",
+      "Crevice corrosion"
+    ],
+    "answer": "Corrosion",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Corrosion, in an electrochemical cell, occurs at anode.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Corrosion is extraction metallurgy in reverse.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "The type of corrosion in which all exposed areas are attacked at more or less the same rate is called ________.",
+    "options": [
+      "Cavitation",
+      "Uniform Corrosion",
+      "Oxidation",
+      "Pitting"
+    ],
+    "answer": "Uniform Corrosion",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "The corrosion that takes place when crevice is formed between two surface is called ________.",
+    "options": [
+      "Oxidation",
+      "Fatigue",
+      "Corrosion",
+      "Crevice corrosion"
+    ],
+    "answer": "Crevice corrosion",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "ICCP w.r.t corrosion stands for ________.",
+    "options": [
+      "Impressed cathodic current protection",
+      "Impressed cable cathodic protection",
+      "Impressed current cable protection",
+      "Impressed current cathodic protection"
+    ],
+    "answer": "Impressed current cathodic protection",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "During corrosion process, the direction of corrosion current within the electrolyte is from Anode to the Cathode.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Non-metal such as plastics ceramic rubber etc. also corrodes.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Metals corrode because of their thermodynamic instability in a particular environment.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Presence of an electrolyte is one of the basic requirement necessary for bimetallic corrosion to take place.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Bimetallic corrosion may take place even when there is no difference in potential between the two metals.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "ICCP has very less installation cost than sacrificial anode.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Less number of anodes are required in ICCP arrangement.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "The process in which the metal reacts with the aggressive surrounding environment forming oxides and sulphides is known as ________.",
+    "options": [
+      "Oxidation",
+      "Fatigue",
+      "Corrosion",
+      "Crevice corrosion"
+    ],
+    "answer": "Oxidation",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Corrosion always occurs at cathode.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "________ is a type of corrosion in which all the exposed area are attacked at more or less the same rate.",
+    "options": [
+      "Cavitation",
+      "Uniform Corrosion",
+      "Oxidation",
+      "Pitting"
+    ],
+    "answer": "Uniform Corrosion",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Pitting and crevice corrosion are type of localised corrosion.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "The corrosion in which the corrosion may occur at grain boundary is known as ________.",
+    "options": [
+      "Surface granular corrosion",
+      "Inter granular corrosion",
+      "Outer granular corrosion",
+      "Medium granular corrosion"
+    ],
+    "answer": "Inter granular corrosion",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "________ is caused by the formation and collapse of bubbles in sea water at the metal surface.",
+    "options": [
+      "Cavitation",
+      "Oxidation",
+      "Corrosion",
+      "Crevice corrosion"
+    ],
+    "answer": "Cavitation",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Stress corrosion cracking may occur at a stress well below the yield point of an alloy.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "________ is the tendency for a metal or alloy to fracture under condition of repeated cyclic stress at load below the ultimate tensile strength of the material.",
+    "options": [
+      "Oxidation",
+      "Fatigue",
+      "Corrosion",
+      "Crevice corrosion"
+    ],
+    "answer": "Fatigue",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "During corrosion process the direction of corrosion current within the electrolyte is from local cell cathode to local cell anode.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Impressed current cathodic protection is a method of cathodic protection.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "________ involves the supply of electron from an external source to the metal to be protected.",
+    "options": [
+      "Impressed cathodic current protection",
+      "Impressed cable cathodic protection",
+      "Impressed current cable protection",
+      "Impressed current cathodic protection"
+    ],
+    "answer": "Impressed current cathodic protection",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "In impressed current cathodic protection ________ current is used.",
+    "options": [
+      "Alternate Current",
+      "Direct current"
+    ],
+    "answer": "Direct current",
+    "subject": "Corrosion, Sacrificial Anode, ICCP"
+  },
+  {
+    "question": "Hull survey is the method of obtaining the correct status of hull structure and fittings.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Design deficiencies can be identified by hull survey.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Duration of refit / dry docking can be planned based on reports of hull survey.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Survey of underwater hull includes the area 0.5 mtr above the highest waterline.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "There are two types of hull survey carried out by dockyard.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "There are ______ types of hull survey carried out by dockyard.",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "There are three types of hull survey carried out by dockyard.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Hull survey are carried out by ship staff.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Hull survey are carried out by ________.",
+    "options": [
+      "HQ",
+      "Dockyard",
+      "SS",
+      "None"
+    ],
+    "answer": "Dockyard",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Hull survey are carried out by dockyard.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Shallow pit is one whose depth is up to ______ % to the original thickness of structure.",
+    "options": [
+      "05%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "answer": "10%",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Shallow pit is one whose depth is up to 15 % to the original thickness of structure.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Medium pit is one whose depth is up to ______ % to the original thickness of structure.",
+    "options": [
+      "05%",
+      "10%",
+      "20%",
+      "30%"
+    ],
+    "answer": "20%",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Deep pit is one whose depth is more than ______ % to the original thickness of structure.",
+    "options": [
+      "05%",
+      "10%",
+      "20%",
+      "25%"
+    ],
+    "answer": "20%",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Areas containing deep pits whose depth is more than ______ of original thickness are to be renewed.",
+    "options": [
+      "10%",
+      "20%",
+      "30%",
+      "40%"
+    ],
+    "answer": "40%",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "The survey of underwater hull shall always deem to include the area ______ meter above the highest waterline.",
+    "options": [
+      "0.5"
+    ],
+    "answer": "0.5",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "For hull survey, fuel tank are need not to be clear and clean.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "For hull survey, fuel tank are need to be clear and clean.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Hull survey are carried out by ________.",
+    "options": [
+      "HQ",
+      "Dockyard",
+      "SS",
+      "None"
+    ],
+    "answer": "Dockyard",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Two types of hull survey are Visual & Ultrasonic.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Responsibility for preparation of area for hull survey lies with ship staff.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "Responsibility for preparation of area for hull survey lies with dockyard.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Hull Survey"
+  },
+  {
+    "question": "For the preservation of metals and woodwork paint is used as protective coating onboard ships.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Paint is mixture of ingredients called pigments, binders, solvents and dries.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The closed circuit process in which the grit is reclaimed and reused immediately after the dust and debris is removed by vacuum blasting.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Water jet at high from 6000–20000 psi is used for removal of salt, dirt, grease and paint coatings.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Water jet at high from ______ psi is used for removal of salt, dirt, grease and paint coatings.",
+    "options": [
+      "6800–28000",
+      "6800–22000",
+      "6000–20000",
+      "7000–20000"
+    ],
+    "answer": "6000–20000",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The most quick and efficient method of painting large surfaces specially covered with electrical cables, pipes and fittings is spray painting.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The detergent solution used in navy is Labeled which is proprietary product of M/S Glaxo India Ltd.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The paint scheme is mentioned in Navy order 53/16.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The paint scheme is mentioned in Navy order ________.",
+    "options": [
+      "53/16",
+      "53/18"
+    ],
+    "answer": "53/16",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Under coats of paint is also known as ______ coat.",
+    "options": [
+      "Foundation",
+      "Mat",
+      "Tie",
+      "All"
+    ],
+    "answer": "Tie",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The primer coat is designed to provide basic protection.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "In painting application, primer is supposed to be or sprayed on the surface.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Siliceous grits produces dust and health hazard.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The properties of primer include its ability to prevent or delay the onset of corrosion.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The surface to be painted must be completely free from rust, loose paint, dirt etc. before painting.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "PVC coatings are generally used on board ships as protective coatings of metal work.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Paint enhances appearance of ships.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "EROP, w.r.t. to deck covering stands for epoxy red oxide primer.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Deck covering are laid onboard mainly for the reasons of aesthetics, foot comfort etc.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Wearing down of deck is prevented by deck coverings.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "______ are provided for protection against electric shock in all components where frequent maintenance of live electrical equipment is required.",
+    "options": [
+      "Plastic Sheets",
+      "Metallic Sheets",
+      "Rubber Mats",
+      "Asbestos Cloth"
+    ],
+    "answer": "Rubber Mats",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Cork neoprene underlay is used on board ship.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Deck covering are used for maintenance of temperature above the deck.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Deck covering prevents the deck from the corrosion.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Deck covering prevents the deck from the rain.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Reinforced concrete is a type of deck covering.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "In steel deck, Zinc spray is used.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "In aluminium decks, surface preparation and removal of dirt and paint with ____________",
+    "options": [
+      "NES-756",
+      "NES-757",
+      "NES-759",
+      "NES-758"
+    ],
+    "answer": "NES-759",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "In aluminium decks, coating system epoxy paints is used.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "A barrier coating system of ____________ paint is applied on aluminium decks.",
+    "options": [
+      "Alkyline rubber paint",
+      "Floroscent rubber paint",
+      "Chlorinated rubber paint",
+      "All"
+    ],
+    "answer": "Chlorinated rubber paint",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "It is essential that thickness of the underlay is kept maximum.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The underlay is to be laid not less than ____ thick.",
+    "options": [
+      "2mm",
+      "4mm",
+      "5mm",
+      "6mm"
+    ],
+    "answer": "6mm",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The thickness of underlay not be greater than ______ in one operation.",
+    "options": [
+      "05 mm",
+      "08 mm",
+      "10 mm",
+      "12 mm"
+    ],
+    "answer": "10 mm",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Periodical testing of compartment is necessary to ensure that the compartments remains water tight.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "____________ is carried out to check the water tight integrity of compartment.",
+    "options": [
+      "Water Testing",
+      "Air Testing",
+      "Hydraulic Testing",
+      "None"
+    ],
+    "answer": "Water Testing",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "____________ is carried out to check the strength of the structure.",
+    "options": [
+      "Water Testing",
+      "Air Testing",
+      "Hydraulic Testing",
+      "None"
+    ],
+    "answer": "Water Testing",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "The water testing is declared satisfactory if the pressure is held without leakage for ____________ hrs.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": "12",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "All tanks and compartments except AVCAT/AVGAS tanks are tested with ____________",
+    "options": [
+      "Fresh Water",
+      "Salt Water",
+      "Distilled Water",
+      "All"
+    ],
+    "answer": "Salt Water",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "Feed water tanks are tested with paraffin.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "____________ tanks are tested with paraffin.",
+    "options": [
+      "Fresh water",
+      "Lub oil",
+      "AVCAT/AVGAS",
+      "Fuel"
+    ],
+    "answer": "AVCAT/AVGAS",
+    "subject": "Paint Application & Deck Covering"
+  },
+  {
+    "question": "_________ is done to ensure that fitting out works has not destroyed the water tight integrity of the compartment.",
+    "options": [
+      "Water Testing",
+      "Air Testing",
+      "Hydraulic Testing",
+      "None"
+    ],
+    "answer": "Air Testing",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Air testing is carried out after the fitment of machineries/ system etc and thereafter every __________ yrs.",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "A group of compartments where positive pressure is maintained is called as a Citadel.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "The air testing of citadel is carried out when the ship is built and subsequently every __________ yrs.",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "One",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Purpose of water testing is to maintain air tight integrity.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Purpose of water testing is to maintain water tight integrity.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "In water testing fill the compartment upto Bucket level.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "If water testing is satisfactory then pressure should not leak for minimum ______ hours.",
+    "options": [
+      "6",
+      "12",
+      "16",
+      "18"
+    ],
+    "answer": "12",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "If water testing is satisfactory then pressure should not leak for minimum 12 hours.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "If water testing is satisfactory then pressure should not leak for minimum 48 hours.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "In water testing large compartments are checked by looseness of _______ wire.",
+    "options": [
+      "Belt",
+      "Laser",
+      "Gear",
+      "Piano"
+    ],
+    "answer": "Piano",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "In water testing large compartments are checked by looseness of ring wire.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "In water testing large compartments are checked by looseness of piano wire.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Fresh water tanks are pressure tested with __________.",
+    "options": [
+      "Fresh Water",
+      "Salt Water",
+      "Distilled Water",
+      "All"
+    ],
+    "answer": "Fresh Water",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Fresh water tanks are pressure tested with sea water.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMI stands for _______",
+    "options": [
+      "Electro Mechanical Interface",
+      "Electro Mechanical Interference",
+      "Electro Magnetic Interference",
+      "Equated Monthly Installment"
+    ],
+    "answer": "Electro Magnetic Interference",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMI stands for Electro Mechanical Interference.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMI stands for Engine Monitoring Interference.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMC Stands for _______",
+    "options": [
+      "Electro Machenical Compensator",
+      "Electro Magnetic Compatibility",
+      "Electro Magnetic Compensator",
+      "Electro Magnetic Compensator"
+    ],
+    "answer": "Electro Magnetic Compatibility",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMC Stands for Electro Magnetic Compatibility.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMC Stands for Electro Magnetic Compensator.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMI may lead to a missile ditch onboard.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMI may lead to helicopter ditch.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "EMI may lead to auto shut down of propulsion plant.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Electro Magnetic Interference is a condition in which an electromagnetic emission produced an undesired response in a specified susceptible component.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Electro Magnetic Compatibility (EMC) is a condition in which an electromagnetic emission produced an undesired response in a specified susceptible component.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Any Electro Magnetic Energy radiated which interrupt the designed performance of the electric equipment is called EMI.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Any Electro Magnetic Energy radiated which interrupt the designed performance of the electric equipment is called EMC.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "Three essential elements of EMI are source, Coupling and victim.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "Testing of Compartment"
+  },
+  {
+    "question": "The MARPOL convention was rectified in 1973.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL 73/78 convention is framed convention which has _____ annexure.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "Annexure ___ of MARPOL convention contain construction of ship to minimise pollution.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "Annexure 1 of MARPOL convention came into force in 1983.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "___ of MARPOL convention comprises discharge regulation of noxious liquid substances.",
+    "options": [
+      "Annexure 1",
+      "Annexure 2",
+      "Annexure 3",
+      "Annexure 4"
+    ],
+    "answer": "Annexure 2",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "According to annexure 2 of MARPOL convention, discharges are not allowed closer to the shore than 25 nautical miles.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "Annexure 3 of MARPOL convention came into force in 1992.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "___ of MARPOL convention aims at prevention of pollution of harmful substances transported in packaged form.",
+    "options": [
+      "Annexure 1",
+      "Annexure 2",
+      "Annexure 3",
+      "Annexure 4"
+    ],
+    "answer": "Annexure 3",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "___ of MARPOL convention aims at preventing pollution by discharge of sewage from ship.",
+    "options": [
+      "Annexure 1",
+      "Annexure 2",
+      "Annexure 3",
+      "Annexure 4"
+    ],
+    "answer": "Annexure 4",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "___ of MARPOL convention comprises of regulation to prevent pollution by discharge of household solid waste.",
+    "options": [
+      "Annexure 1",
+      "Annexure 2",
+      "Annexure 3",
+      "Annexure 5"
+    ],
+    "answer": "Annexure 5",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "Annexure 5 of MARPOL convention came in force in 1988.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "___ of MARPOL convention comprises regulations to prevent air pollution.",
+    "options": [
+      "Annexure 1",
+      "Annexure 2",
+      "Annexure 3",
+      "Annexure 6"
+    ],
+    "answer": "Annexure 6",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "IMO is an international convention for prevention of pollution from ships.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL 73/78 is an international convention for prevention of pollution from ships.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL Convention was adopted on 02 Nov 1973 at IMO.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL Convention was adopted in the year _____ at IMO.",
+    "options": [
+      "1972",
+      "1973",
+      "1974",
+      "1975"
+    ],
+    "answer": "1973",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL Convention includes regulations aimed at preventing pollution from ships by routine operation and also include accidental pollution.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL Convention includes regulations aimed at preventing pollution from ships by routine operation and does not include accidental pollution.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL have six no of annexures.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL have five no of annexures.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "FALSE",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "MARPOL have ______ no of annexures.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6",
+    "subject": "MARPOL"
+  },
+  {
+    "question": "Expand term OWS –",
+    "options": [
+      "Outer Water Seperation",
+      "Oily Water Seperator",
+      "Oil Weapon & System",
+      "None"
+    ],
+    "answer": "Oily Water Seperator",
+    "subject": "OWS"
+  },
+  {
+    "question": "Clean water suitable for discharge is defined as that containing less than ______ PPM of oil.",
+    "options": [
+      "10 PPM",
+      "15 PPM",
+      "20 PPM",
+      "30 PPM"
+    ],
+    "answer": "15 PPM",
+    "subject": "OWS"
+  },
+  {
+    "question": "Clean water suitable for discharge is defined as that containing less than 15 PPM of oil.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "OWS"
+  },
+  {
+    "question": "The ______ filter removes physical impurities present and promotes some fine separation.",
+    "options": [
+      "First – Stage",
+      "Second – Stage"
+    ],
+    "answer": "First – Stage",
+    "subject": "OWS"
+  },
+  {
+    "question": "The ______ filter uses coalescer inserts to achieve the final de-oiling.",
+    "options": [
+      "First – Stage",
+      "Second – Stage"
+    ],
+    "answer": "Second – Stage",
+    "subject": "OWS"
+  },
+  {
+    "question": "The second-stage filter uses Coalescer inserts to achieve the final de-oiling.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "OWS"
+  },
+  {
+    "question": "Expand the term IMO",
+    "options": [
+      "Internal Maritime Organization",
+      "International Marino Organization",
+      "International Maritime Organization",
+      "International Maritime Origin"
+    ],
+    "answer": "International Maritime Organization",
+    "subject": "OWS"
+  },
+  {
+    "question": "MARPOL regulation was developed by IMO.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "OWS"
+  },
+  {
+    "question": "MARPOL regulation was adopted in ______ by IMO.",
+    "options": [
+      "1972",
+      "1973",
+      "1974",
+      "1976"
+    ],
+    "answer": "1973",
+    "subject": "OWS"
+  },
+  {
+    "question": "There are ______ annexes in MARPOL.",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "answer": "Seven",
+    "subject": "OWS"
+  },
+  {
+    "question": "What is the primary function of OWS system?",
+    "options": [
+      "To separate oil from water",
+      "To treat ballast water",
+      "Coalescing plate separator",
+      "All of the above"
+    ],
+    "answer": "To separate oil from water",
+    "subject": "OWS"
+  },
+  {
+    "question": "Which of the following is a type of OWS system?",
+    "options": [
+      "Gravity separator",
+      "Centrifugal Seperator",
+      "Coalescing plate separator",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "subject": "OWS"
+  },
+  {
+    "question": "Which of the following is the common problems in OWS system?",
+    "options": [
+      "Clogging",
+      "Emulsion",
+      "Malfunction",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "subject": "OWS"
+  },
+  {
+    "question": "What is the purpose of the alarm system in an OWS system?",
+    "options": [
+      "To alert operators of oil leaks",
+      "To signal system failure",
+      "To monitor oil content level",
+      "All of the above"
+    ],
+    "answer": "To monitor oil content level",
+    "subject": "OWS"
+  },
+  {
+    "question": "Which is of the following is a maintenance requirement for OWS system?",
+    "options": [
+      "Regular Cleaning",
+      "Periodic testing",
+      "Annual inspection",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "subject": "OWS"
+  },
+  {
+    "question": "Modes of operation of OWS system are Manual and Automatic.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "OWS"
+  },
+  {
+    "question": "The OWS system is regulated by MARPOL/IMO regulations to prevent pollution.",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE",
+    "subject": "OWS"
+  },
+  {
+    "question": "The OWS system is designed to achieve an effluent quality of _______ oil in water.",
+    "options": [
+      "More than 15 ppm",
+      "Less than 10 ppm",
+      "Less than 15 ppm",
+      "More than 10 ppm"
+    ],
+    "answer": "Less than 15 ppm",
+    "subject": "OWS"
   }
 ]
