@@ -1,9 +1,10 @@
 const quizDiv = document.getElementById("quiz");
+const wingSl = document.getElementById("wingSl");
 let questions=[];
 
-document.getElementById("doneBtn").onclick = async function(){
+wingSl.onchange = async function(){
       quizDiv.innerHTML = "";
-      const wing = document.getElementById("wingSl").value;
+      const wing = wingSl.value;
       let fileName;
       if(wing === "sax"){
             fileName = "sax1";
