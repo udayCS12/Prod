@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -10,26 +10,28 @@ body {
   overflow: hidden;
 }
 
-#topFixed{
+#topFixed {
   display: flex;
   justify-content: center;
+  align-items: center;
   background-color: white;
   width: 100%;
   padding: 10px;
 }
 
-#quizTittle{
+#quizTittle {
   text-align: center;
   text-decoration: underline;
   margin-right: 10px;
 }
 
-#wingSl, #doneBtn{
+#wingSl,
+#testBtn {
   padding: 5px 10px;
   border-radius: 12px;
 }
 
-#quiz{
+#quiz {
   overflow: auto;
   height: 600px;
   padding-bottom: 20px;
@@ -40,7 +42,7 @@ body {
   display: none;
 }*/
 
-.subjectDiv{
+.subjectDiv {
   margin-top: 10px;
 }
 
@@ -71,4 +73,44 @@ body {
 .answer {
   font-weight: bold;
   margin-top: 5px;
+}
+
+#testContainer {
+  position: relative;
+  margin: 20px;
+  padding: 12px 12px;
+  box-shadow:
+    6px 6px 6px orange,
+    -6px 6px 6px orange,
+    6px -6px 6px orange,
+    -6px -6px 6px orange;
+  border-radius: 16px;
+  padding-bottom: 40px;
+}
+
+#report {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#nextBtn,
+#testBtn {
+  margin-top: 15px;
+  margin-left: 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#nextBtn {
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+}
+#testBtn {
+  background-color: rgb(255, 89, 0);
+  color: white;
+  margin-top: 0px;
 }
