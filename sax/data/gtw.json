@@ -1,1033 +1,2992 @@
 [
   {
-    subject: "Gas Turbine Theory",
-    question: "Open cycle gas turbine is an ______ combustion engine",
-    options: ["External", "Internal", "Complete", "Incomplete"],
-    answer: "Internal"
+    "subject": "Gas Turbine Theory",
+    "question": "Open cycle gas turbine is an ______ combustion engine",
+    "options": [
+      "External",
+      "Internal",
+      "Complete",
+      "Incomplete"
+    ],
+    "answer": "Internal"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Closed cycle gas turbine is an ______ combustion engine",
-    options: ["External", "Internal", "Complete", "Incomplete"],
-    answer: "External"
+    "subject": "Gas Turbine Theory",
+    "question": "Closed cycle gas turbine is an ______ combustion engine",
+    "options": [
+      "External",
+      "Internal",
+      "Complete",
+      "Incomplete"
+    ],
+    "answer": "External"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The power output of a gas turbine is ______",
-    options: ["Intermittent", "Limited", "Continuous", "None of the above"],
-    answer: "Continuous"
+    "subject": "Gas Turbine Theory",
+    "question": "The power output of a gas turbine is ______",
+    "options": [
+      "Intermittent",
+      "Limited",
+      "Continuous",
+      "None of the above"
+    ],
+    "answer": "Continuous"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The function of the compressor is to ______ of the air",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The function of the compressor is to ______ of the air",
+    "options": [
       "Increase volume",
       "Increase mass flow",
       "Increase quantity",
       "Increase pressure"
     ],
-    answer: "Increase pressure"
+    "answer": "Increase pressure"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Gas turbine becomes ______ after starters are cut off",
-    options: ["Unstable", "Dependent", "Self-sustained", "Unsafe"],
-    answer: "Self-sustained"
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine becomes ______ after starters are cut off",
+    "options": [
+      "Unstable",
+      "Dependent",
+      "Self-sustained",
+      "Unsafe"
+    ],
+    "answer": "Self-sustained"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "______ are used to start the Gas Turbine from cold condition",
-    options: ["DC starter", "AC starter", "DC pump", "AC pump"],
-    answer: "DC starter"
+    "subject": "Gas Turbine Theory",
+    "question": "______ are used to start the Gas Turbine from cold condition",
+    "options": [
+      "DC starter",
+      "AC starter",
+      "DC pump",
+      "AC pump"
+    ],
+    "answer": "DC starter"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Single spool marine gas turbines means",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Single spool marine gas turbines means",
+    "options": [
       "One compressor one combustion chamber and one turbine",
       "One compressor one combustion chamber and one turbine with free power turbine",
       "One compressor one combustion chamber and two turbines",
       "All of these"
     ],
-    answer:
-      "One compressor one combustion chamber and one turbine with free power turbine"
+    "answer": "One compressor one combustion chamber and one turbine with free power turbine"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The possible combination of steam propulsion with GT propulsion are",
-    options: ["COSAG", "COGAG", "COSAG and COSOG both", "COGAG"],
-    answer: "COSAG and COSOG both"
+    "subject": "Gas Turbine Theory",
+    "question": "The possible combination of steam propulsion with GT propulsion are",
+    "options": [
+      "COSAG",
+      "COGAG",
+      "COSAG and COSOG both",
+      "COGAG"
+    ],
+    "answer": "COSAG and COSOG both"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The possible combination of GT propulsion with GT propulsion are",
-    options: ["COGAG", "COGOG", "COGAG and COGOG both", "COSAG"],
-    answer: "COGAG and COGOG both"
+    "subject": "Gas Turbine Theory",
+    "question": "The possible combination of GT propulsion with GT propulsion are",
+    "options": [
+      "COGAG",
+      "COGOG",
+      "COGAG and COGOG both",
+      "COSAG"
+    ],
+    "answer": "COGAG and COGOG both"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The new generation Gas Turbine LM 2500 is inducted in which class of ship",
-    options: ["Petya", "1241 RE", "Delhi", "Shivalik"],
-    answer: "Shivalik"
+    "subject": "Gas Turbine Theory",
+    "question": "The new generation Gas Turbine LM 2500 is inducted in which class of ship",
+    "options": [
+      "Petya",
+      "1241 RE",
+      "Delhi",
+      "Shivalik"
+    ],
+    "answer": "Shivalik"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
+    "options": [
       "Delhi class",
       "SNF class",
       "SNF class and SNF class",
       "Shivalik class"
     ],
-    answer: "Shivalik class"
+    "answer": "Shivalik class"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
-    options: ["Talwar class", "Delhi class", "1242 RE class", "Shivalik class"],
-    answer: "Talwar class"
+    "subject": "Gas Turbine Theory",
+    "question": "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
+    "options": [
+      "Talwar class",
+      "Delhi class",
+      "1242 RE class",
+      "Shivalik class"
+    ],
+    "answer": "Talwar class"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The heat addition process of a Gas Turbine occurs in the ______",
-    options: ["Combustion chamber", "Compressor", "Turbine", "Free turbine"],
-    answer: "Combustion chamber"
+    "subject": "Gas Turbine Theory",
+    "question": "The heat addition process of a Gas Turbine occurs in the ______",
+    "options": [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine",
+      "Free turbine"
+    ],
+    "answer": "Combustion chamber"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The work output of the Gas Turbine is obtained from the ______",
-    options: ["Combustion chamber", "Compressor", "Turbine"],
-    answer: "Turbine"
+    "subject": "Gas Turbine Theory",
+    "question": "The work output of the Gas Turbine is obtained from the ______",
+    "options": [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine"
+    ],
+    "answer": "Turbine"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The gas generating section consists of _____",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The gas generating section consists of _____",
+    "options": [
       "Combustion chamber",
       "Compressor",
       "Turbine",
       "All of the above"
     ],
-    answer: "All of the above"
+    "answer": "All of the above"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The power conversion section consists of _____",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The power conversion section consists of _____",
+    "options": [
       "Turbine",
       "Reduction gear",
       "Propeller shaft",
       "All of the above"
     ],
-    answer: "All of the above"
+    "answer": "All of the above"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "It is used as fuel in marine gas turbine used in Indian Navy.",
-    options: ["HFO", "Coal", "LSHSD", "LSHFO"],
-    answer: "LSHSD"
+    "subject": "Gas Turbine Theory",
+    "question": "It is used as fuel in marine gas turbine used in Indian Navy.",
+    "options": [
+      "HFO",
+      "Coal",
+      "LSHSD",
+      "LSHFO"
+    ],
+    "answer": "LSHSD"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The working fluid of gas turbine consists of _____",
-    options: ["Air", "Fuel", "Air and fuel", "None of the above"],
-    answer: "Air"
+    "subject": "Gas Turbine Theory",
+    "question": "The working fluid of gas turbine consists of _____",
+    "options": [
+      "Air",
+      "Fuel",
+      "Air and fuel",
+      "None of the above"
+    ],
+    "answer": "Air"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Gas turbine onboard Delhi class of ships _____",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine onboard Delhi class of ships _____",
+    "options": [
       "Have two P T",
       "Have two combustion chambers",
       "Have one P T",
       "None of the above"
     ],
-    answer: "Have two P T"
+    "answer": "Have two P T"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Gas turbine onboard 1241RE class of ships _____",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine onboard 1241RE class of ships _____",
+    "options": [
       "Have two P T",
       "Have two combustion chambers",
       "Have one P T",
       "None of the above"
     ],
-    answer: "Have two P T"
+    "answer": "Have two P T"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Gas turbine onboard Shivalik class of ships _____",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine onboard Shivalik class of ships _____",
+    "options": [
       "Have two P T",
       "Have two combustion chambers",
       "Have one P T",
       "None of the above"
     ],
-    answer: "None of the above"
+    "answer": "None of the above"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The Gas Turbine cycle is called _____",
-    options: ["Rankin", "Carnot", "Joule", "Brayton"],
-    answer: "Joule Brayton"
+    "subject": "Gas Turbine Theory",
+    "question": "The Gas Turbine cycle is called _____",
+    "options": [
+      "Rankin",
+      "Carnot",
+      "Joule",
+      "Brayton"
+    ],
+    "answer": "Joule Brayton"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Gas turbine can be divided into _____ generating section and power conversion section",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine can be divided into _____ generating section and power conversion section",
+    "options": [
       "Combustion chamber and turbine",
       "Compressor and turbine",
       "Combustion chamber and power turbine",
       "None of the above"
     ],
-    answer: "Combustion chamber and turbine"
+    "answer": "Combustion chamber and turbine"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Gas turbine can be classified into _____ according to spool arrangement",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine can be classified into _____ according to spool arrangement",
+    "options": [
       "Single spool and multi spool",
       "Open cycle and close cycle",
       "Constant pressure cycle and constant volume cycle",
       "All of these"
     ],
-    answer: "Single spool and multi spool"
+    "answer": "Single spool and multi spool"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Gas turbine can be classified into _____ according to flow path of working media",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine can be classified into _____ according to flow path of working media",
+    "options": [
       "Open cycle and closed cycle",
       "Single spool and multi spool",
       "Constant pressure cycle and constant volume cycle",
       "All of these"
     ],
-    answer: "Open cycle and closed cycle"
+    "answer": "Open cycle and closed cycle"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Air pressure required for the operation of air by pass valve during over speeding of power turbine is _____",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Air pressure required for the operation of air by pass valve during over speeding of power turbine is _____",
+    "options": [
       "10 to 12 kg/cm2",
       "12 to 14 kg/cm2",
       "14 to 16 kg/cm2",
       "16 to 18 kg/cm2"
     ],
-    answer: "14 to 16 kg/cm2"
+    "answer": "14 to 16 kg/cm2"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Reversing is achieved in SMP Ships by _____",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Reversing is achieved in SMP Ships by _____",
+    "options": [
       "Reversing Gear",
       "Controllable Pitch Propeller (CPP)",
       "Reversing and Reduction Gear both",
       "None of the above"
     ],
-    answer: "Controllable Pitch Propeller (CPP)"
+    "answer": "Controllable Pitch Propeller (CPP)"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Single spool marine gas turbines means",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Single spool marine gas turbines means",
+    "options": [
       "One compressor one combustion chamber and one turbine",
       "One compressor one combustion chamber and one turbine with free power turbine",
       "One compressor one combustion chamber and two turbines",
       "All of these"
     ],
-    answer:
-      "One compressor one combustion chamber and one turbine with free power turbine"
+    "answer": "One compressor one combustion chamber and one turbine with free power turbine"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The possible combination of steam propulsion with GT propulsion are",
-    options: ["COSAG", "COGOG", "COSAG and COSOG both", "COGAG"],
-    answer: "COSAG and COSOG both"
+    "subject": "Gas Turbine Theory",
+    "question": "The possible combination of steam propulsion with GT propulsion are",
+    "options": [
+      "COSAG",
+      "COGOG",
+      "COSAG and COSOG both",
+      "COGAG"
+    ],
+    "answer": "COSAG and COSOG both"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The possible combination of GT propulsion with GT propulsion are",
-    options: ["COGAG", "COGOG", "COGAG and COGOG both", "COSAG"],
-    answer: "COGAG and COGOG both"
+    "subject": "Gas Turbine Theory",
+    "question": "The possible combination of GT propulsion with GT propulsion are",
+    "options": [
+      "COGAG",
+      "COGOG",
+      "COGAG and COGOG both",
+      "COSAG"
+    ],
+    "answer": "COGAG and COGOG both"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The new generation Gas Turbine LM 2500 is inducted in which class of ship",
-    options: ["Petya", "1241 RE", "Delhi", "Shivalik"],
-    answer: "Shivalik"
+    "subject": "Gas Turbine Theory",
+    "question": "The new generation Gas Turbine LM 2500 is inducted in which class of ship",
+    "options": [
+      "Petya",
+      "1241 RE",
+      "Delhi",
+      "Shivalik"
+    ],
+    "answer": "Shivalik"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
+    "options": [
       "Delhi class",
       "SNF class",
       "Delhi class and SNF class",
       "Shivalik class"
     ],
-    answer: "Delhi class and SNF class"
+    "answer": "Delhi class and SNF class"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
-    options: ["Talwar class", "Delhi class", "1242 re class", "Shivalik class"],
-    answer: "Shivalik class"
+    "subject": "Gas Turbine Theory",
+    "question": "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
+    "options": [
+      "Talwar class",
+      "Delhi class",
+      "1242 re class",
+      "Shivalik class"
+    ],
+    "answer": "Shivalik class"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The heat addition process of a Gas Turbine occurs in the _______",
-    options: ["Combustion chamber", "Compressor", "Turbine", "Power turbine"],
-    answer: "Combustion chamber"
+    "subject": "Gas Turbine Theory",
+    "question": "The heat addition process of a Gas Turbine occurs in the _______",
+    "options": [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine",
+      "Power turbine"
+    ],
+    "answer": "Combustion chamber"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The Work Output of the Gas Turbine is obtained from the _______",
-    options: ["Combustion chamber", "Compressor", "Turbine"],
-    answer: "Turbine"
+    "subject": "Gas Turbine Theory",
+    "question": "The Work Output of the Gas Turbine is obtained from the _______",
+    "options": [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine"
+    ],
+    "answer": "Turbine"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The gas generating section consists of ______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The gas generating section consists of ______",
+    "options": [
       "Combustion chamber",
       "Compressor",
       "Turbine",
       "All of the above"
     ],
-    answer: "All of the above"
+    "answer": "All of the above"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The power conversion section consists of ______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The power conversion section consists of ______",
+    "options": [
       "Turbine",
       "Reduction gear",
       "Propeller shaft",
       "All of the above"
     ],
-    answer: "All of the above"
+    "answer": "All of the above"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "______ is used as fuel in marine gas turbine used in Indian Navy.",
-    options: ["FFO", "Coal", "LSHSFD", "AVCAT"],
-    answer: "LSHSFD"
+    "subject": "Gas Turbine Theory",
+    "question": "______ is used as fuel in marine gas turbine used in Indian Navy.",
+    "options": [
+      "FFO",
+      "Coal",
+      "LSHSFD",
+      "AVCAT"
+    ],
+    "answer": "LSHSFD"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The working fluid of the gas turbine consists of ______",
-    options: ["Air", "Fuel", "Air and fuel", "Feed water"],
-    answer: "Air and fuel"
+    "subject": "Gas Turbine Theory",
+    "question": "The working fluid of the gas turbine consists of ______",
+    "options": [
+      "Air",
+      "Fuel",
+      "Air and fuel",
+      "Feed water"
+    ],
+    "answer": "Air and fuel"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The gas turbine onboard Delhi class of ships ______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The gas turbine onboard Delhi class of ships ______",
+    "options": [
       "Have a PT",
       "Do not have a PT",
       "Have two combustion chambers",
       "None of the above"
     ],
-    answer: "Have a PT"
+    "answer": "Have a PT"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The Gas Turbine onboard 1241RE class of ships ______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The Gas Turbine onboard 1241RE class of ships ______",
+    "options": [
       "Have a PT",
       "Do not have a PT",
       "Have two combustion chambers",
       "None of the above"
     ],
-    answer: "Have a PT"
+    "answer": "Have a PT"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The Gas Turbine onboard Shivalik class of ships ______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The Gas Turbine onboard Shivalik class of ships ______",
+    "options": [
       "Have a PT",
       "Do not have a PT",
       "Have two combustion chambers",
       "None of the above"
     ],
-    answer: "Have a PT"
+    "answer": "Have a PT"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The Gas Turbine cycle is called _______",
-    options: ["Rankine", "Brayton", "Joule", "Joule Brayton"],
-    answer: "Joule Brayton"
+    "subject": "Gas Turbine Theory",
+    "question": "The Gas Turbine cycle is called _______",
+    "options": [
+      "Rankine",
+      "Brayton",
+      "Joule",
+      "Joule Brayton"
+    ],
+    "answer": "Joule Brayton"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Gas turbine can be divided into _______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine can be divided into _______",
+    "options": [
       "Gas generating section and power conversion section",
       "Combustion chamber and turbine",
       "Compressor and turbine",
       "Combustion chamber and power turbine"
     ],
-    answer: "Gas generating section and power conversion section"
+    "answer": "Gas generating section and power conversion section"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Gas turbine can be classified into _______ according to spool arrangement",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine can be classified into _______ according to spool arrangement",
+    "options": [
       "Single spool and multi spool",
       "Open cycle and close cycle",
       "Constant pressure cycle and constant volume cycle",
       "All of these"
     ],
-    answer: "Single spool and multi spool"
+    "answer": "Single spool and multi spool"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Gas Turbine can be classified into _______ according to flow path of working media",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas Turbine can be classified into _______ according to flow path of working media",
+    "options": [
       "Single spool and multi spool",
       "Open cycle and close cycle",
       "Constant pressure cycle and constant volume cycle",
       "All of these"
     ],
-    answer: "Open cycle and close cycle"
+    "answer": "Open cycle and close cycle"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Air pressure required for the operation of air by pass valve during over speeding of power turbine is _______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Air pressure required for the operation of air by pass valve during over speeding of power turbine is _______",
+    "options": [
       "100 to 110 kgf/cm2",
       "150 to 200 kgf/cm2",
       "8 to 11 kgf/cm2",
       "16 to 18 kgf/cm2"
     ],
-    answer: "100 to 110 kgf/cm2"
+    "answer": "100 to 110 kgf/cm2"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Reversing is achieved in SNF Ships By _______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Reversing is achieved in SNF Ships By _______",
+    "options": [
       "Engine",
       "Reduction Gear",
       "Controllable Pitch Propeller (CPP)",
       "Engine and Reduction Gear Both"
     ],
-    answer: "Controllable Pitch Propeller (CPP)"
+    "answer": "Controllable Pitch Propeller (CPP)"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The SFC of GT is ___ at part load.",
-    options: ["Poor", "Average", "Good", "None of the above"],
-    answer: "Average"
+    "subject": "Gas Turbine Theory",
+    "question": "The SFC of GT is ___ at part load.",
+    "options": [
+      "Poor",
+      "Average",
+      "Good",
+      "None of the above"
+    ],
+    "answer": "Average"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The SFC of GT is ___ at peak power.",
-    options: ["Poor", "Average", "Good", "None of the above"],
-    answer: "Poor"
+    "subject": "Gas Turbine Theory",
+    "question": "The SFC of GT is ___ at peak power.",
+    "options": [
+      "Poor",
+      "Average",
+      "Good",
+      "None of the above"
+    ],
+    "answer": "Poor"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The normal preparation time of GT is ______ mins",
-    options: ["15", "30", "45", "60"],
-    answer: "60"
+    "subject": "Gas Turbine Theory",
+    "question": "The normal preparation time of GT is ______ mins",
+    "options": [
+      "15",
+      "30",
+      "45",
+      "60"
+    ],
+    "answer": "60"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "In Marine Gas Turbine used as a main propulsion unit the power is directly taken through",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "In Marine Gas Turbine used as a main propulsion unit the power is directly taken through",
+    "options": [
       "Free power turbine",
       "Turbine which is connected to compressor",
       "Free power turbine and reduction gear",
       "Turbine which is connected to compressor and reduction gear"
     ],
-    answer: "Free power turbine and reduction gear"
+    "answer": "Free power turbine and reduction gear"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Disadvantages of Gas Turbine over steam propulsion is",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Disadvantages of Gas Turbine over steam propulsion is",
+    "options": [
       "High power to weight ratio",
       "Low installation and operating cost",
       "Easy to start from cold condition",
       "During starting compressors are required to be rotated through any external source"
     ],
-    answer:
-      "During starting compressors are required to be rotated through any external source"
+    "answer": "During starting compressors are required to be rotated through any external source"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Disadvantages of Gas Turbine over diesel propulsion is",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Disadvantages of Gas Turbine over diesel propulsion is",
+    "options": [
       "High power to weight ratio",
       "Less working pressure of working media",
       "Uniform and continuous power",
       "High fuel consumption at part load"
     ],
-    answer: "High fuel consumption at part load"
+    "answer": "High fuel consumption at part load"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "At present Indian Naval Ship with GT as a main propulsion are having ____________ combination arrangement with diesel",
-    options: ["CODAG", "CODOG", "CODAG and CODOG both", "None of these"],
-    answer: "CODAG and CODOG both"
+    "subject": "Gas Turbine Theory",
+    "question": "At present Indian Naval Ship with GT as a main propulsion are having ____________ combination arrangement with diesel",
+    "options": [
+      "CODAG",
+      "CODOG",
+      "CODAG and CODOG both",
+      "None of these"
+    ],
+    "answer": "CODAG and CODOG both"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Gas Turbine can be used for",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas Turbine can be used for",
+    "options": [
       "Power generation",
       "Air craft",
       "Marine propulsion",
       "All of these"
     ],
-    answer: "All of these"
+    "answer": "All of these"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "SV mounts are used in gas turbines",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Theory",
+    "question": "SV mounts are used in gas turbines",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "In a twin spool Gas Turbine, the LPC is connected to _____",
-    options: ["HPV", "HPT", "LPT", "PT"],
-    answer: "LPT"
+    "subject": "Gas Turbine Theory",
+    "question": "In a twin spool Gas Turbine, the LPC is connected to _____",
+    "options": [
+      "HPV",
+      "HPT",
+      "LPT",
+      "PT"
+    ],
+    "answer": "LPT"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "In a twin spool Gas Turbine, the HPC is connected to _____",
-    options: ["LPC", "HPT", "LPT", "PT"],
-    answer: "HPT"
+    "subject": "Gas Turbine Theory",
+    "question": "In a twin spool Gas Turbine, the HPC is connected to _____",
+    "options": [
+      "LPC",
+      "HPT",
+      "LPT",
+      "PT"
+    ],
+    "answer": "HPT"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The Efficiency of GT _____ with a drop in ambient air temperature",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The Efficiency of GT _____ with a drop in ambient air temperature",
+    "options": [
       "Increases",
       "Decreases",
       "Remains constant",
       "None of the above"
     ],
-    answer: "Increases"
+    "answer": "Increases"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The heat addition process in a Gas Turbine is a _____ process",
-    options: ["Isentropic", "Isothermal", "Isochoric", "Isobaric"],
-    answer: "Isothermal"
+    "subject": "Gas Turbine Theory",
+    "question": "The heat addition process in a Gas Turbine is a _____ process",
+    "options": [
+      "Isentropic",
+      "Isothermal",
+      "Isochoric",
+      "Isobaric"
+    ],
+    "answer": "Isothermal"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The compression process in a Gas Turbine is a _____ process",
-    options: ["Isentropic", "Isothermal", "Isochoric", "Isobaric"],
-    answer: "Isentropic"
+    "subject": "Gas Turbine Theory",
+    "question": "The compression process in a Gas Turbine is a _____ process",
+    "options": [
+      "Isentropic",
+      "Isothermal",
+      "Isochoric",
+      "Isobaric"
+    ],
+    "answer": "Isentropic"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The expansion process in a Gas Turbine is a _____ process",
-    options: ["Isentropic", "Isothermal", "Isochoric", "Isobaric"],
-    answer: "Isentropic"
+    "subject": "Gas Turbine Theory",
+    "question": "The expansion process in a Gas Turbine is a _____ process",
+    "options": [
+      "Isentropic",
+      "Isothermal",
+      "Isochoric",
+      "Isobaric"
+    ],
+    "answer": "Isentropic"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The inlet guide vanes in the axial flow compressor may be ________",
-    options: ["Variable", "Fixed", "Variable and fixed both", "None of these"],
-    answer: "Variable and fixed both"
+    "subject": "Gas Turbine Theory",
+    "question": "The inlet guide vanes in the axial flow compressor may be ________",
+    "options": [
+      "Variable",
+      "Fixed",
+      "Variable and fixed both",
+      "None of these"
+    ],
+    "answer": "Variable and fixed both"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Front housing is located ________",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Front housing is located ________",
+    "options": [
       "Between air intake and LPC",
       "Before the air intake",
       "Between LPC and HPC",
       "After the LPC"
     ],
-    answer: "Between air intake and LPC"
+    "answer": "Between air intake and LPC"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Low Pressure Compressor is driven by _____ during operation of gas turbine",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Low Pressure Compressor is driven by _____ during operation of gas turbine",
+    "options": [
       "Low Pressure Turbine",
       "High Pressure Turbine",
       "Electric starter",
       "Pneumatic starter"
     ],
-    answer: "Low Pressure Turbine"
+    "answer": "Low Pressure Turbine"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The starter drive is taken from in DE 59 GT",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "The starter drive is taken from in DE 59 GT",
+    "options": [
       "Rear accessory Gear box",
       "Forward accessory Gear box",
       "LPC",
       "HPT"
     ],
-    answer: "Rear accessory Gear box"
+    "answer": "Rear accessory Gear box"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Type of burner used in M15 GT is",
-    options: ["Spill", "Simplex", "Duplex", "Air pre mix"],
-    answer: "Duplex"
+    "subject": "Gas Turbine Theory",
+    "question": "Type of burner used in M15 GT is",
+    "options": [
+      "Spill",
+      "Simplex",
+      "Duplex",
+      "Air pre mix"
+    ],
+    "answer": "Duplex"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Gas turbine is ________",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Gas turbine is ________",
+    "options": [
       "Self-sustained",
       "Continuous cycle",
       "Using gas as a working media",
       "All of these"
     ],
-    answer: "All of these"
+    "answer": "All of these"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Number of Flame Tube In Combustion Chamber Are",
-    options: ["09", "08", "10", "11"],
-    answer: "08"
+    "subject": "Gas Turbine Theory",
+    "question": "Number of Flame Tube In Combustion Chamber Are",
+    "options": [
+      "09",
+      "08",
+      "10",
+      "11"
+    ],
+    "answer": "08"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Number of Igniter in Combustion Chamber Are",
-    options: ["01", "02", "10", "03"],
-    answer: "02"
+    "subject": "Gas Turbine Theory",
+    "question": "Number of Igniter in Combustion Chamber Are",
+    "options": [
+      "01",
+      "02",
+      "10",
+      "03"
+    ],
+    "answer": "02"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Surging occurs in _______",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Surging occurs in _______",
+    "options": [
       "Combustion chamber",
       "Compressor",
       "Turbine",
       "All of the above"
     ],
-    answer: "Compressor"
+    "answer": "Compressor"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Closed cycle Gas Turbines are used on _______",
-    options: ["Ships", "Aircrafts", "Power generation", "None of the above"],
-    answer: "Power generation"
+    "subject": "Gas Turbine Theory",
+    "question": "Closed cycle Gas Turbines are used on _______",
+    "options": [
+      "Ships",
+      "Aircrafts",
+      "Power generation",
+      "None of the above"
+    ],
+    "answer": "Power generation"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Gas Turbines have _____ response when compared to Steam Engines.",
-    options: ["Slow", "Fast", "Same", "None of the above"],
-    answer: "Fast"
+    "subject": "Gas Turbine Theory",
+    "question": "Gas Turbines have _____ response when compared to Steam Engines.",
+    "options": [
+      "Slow",
+      "Fast",
+      "Same",
+      "None of the above"
+    ],
+    "answer": "Fast"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Twin spool Gas Turbine means",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Twin spool Gas Turbine means",
+    "options": [
       "Two compressors two combustion chambers and two turbines",
       "Two compressors with two turbines and one combustion chamber",
       "One compressor two combustion chamber with two turbines",
       "All of these"
     ],
-    answer: "Two compressors with two turbines and one combustion chamber"
+    "answer": "Two compressors with two turbines and one combustion chamber"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Disadvantages of Gas Turbine is",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Disadvantages of Gas Turbine is",
+    "options": [
       "High speed",
       "High power to weight ratio",
       "High fuel consumption at part load",
       "Quick starting capability"
     ],
-    answer: "High fuel consumption at part load"
+    "answer": "High fuel consumption at part load"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "1241 RE class of ships are fitted with ______",
-    options: ["Cruise GT", "Boost GT", "GTG", "Cruise and boost GT"],
-    answer: "Cruise and boost GT"
+    "subject": "Gas Turbine Theory",
+    "question": "1241 RE class of ships are fitted with ______",
+    "options": [
+      "Cruise GT",
+      "Boost GT",
+      "GTG",
+      "Cruise and boost GT"
+    ],
+    "answer": "Cruise and boost GT"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Link shaft is available on _____ class of ship",
-    options: ["Petya", "1241RE", "SNF", "Delhi"],
-    answer: "1241RE"
+    "subject": "Gas Turbine Theory",
+    "question": "Link shaft is available on _____ class of ship",
+    "options": [
+      "Petya",
+      "1241RE",
+      "SNF",
+      "Delhi"
+    ],
+    "answer": "1241RE"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "On a 1241 RE class ship _____ can be used to drive both the propellers",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "On a 1241 RE class ship _____ can be used to drive both the propellers",
+    "options": [
       "One cruise GT",
       "Two boost GT",
       "Both a and b",
       "None of the above"
     ],
-    answer: "Both a and b"
+    "answer": "Both a and b"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "The Gas Turbine fitted on ______ class of ships is a reversible gas turbine",
-    options: ["SNF", "Delhi", "1241RE", "Petya"],
-    answer: "1241RE"
+    "subject": "Gas Turbine Theory",
+    "question": "The Gas Turbine fitted on ______ class of ships is a reversible gas turbine",
+    "options": [
+      "SNF",
+      "Delhi",
+      "1241RE",
+      "Petya"
+    ],
+    "answer": "1241RE"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "The compressor discharge of pressurized air is delivered to",
-    options: ["LPC", "Combustion chamber", "HPT", "LPT"],
-    answer: "HPT"
+    "subject": "Gas Turbine Theory",
+    "question": "The compressor discharge of pressurized air is delivered to",
+    "options": [
+      "LPC",
+      "Combustion chamber",
+      "HPT",
+      "LPT"
+    ],
+    "answer": "HPT"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Rear accessory gear box is mounted on",
-    options: ["Adapter unit", "Front housing", "Rear housing", "HPC"],
-    answer: "HPC"
+    "subject": "Gas Turbine Theory",
+    "question": "Rear accessory gear box is mounted on",
+    "options": [
+      "Adapter unit",
+      "Front housing",
+      "Rear housing",
+      "HPC"
+    ],
+    "answer": "HPC"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Anti-surge device fitted in LM 2500 GT is operated by",
-    options: [
+    "subject": "Gas Turbine Theory",
+    "question": "Anti-surge device fitted in LM 2500 GT is operated by",
+    "options": [
       "Pneumatic system",
       "Electrical system",
       "Hydraulic system",
       "Electro hydraulic system"
     ],
-    answer: "Electro hydraulic system"
+    "answer": "Electro hydraulic system"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "Reheater is fitted between Compressor & Combustion Chamber.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Theory",
+    "question": "Reheater is fitted between Compressor & Combustion Chamber.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Q2 stage of stator and 02 stage of rotor consists of one stage in axial flow compressor.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Theory",
+    "question": "Q2 stage of stator and 02 stage of rotor consists of one stage in axial flow compressor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "GT is a continuous & self-sustaining heat engine.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Theory",
+    "question": "GT is a continuous & self-sustaining heat engine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Power conversion section consists of compressor & Combustion Chamber.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Theory",
+    "question": "Power conversion section consists of compressor & Combustion Chamber.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Gas generating section consists of compressor & Combustion Chamber.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Theory",
+    "question": "Gas generating section consists of compressor & Combustion Chamber.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "COGOG plants fitted in 1241 RE class ships.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Theory",
+    "question": "COGOG plants fitted in 1241 RE class ships.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "COGAG plant fitted in SNF class ship.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Theory",
+    "question": "COGAG plant fitted in SNF class ship.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "COGOG plants fitted in Shivalik class ships.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Theory",
+    "question": "COGOG plants fitted in Shivalik class ships.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "COGAG plants are fitted in Shivalik class of ships",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Theory",
+    "question": "COGAG plants are fitted in Shivalik class of ships",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Theory",
-    question:
-      "Torque developed by GT is continuous and uniform as compared to diesel engine.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Theory",
+    "question": "Torque developed by GT is continuous and uniform as compared to diesel engine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "In Gas turbines power to weight ratio is high.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Theory",
+    "question": "In Gas turbines power to weight ratio is high.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Theory",
-    question: "In Gas turbines power to weight ratio is low.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Theory",
+    "question": "In Gas turbines power to weight ratio is low.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Reheater is fitted between Compressor & Combustion Chamber.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Reheater is fitted between Compressor & Combustion Chamber.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "In open cycle any other gases other than air can be used.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "In open cycle any other gases other than air can be used.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "02 stage of stator and 02 stage of rotor consists of one stage in axial flow compressor.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "02 stage of stator and 02 stage of rotor consists of one stage in axial flow compressor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "GT is a continuous & self-sustaining heat engine.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "GT is a continuous & self-sustaining heat engine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Power conversion section consists of compressor & Combustion Chamber.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "Power conversion section consists of compressor & Combustion Chamber.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Gas generating section consists of compressor & Combustion Chamber.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Gas generating section consists of compressor & Combustion Chamber.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Power conversion section consists of compressor and turbine.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Power conversion section consists of compressor and turbine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "COGOG plants fitted in 1241 RE class ships.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "COGOG plants fitted in 1241 RE class ships.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "COGAG plant fitted in SNF class ship.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "COGAG plant fitted in SNF class ship.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "COGOG plants fitted in Shivalik class ships.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "COGOG plants fitted in Shivalik class ships.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "CODAG plants are fitted in Shivalik class of ships",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "CODAG plants are fitted in Shivalik class of ships",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Film cooling is a type of Turbine blade cooling.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Film cooling is a type of Turbine blade cooling.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Air cooling of turbine blades can only be internal.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Air cooling of turbine blades can only be internal.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Air cooling of turbine blades can only be external.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Air cooling of turbine blades can only be external.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Turbine blades can be cooled by sweat cooling (liquid through porous walls).",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "Turbine blades can be cooled by sweat cooling (liquid through porous walls).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Fir tree method is type of blade fixing in turbine.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Fir tree method is type of blade fixing in turbine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Dovetail method is a type of blade fixing in compressor.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Dovetail method is a type of blade fixing in compressor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Combustion chamber is a space provided for combustion of air and fuel mixture Axial flow compressor are fitted in Marine Gas Turbine.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Combustion chamber is a space provided for combustion of air and fuel mixture Axial flow compressor are fitted in Marine Gas Turbine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Axial flow and centrifugal compressors can be used in Industrial GT.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Axial flow and centrifugal compressors can be used in Industrial GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Expansion of gases in turbine, results in production of mechanical power.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Expansion of gases in turbine, results in production of mechanical power.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Air cooling of turbine blades can only be internal.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Air cooling of turbine blades can only be internal.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Air cooling of turbine blades can only be external.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Air cooling of turbine blades can only be external.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "With increase in TET, the efficiency decreases.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "With increase in TET, the efficiency decreases.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Material selection is based on creep strength.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "Material selection is based on creep strength.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Turbine blades are coated with platinum to improve erosion resistance.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Turbine blades are coated with platinum to improve erosion resistance.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Haynes 188 is one of the combustor material.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Haynes 188 is one of the combustor material.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Titanium alloys used in compressor leads to reduction of weight",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Titanium alloys used in compressor leads to reduction of weight",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Inconel 242 is used for manufacturing of nozzle guide vanes.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Inconel 242 is used for manufacturing of nozzle guide vanes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "Nimonic 901 is a super alloy used in manufacturing of compressor blades.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Nimonic 901 is a super alloy used in manufacturing of compressor blades.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "With increase in TET, the efficiency decreases.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "With increase in TET, the efficiency decreases.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Material selection is based on creep strength.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Material selection is based on creep strength.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Aluminum alloys can be used for compressor blades.",
-    options: ["True", "False"],
-    answer: "False"
+    "subject": "Gas Turbine Construction",
+    "question": "Aluminum alloys can be used for compressor blades.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Aluminum alloys cannot be used for compressor blades.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Aluminum alloys cannot be used for compressor blades.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Super alloys are used for turbine blades.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Super alloys are used for turbine blades.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "Titanium alloys are used for LP compressor.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "Titanium alloys are used for LP compressor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question: "BS 8 is an aluminum alloy.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "BS 8 is an aluminum alloy.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   },
   {
-    subject: "Gas Turbine Construction",
-    question:
-      "FV 535 is a type of steel. For astern movement of ships fitted with LM 2500 GT, the CPP is used.",
-    options: ["True", "False"],
-    answer: "True"
+    "subject": "Gas Turbine Construction",
+    "question": "FV 535 is a type of steel. For astern movement of ships fitted with LM 2500 GT, the CPP is used.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Combustion chamber fitted on LM 2500 GT is can type.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "10 in number burners are present in LM 2500 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Generator rated power at Ambient air temperature of 15 ºC is 900 KW.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Generator rated power at Ambient air temperature of 40 ºC is 1250 KW.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Shut off valve is part of protection unit.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Cut off valve is part of protection unit.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "LM 2500 GT is a single spool GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "HPT of LM 2500 GT is axial flow with 6 stages.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Power turbine of LM 2500 GT has 6 in no. stages.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Lube oil cooled by fresh water in case of LM 2500 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Inlet guide vanes assembly is variable in LM 2500 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "LM 2500 GT is reversible GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "LM 2500 GT is non reversible GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "For astern movement of ships fitted with LM 2500 GT, the CPP is used.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "The ships fitted with LM 2500 GT, the reduction gear is non reversible.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "LM 2500 GT is in combination with diesel engine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Rated horse power of LM 2500 GT is 12000HP.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Rated output of LM 2500 GT is 33360 HP.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "CPD line is also connected to stop cock.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Dump valve when energized, decreases the HP fuel pump output.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Gas turbine is ________",
+    "options": [
+      "Self-sustained",
+      "Continuous cycle",
+      "Using gas as a working media",
+      "All of these"
+    ],
+    "answer": "All of these"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Number of flame Tube in Combustion Chamber Are",
+    "options": [
+      "10",
+      "16",
+      "08",
+      "07"
+    ],
+    "answer": "16"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Number of igniters in Combustion Chamber Are",
+    "options": [
+      "01",
+      "02",
+      "03",
+      "04"
+    ],
+    "answer": "02"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Anti-surge device fitted in M15 GT is operated by",
+    "options": [
+      "HP air",
+      "Hydraulic system",
+      "Air after HPC",
+      "Air after LPC"
+    ],
+    "answer": "Air after HPC"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Anti-surge device fitted in LM 2500 GT is operated by",
+    "options": [
+      "Pneumatic system",
+      "Electrical system",
+      "Hydraulic system",
+      "Electro hydraulic system"
+    ],
+    "answer": "Electro hydraulic system"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "In M3E GT power turbine over speeds at",
+    "options": [
+      "5000 to 5600",
+      "5700 to 5950",
+      "4600 to 4800",
+      "7400"
+    ],
+    "answer": "5700 to 5950"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "The fuel pump drive is taken from",
+    "options": [
+      "Rear accessory gear box",
+      "Forward accessory gear box",
+      "HPT supporting ring",
+      "LPT supporting ring"
+    ],
+    "answer": "Rear accessory gear box"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "The engine lube oil pump drive is taken from",
+    "options": [
+      "Central drive of adapter unit",
+      "Central drive of front housing",
+      "HPT supporting ring",
+      "LPT supporting ring"
+    ],
+    "answer": "Central drive of adapter unit"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "The Combustion Chamber is located",
+    "options": [
+      "Between HPC and LPT",
+      "Between rear housing and LPT",
+      "Between rear housing and HPT",
+      "Before the LPT"
+    ],
+    "answer": "Between rear housing and HPT"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "In no struts are incorporated in front housing.",
+    "options": [
+      "06",
+      "08",
+      "04",
+      "10"
+    ],
+    "answer": "06"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "PTR (pulse temperature regulator) is used to",
+    "options": [
+      "Control the exhaust temperature",
+      "To control the engine lub oil temperature",
+      "To control the engine room temperature",
+      "To control the RG lub oil temperature"
+    ],
+    "answer": "Control the exhaust temperature"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Timer motor not in zero position is",
+    "options": [
+      "A safety cut out",
+      "A starting interlock",
+      "An interlock during operation of GT",
+      "All of the above"
+    ],
+    "answer": "A starting interlock"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Fuel stop cock in open position is",
+    "options": [
+      "A safety cut out",
+      "A starting interlock",
+      "An interlock during operation of GT",
+      "All of the above"
+    ],
+    "answer": "A starting interlock"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Fuel stop cock is in GT fuel system",
+    "options": [
+      "Electrically operated valve",
+      "Pneumatic operated valve",
+      "Hydraulic operated valve",
+      "Pneumatic and electric operated valve"
+    ],
+    "answer": "Electrically operated valve"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Anti-surge device fitted in M15 GT is operated by",
+    "options": [
+      "HP air",
+      "Hydraulic system",
+      "Air after HPC",
+      "Air after LPC"
+    ],
+    "answer": "Air after HPC"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Anti-surge device fitted in LM 2500 GT is operated by",
+    "options": [
+      "Pneumatic system",
+      "Electrical system",
+      "Hydraulic system",
+      "Electro hydraulic system"
+    ],
+    "answer": "Electro hydraulic system"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "In M3E GT power turbine over speeds at",
+    "options": [
+      "5000 to 5600",
+      "5700 to 5950",
+      "4600 to 4800",
+      "7400"
+    ],
+    "answer": "5700 to 5950"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "The fuel pump drive is taken from",
+    "options": [
+      "Rear accessory gear box",
+      "Forward accessory gear box",
+      "HPT supporting ring",
+      "LPT supporting ring"
+    ],
+    "answer": "Rear accessory gear box"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "The engine lube oil pump drive is taken from",
+    "options": [
+      "Central drive of adapter unit",
+      "Central drive of front housing",
+      "HPT supporting ring",
+      "LPT supporting ring"
+    ],
+    "answer": "Central drive of adapter unit"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "The Combustion Chamber is located",
+    "options": [
+      "Between HPC and LPT",
+      "Between rear housing and LPT",
+      "Between rear housing and HPT",
+      "Before the LPT"
+    ],
+    "answer": "Between rear housing and HPT"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "In no struts are incorporated in front housing.",
+    "options": [
+      "06",
+      "08",
+      "04",
+      "10"
+    ],
+    "answer": "06"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "PTR (pulse temperature regulator) is used to",
+    "options": [
+      "Control the exhaust temperature",
+      "To control the engine lub oil temperature",
+      "To control the engine room temperature",
+      "To control the RG lub oil temperature"
+    ],
+    "answer": "Control the exhaust temperature"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Timer motor not in zero position is",
+    "options": [
+      "A safety cut out",
+      "A starting interlock",
+      "An interlock during operation of GT",
+      "All of the above"
+    ],
+    "answer": "A starting interlock"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Fuel stop cock in open position is",
+    "options": [
+      "A safety cut out",
+      "A starting interlock",
+      "An interlock during operation of GT",
+      "All of the above"
+    ],
+    "answer": "A starting interlock"
+  },
+  {
+    "subject": "Gas Turbine Construction",
+    "question": "Fuel stop cock is in GT fuel system",
+    "options": [
+      "Electrically operated valve",
+      "Pneumatic operated valve",
+      "Hydraulic operated valve",
+      "Pneumatic and electric operated valve"
+    ],
+    "answer": "Electrically operated valve"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Time required for normal preparation of gas turbine is",
+    "options": [
+      "01 hour",
+      "30 minute",
+      "15 minute",
+      "120 sec"
+    ],
+    "answer": "01 hour"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Time required for emergency preparation of gas turbine is",
+    "options": [
+      "01 hour",
+      "30 minute",
+      "120 sec",
+      "15 minute"
+    ],
+    "answer": "15 minute"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Type of start perform on GT are",
+    "options": [
+      "cold and false start",
+      "false and hot start",
+      "cold and hot start",
+      "cold, hot and false start"
+    ],
+    "answer": "cold, hot and false start"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Tech start is applicable for",
+    "options": [
+      "Talwar Class Only",
+      "Delhi Class Only",
+      "Rajput and Delhi Class",
+      "Talwar and Delhi Class"
+    ],
+    "answer": "Delhi Class Only"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Cold start in GT is performed",
+    "options": [
+      "to check the freeness of the rotors",
+      "to clear the flow path",
+      "To Preserve and De-Preserve the Fuel Equipment’s",
+      "to check the freeness of rotors and clear the flow path"
+    ],
+    "answer": "to check the freeness of rotors and clear the flow path"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "False start in GT is performed",
+    "options": [
+      "to clear the flow path",
+      "to check the freeness of rotor",
+      "to carry out the steam washing of compressors",
+      "To Preserve and De-Preserve the Fuel Equipment’s"
+    ],
+    "answer": "To Preserve and De-Preserve the Fuel Equipment’s"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In false start of GT",
+    "options": [
+      "Fuel system energized",
+      "Ignition Unit energized",
+      "Fuel System Energized but Not Ignition Unit",
+      "Both Fuel and Ignition Unit Energized"
+    ],
+    "answer": "Fuel System Energized but Not Ignition Unit"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In crash stop of GT",
+    "options": [
+      "Engine is stopped manually",
+      "Engine is required to be operated for 5 to 10 minutes at idling speed",
+      "Engine is required to be operated for 5 to 10 minutes at idling speed and is stopped manually",
+      "Engine is stopped manually at any speed"
+    ],
+    "answer": "Engine is stopped manually at any speed"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In emergency stop of GT",
+    "options": [
+      "Engine is stopped manually",
+      "Engine is required to be operated for 5 to 10 minutes at idling speed",
+      "Engine is stopped manually at any speed",
+      "Engine is stopped automatically due to operation of any safety cut outs"
+    ],
+    "answer": "Engine is stopped automatically due to operation of any safety cut outs"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In case of high exhaust gas temperature which stop will perform",
+    "options": [
+      "Crash",
+      "Emergency",
+      "Emergency and crash",
+      "Normal"
+    ],
+    "answer": "Emergency"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In case of heavy vibration in reduction gear which stop will perform",
+    "options": [
+      "Normal and crash",
+      "Normal",
+      "Crash",
+      "Emergency"
+    ],
+    "answer": "Crash"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In case of heavy lube oil leakage which stop will perform",
+    "options": [
+      "Normal",
+      "Normal and crash",
+      "Emergency",
+      "Crash"
+    ],
+    "answer": "Crash"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In cold start of GT",
+    "options": [
+      "Fuel system not energized",
+      "Ignition system does not energized",
+      "Fuel system energized but not ignition system",
+      "Both fuel and ignition system do not energized"
+    ],
+    "answer": "Both fuel and ignition system do not energized"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During steam washing of compressors in GT ____________ start is performed",
+    "options": [
+      "Cold",
+      "False",
+      "Cold and false",
+      "False and hot"
+    ],
+    "answer": "Cold"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During chemical cleaning of compressors in GT ________ start is performed",
+    "options": [
+      "False",
+      "Cold",
+      "Cold and false",
+      "False and hot"
+    ],
+    "answer": "Cold"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Hot start in GT is the actual start in which",
+    "options": [
+      "Fuel system energized",
+      "Ignition unit energized",
+      "Fuel system and ignition unit both energized",
+      "Ignition unit energized but not fuel system"
+    ],
+    "answer": "Fuel system and ignition unit both energized"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Rated Output of M 3E GT at 15 Degree Centigrade Is",
+    "options": [
+      "13750 HP",
+      "18000 HP",
+      "15000 HP",
+      "19500 HP"
+    ],
+    "answer": "18000 HP"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In hot start, stop cock opens and ignition takes place.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "After starting the gas turbines, the igniters get switched off.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting preparation of GT the stop cock should remain in close position.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting preparation of GT the throttle should remain in idling position.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting preparation of GT the booster pump does not required to be started.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting preparation of GT the RG turning gear should be in engaged position.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Maximum permissible slip in M 15 GT by air pressure after HPC is 1.0 Kgf/cm2.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Maximum permissible slip in M 15 GT by difference in HPC RPM is 300",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The positive fuel pressure of 1.8 to 3.0 Kgf/cm2 is maintained by fuel booster pump.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Time for normal preparation of GT is 15 minutes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Time for normal preparation of GT is 01 hour.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Time for emergency preparation is 01 hour.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Time for emergency preparation of GT is 15 minutes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "False start is given to check the freeness of the rotor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Cold start is given to cool down the GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Crash stop means GT is stopped automatically.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Emergency stop means GT is stopped manually.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Crash stop means GT is stopped manually without cooling down of gas turbine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting GT is rotated with the help of starters.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The main objective of chemical washing is to clean the flow path of the compressor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Air is supplied to the 2nd channel during GT starting.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting fuel is supplied through 1st channel.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting GT is rotated with the help of starters.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "After starting both the passages of injectors are supplied with the fuel.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Cold start is mandatory before performing hot starts.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In cold start, fuel is supplied but no ignition in the GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In false start, fuel is supplied but no ignition in the GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Hot start is the actual start in which ignition takes place.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In hot start, stop cock opens and ignition takes place.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "GT low lub oil pressure trip operates at 2.0 kg/cm² when bypass band is closed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "False start is given to check the freeness of the rotor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Cold start is given to preserve the GT fuel system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Timer motor at “off” position is also an interlock of GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "GT RG lub oil pressure trip operates at 0.3kgf/cm2.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Timer motor comes to “0” position at 100 sec.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "GT starting cycle duration is 120 sec.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Hand turning of LPC and HPC is mandatory in emergency preparation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Lub oil salinity check is required during emergency preparation of GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "GT lub oil circulating tank sounding is 400 liters during emergency preparation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The main objective of chemical washing is to clean the flow path of the compressor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Starting air is supplied to the 2nd channel during GT starting.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting fuel is supplied through 1st channel.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "During starting GT is rotated with the help of starters.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "CC in LM 2500 GT is can type.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 9 stages in LPC & 7 stages in HPC.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 100 to 120 Kg lub oil level of engine circulating tank is maintained.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT cruise of 140 to 150 Kg lub oil level in RG circulating tank is maintained.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 30 Kgf/cm2 air pressure is maintained in the bottles of PT over speed trip of M 15 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 11 Kgf/cm2 air pressure supplied to the IInd passage of main injectors in M 15 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 100 to 120 Kgf/cm2 air pressure supplied for the operation of reverse gear control system in M 15 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 23 to 28 Kgf/cm2 air pressure supplied for engagement & disengagement of speed I & II in M 15 GT Cruise RG.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 30 Kgf/cm2 air pressure supplied for the operation of air by pass valve during starting of the engine in M 15 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 11 Kgf/cm2 air pressure supplied for engagement & disengagement of decoupler of M 15 cruise & boost GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M 15 GT 9 to 11 Kgf/cm2 air pressure supplied for engagement & disengagement of jaw damping coupling (Link shaft) of M 15 cruise RG.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Booster section of HP fuel pump is impeller type in LM 2500GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Booster section of HP fuel pump is gear type in LM 2500GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Pressure section of HP fuel pump is impeller type in LM 2500GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Pressure section of HP fuel pump is gear type in LM 2500GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Pressure section of HP fuel pump is gear type in LM 2500GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Metering valve of LM 2500GT fuel system works as a throttle cock.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 02 in no. fuel shut off valve in LM 2500GT fuel system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 01 pressure section in LM 2500GT lub oil system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 01 Scavenging section in LM 2500GT lub oil system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Reversing Is Achieved in SNF Ships By",
+    "options": [
+      "Engine",
+      "Reduction Gear",
+      "Controllable Pitch Propeller (CPP)",
+      "Engine And Reduction Gear Both"
+    ],
+    "answer": "Reduction Gear"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 02 in no. fuel shut off valve in M36 GT fuel system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 01 pressure section in M36 GT lub oil system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 01 Scavenging section in M36 GT lub oil system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Low pressure compressor is driven by __________ during operation of gas turbine",
+    "options": [
+      "Low pressure turbine",
+      "High pressure turbine",
+      "Electric starter",
+      "Pneumatic starter"
+    ],
+    "answer": "Low pressure turbine"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The starter drive is taken from in DE 59 GT",
+    "options": [
+      "Rear accessory gear box",
+      "Forward accessory gear box",
+      "LPC",
+      "HPC"
+    ],
+    "answer": "Rear accessory gear box"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Booster section of HP fuel pump is impeller type in M3 E GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Booster section of HP fuel pump is gear type in M36 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Pressure section of HP fuel pump is impeller type in M15E GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Pressure section of HP fuel pump is gear type in M36 GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Power turbine is connected to 21 gear of reduction gear through",
+    "options": [
+      "Jaw coupling",
+      "Friction coupling",
+      "Hydraulic coupling",
+      "Flexible coupling"
+    ],
+    "answer": "Flexible coupling"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Number of friction couplings in one reduction gear are",
+    "options": [
+      "01",
+      "02",
+      "04",
+      "08"
+    ],
+    "answer": "04"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Anti-surge device fitted in M 15 GT is operated by",
+    "options": [
+      "HP air",
+      "Hydraulic system",
+      "Air after HPC",
+      "Air after LPC"
+    ],
+    "answer": "Air after HPC"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Anti-surge device fitted in LM 2500GT is operated by",
+    "options": [
+      "Pneumatic system",
+      "Electrical system",
+      "Hydraulic system",
+      "Electro hydraulic system"
+    ],
+    "answer": "Electro hydraulic system"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In M36 GT Power Turbine over speeds at",
+    "options": [
+      "5000 to 5600",
+      "5700 to 5950",
+      "4600 to 4800",
+      "7400"
+    ],
+    "answer": "5700 to 5950"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The fuel pump drive is taken from",
+    "options": [
+      "Rear accessory gear box",
+      "Forward accessory gear box",
+      "HPT supporting ring",
+      "LPT supporting ring"
+    ],
+    "answer": "Rear accessory gear box"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The engine lub oil pump drive is taken from",
+    "options": [
+      "Central drive of adapter unit",
+      "Central drive of front housing",
+      "HPT supporting ring",
+      "LPT supporting ring"
+    ],
+    "answer": "Central drive of adapter unit"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The combustion chamber is located",
+    "options": [
+      "Between HPC and LPT",
+      "Between rear housing and LPT",
+      "Between rear housing and HPT",
+      "Before the LPT"
+    ],
+    "answer": "Between rear housing and HPT"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Air by pass band is located between",
+    "options": [
+      "6 and 7 stage of HPC",
+      "4 and 5 stage of LPC",
+      "4 and 5 stage of HPC",
+      "6 and 7 stage of LPC"
+    ],
+    "answer": "4 and 5 stage of HPC"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The opening and closing of air by pass band is actuated by",
+    "options": [
+      "Pneumatic system",
+      "Hydraulic system",
+      "Electric system",
+      "Pneumatic and electric system"
+    ],
+    "answer": "Pneumatic and electric system"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "PTR (pulse temperature regulator) is used to",
+    "options": [
+      "Control the exhaust temperature",
+      "To control the engine lub oil temperature",
+      "To control the engine room temperature",
+      "To control the RG lub oil temperature"
+    ],
+    "answer": "Control the exhaust temperature"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Timer motor not in zero position is",
+    "options": [
+      "A safety cut out",
+      "A starting interlock",
+      "An interlock during operation of GT",
+      "All of these"
+    ],
+    "answer": "A safety cut out"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Fuel stop cock in open position is",
+    "options": [
+      "A safety cut out",
+      "A starting interlock"
+    ],
+    "answer": "A starting interlock"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Fuel stop cock is in GT fuel system",
+    "options": [
+      "Electrically operated valve",
+      "Pneumatic operated valve",
+      "Hydraulic operated valve",
+      "Pneumatic and electric operated valve"
+    ],
+    "answer": "Electrically operated valve"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In case of heavy fuel leakage which stop will perform",
+    "options": [
+      "Normal",
+      "Crash",
+      "Normal and crash",
+      "Emergency"
+    ],
+    "answer": "Crash"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In case of fire in engine which stop will perform",
+    "options": [
+      "Normal and crash",
+      "Normal",
+      "Crash",
+      "Emergency"
+    ],
+    "answer": "Crash"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In case of major fire in engine room which stop will perform",
+    "options": [
+      "Crash and emergency",
+      "Crash",
+      "Normal",
+      "Emergency"
+    ],
+    "answer": "Crash"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "The reduction gear is designed to",
+    "options": [
+      "Reduce rpm and torque",
+      "Increase rpm and torque",
+      "Increase rpm and torque",
+      "Decrease rpm and increase torque"
+    ],
+    "answer": "Decrease rpm and increase torque"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Ignitor of GT consists of",
+    "options": [
+      "01 Starting Injector and 01 Spark Plug",
+      "01 Starting Injector and 02 Spark Plug",
+      "02 Starting Injector and 01 Spark Plug",
+      "02 Starting Injector and 02 Spark Plug"
+    ],
+    "answer": "01 Starting Injector and 02 Spark Plug"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Slip indicates the deposition of foreign particles on",
+    "options": [
+      "Compressor Blades",
+      "Turbine Blades",
+      "Adapter",
+      "Combustion Chamber"
+    ],
+    "answer": "Compressor Blades"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "VSV assembly senses the engine speed and ambient air temperature for alteration of stator blade's angle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "CPD line is also connected to stop cock.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Dump valve when energized, decreases the HP fuel pump output.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Dump valve drains the fuel from inter piston chamber.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In engine lub oil system scavenge pumps are fitted with pressure reducing valve.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "In HP fuel pump, safety valve communicating with suction passage during normal stop of the engine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Stop cock drains the fuel from the fuel system during stopping of GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "HPT exhaust temperature is controlled by flow divider.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "Pressure rise limiter causes pressure surge in fuel system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 09 in no. fuel injectors in M15 Boost GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 09 in no. fuel injectors in M15 Cruise GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 10 in no fuel injector in LM 2500GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "Gas Turbine Operation",
+    "question": "There are 30 in no fuel injector in LM 2500GT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
   }
-];
+]
