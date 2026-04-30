@@ -7,13 +7,12 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
-  overflow: hidden;
 }
-
+/*
 #topFixed{
-  position: fixed;
+  position: relative;
   top: 5px;
-}
+}*/
 
 #heading{
   margin-right: 10px;
