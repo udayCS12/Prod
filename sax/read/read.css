@@ -51,7 +51,8 @@ body {
 }
 
 .question {
-  margin-bottom: 15px;
+  margin-bottom: 12px;
+  margin-top: 12px;
   color: red;
 }
 .options label {
