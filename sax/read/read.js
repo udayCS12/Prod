@@ -5,7 +5,7 @@ document.getElementById("doneBtn").onclick = async function(){
       const wing = document.getElementById("wingSl").value;
       let fileName;
       if(wing === "sax"){
-            fileName = "sax1"'
+            fileName = "sax1"
       }else if(wing === "gtw"){
             //fileName = "gtw"'
       }
