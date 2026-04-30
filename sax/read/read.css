@@ -16,6 +16,9 @@ body {
 }
 
 #wingSl, #doneBtn{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
         padding: 5px 10px;
         border:none;
         border-radius: 12px;
@@ -27,6 +30,9 @@ body {
 }
 .questionsContainer::-webkit-scrollbar {
   display: none;
+}
+.subjectDiv{
+  margin-bottom: 10px;
 }
 .question {
   margin-bottom: 20px;
