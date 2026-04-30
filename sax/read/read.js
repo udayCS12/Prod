@@ -43,7 +43,7 @@ function renderQuestions() {
         const height = myQcontainer.style.offsetHeight;
         const qContainers = document.querySelectorAll(".questionsContainer");
         qContainers.forEach((qCont) => {
-          qCont.style.height = "0px";
+          qCont.style.display = "none";
         });
         if (displaying) {
           myQcontainer.style.display = "none";
