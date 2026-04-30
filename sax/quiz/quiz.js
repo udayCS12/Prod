@@ -1,4 +1,3 @@
-alert();
 let questions = [];
       let indexes = [];
       let qNum = 0;
