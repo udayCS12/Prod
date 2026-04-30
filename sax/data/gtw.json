@@ -1,1998 +1,1620 @@
 [
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The power output of gas turbine is",
-    "options": {
-      "A": "Internal",
-      "B": "Intermittent",
-      "C": "Cont. Engine",
-      "D": "None of the above"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The Function of the compressor is to",
-    "options": {
-      "A": "Increase volume",
-      "B": "Increase mass flow",
-      "C": "Increase Quantity",
-      "D": "Increase pressure"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas turbine becomes _______ after starters are cut off",
-    "options": {
-      "A": "Stable",
-      "B": "Dependent",
-      "C": "Self-sustained",
-      "D": "Unsafe"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "_______ are used to start the Gas Turbine from cold condition.",
-    "options": {
-      "A": "DC starter",
-      "B": "AC starter",
-      "C": "Pneumatic starter",
-      "D": "All of these"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Single spool gas turbine means",
-    "options": {
-      "A": "One compressor one combustion chamber and one turbine",
-      "B": "One compressor one combustion chamber and one turbine with free power turbine",
-      "C": "One compressor one combustion chamber and two turbines",
-      "D": "All of these"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The possible combination of steam propulsion with GT propulsion are",
-    "options": {
-      "A": "COSAG",
-      "B": "COSOG",
-      "C": "COSAG and COSOG both",
-      "D": "COGAG"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The possible combination of GT propulsion with GT propulsion are",
-    "options": {
-      "A": "COGAG",
-      "B": "COGOG",
-      "C": "COGAG and COGOG both",
-      "D": "COSAG"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The new generation Gas Turbine LM 2500 is Inducted in which class of ship",
-    "options": {
-      "A": "Petya",
-      "B": "1241 RE",
-      "C": "Delhi",
-      "D": "Shivalik"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
-    "options": {
-      "A": "Delhi class",
-      "B": "SNF class",
-      "C": "Delhi class, and SNF class",
-      "D": "Shivalik class"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
-    "options": {
-      "A": "Talwar class",
-      "B": "Delhi class",
-      "C": "1241 RE class",
-      "D": "Shivalik class"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The heat addition process of a Gas Turbine occurs in the",
-    "options": {
-      "A": "Combustion chamber",
-      "B": "Compressor",
-      "C": "Turbine",
-      "D": "None of these"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The work output of the Gas Turbine is obtained from the",
-    "options": {
-      "A": "Combustion chamber",
-      "B": "Compressor",
-      "C": "Turbine",
-      "D": "DC starters"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The gas generating section consists of",
-    "options": {
-      "A": "Combustion chamber",
-      "B": "Compressor",
-      "C": "Turbine",
-      "D": "All of the above"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The power conversion section consists of",
-    "options": {
-      "A": "Turbine",
-      "B": "Reduction gear",
-      "C": "Propeller shaft",
-      "D": "All of the above"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "_______ is used as fuel in marine gas turbine used in Indian Navy",
-    "options": {
-      "A": "FFO",
-      "B": "Coal",
-      "C": "LSHSD",
-      "D": "AVCAT"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The working fluid of the gas turbine consists of",
-    "options": {
-      "A": "Air",
-      "B": "Fuel",
-      "C": "Air and fuel",
-      "D": "Feed water"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The gas turbine onboard Delhi class of ships",
-    "options": {
-      "A": "Have a PT",
-      "B": "Do not have a PT",
-      "C": "Have two combustion chambers",
-      "D": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The Gas Turbine onboard 1241RE class of ships",
-    "options": {
-      "A": "Have a PT",
-      "B": "Do not have a PT",
-      "C": "Have two combustion chambers",
-      "D": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The Gas Turbine onboard Shivalik class of ships",
-    "options": {
-      "A": "Have a PT",
-      "B": "Do not have a PT",
-      "C": "Have two combustion chambers",
-      "D": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The Gas Turbine cycle is called",
-    "options": {
-      "A": "Rankine",
-      "B": "Brayton",
-      "C": "Joule",
-      "D": "Joule Brayton"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas turbine can be divided into",
-    "options": {
-      "A": "Gas generating section and power conversion section",
-      "B": "Combustion chamber and turbine",
-      "C": "Compressor and turbine",
-      "D": "Combustion chamber and power turbine"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas turbine can be classified into _______ according to spool arrangement",
-    "options": {
-      "A": "Single spool and multi spool",
-      "B": "Open cycle and close cycle",
-      "C": "Constant pressure cycle and constant volume cycle",
-      "D": "All of these"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas Turbine can be classified into _______ according to flow path of working media",
-    "options": {
-      "A": "Single spool and multi spool",
-      "B": "Open cycle and close cycle",
-      "C": "Constant pressure cycle and constant volume cycle",
-      "D": "All of these"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Air pressure required for the operation of air by pass valve during over speeding of power turbine is",
-    "options": {
-      "A": "100 to 110 kgf/cm2",
-      "B": "09 to 11 kgf/cm2",
-      "C": "150 to 200 kgf/cm2",
-      "D": "10 to 18 kgf/cm2"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Reversing is achieved in SNF ships By",
-    "options": {
-      "A": "Engine",
-      "B": "Reduction Gear",
-      "C": "Controllable Pitch Propeller (CPP)",
-      "D": "Engine and Reduction Gear Both"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The SFC of GT is _______ at part load.",
-    "options": {
-      "A": "Poor",
-      "B": "Average",
-      "C": "Good",
-      "D": "None of the above"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The SFC of GT is _______ at peak power.",
-    "options": {
-      "A": "Poor",
-      "B": "Average",
-      "C": "Good",
-      "D": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The normal preparation time of GT is",
-    "options": {
-      "A": "15",
-      "B": "30",
-      "C": "45",
-      "D": "60"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "In Marine Gas Turbine used as a main propulsion unit the power is directly taken through",
-    "options": {
-      "A": "Free power turbine",
-      "B": "Turbine which is connected to compressor",
-      "C": "Free power turbine and reduction gear",
-      "D": "Turbine which is connected to compressor and reduction gear"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Disadvantages of Gas Turbine over steam propulsion is",
-    "options": {
-      "A": "High power to weight ratio",
-      "B": "Low installation and operating cost",
-      "C": "Easy to start from cold condition",
-      "D": "During starting compressors are required to be rotated through any external source"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Disadvantages of Gas Turbine over diesel propulsion is",
-    "options": {
-      "A": "High power to weight ratio",
-      "B": "Less working pressure of working media",
-      "C": "Uniform and continuous power",
-      "D": "High fuel consumption at part load"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "At present Indian Naval Ship with GT as a main propulsion are having _______ combination arrangement with diesel",
-    "options": {
-      "A": "CODAG",
-      "B": "CODOG",
-      "C": "CODAG and CODOG both",
-      "D": "None of these"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas Turbine can be used for",
-    "options": {
-      "A": "Power generation",
-      "B": "Air craft",
-      "C": "Marine propulsion",
-      "D": "All of these"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "SV mounts are used in gas turbines",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "In a twin spool Gas Turbine, the LPC is connected to",
-    "options": {
-      "A": "HPC",
-      "B": "HPT",
-      "C": "LPT",
-      "D": "PT"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "In a twin spool Gas Turbine, the HPC is connected to",
-    "options": {
-      "A": "LPC",
-      "B": "HPT",
-      "C": "LPT",
-      "D": "PT"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The Efficiency of GT _______ with a drop in ambient air temperature",
-    "options": {
-      "A": "Increases",
-      "B": "Decreases",
-      "C": "Remains constant",
-      "D": "None of the above"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The heat addition process in a Gas Turbine is a _______ process",
-    "options": {
-      "A": "Isentropic",
-      "B": "Isothermal",
-      "C": "Isochoric",
-      "D": "Isobaric"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The compression process in a Gas Turbine is a _______ process",
-    "options": {
-      "A": "Isentropic",
-      "B": "Isothermal",
-      "C": "Isochoric",
-      "D": "Isobaric"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The expansion process in a Gas Turbine is a _______ process",
-    "options": {
-      "A": "Isentropic",
-      "B": "Isothermal",
-      "C": "Isochoric",
-      "D": "Isobaric"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The inlet guide vanes in the _______ may be",
-    "options": {
-      "A": "Variable",
-      "B": "Fixed",
-      "C": "Variable and fixed both",
-      "D": "None of these"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Front housing is located",
-    "options": {
-      "A": "Between air intake and LPC",
-      "B": "Before the air intake",
-      "C": "Between LPC and HPC",
-      "D": "After the LPC"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Low Pressure Compressor is driven by _______ during operation of gas turbine",
-    "options": {
-      "A": "Low Pressure Turbine",
-      "B": "High Pressure Turbine",
-      "C": "Electric starter",
-      "D": "Pneumatic starter"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The starter drive is taken from in DE 59 GT",
-    "options": {
-      "A": "Rear accessory gear box",
-      "B": "Forward accessory gear box",
-      "C": "LPC",
-      "D": "HPT"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Type of burner used in M15 GT is",
-    "options": {
-      "A": "Spill",
-      "B": "Simplex",
-      "C": "Duplex",
-      "D": "Air pre mix"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas turbine is _______ using gas as a working media",
-    "options": {
-      "A": "Self-sustained",
-      "B": "Continuous cycle",
-      "C": "Continuous cycle",
-      "D": "All of these"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Number of Flame Tube In Combustion Chamber Are",
-    "options": {
-      "A": "09",
-      "B": "10",
-      "C": "08",
-      "D": "07"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Number of Igniters in Combustion Chamber Are",
-    "options": {
-      "A": "01",
-      "B": "02",
-      "C": "10",
-      "D": "03"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Surging occurs in",
-    "options": {
-      "A": "Combustion chamber",
-      "B": "Compressor",
-      "C": "Turbine",
-      "D": "All of the above"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Closed cycle Gas Turbines are used on",
-    "options": {
-      "A": "Ships",
-      "B": "Aircrafts",
-      "C": "Power generation",
-      "D": "None of the above"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas Turbines have _______ response when compared to Steam Engines.",
-    "options": {
-      "A": "Slow",
-      "B": "Fast",
-      "C": "Same",
-      "D": "None of the above"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Twin spool Gas Turbine means",
-    "options": {
-      "A": "Two compressors two combustion chambers and two turbines",
-      "B": "Two compressors with two turbines and one combustion chamber",
-      "C": "One compressor two combustion chambers with two turbines",
-      "D": "All of these"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Disadvantages of gas Turbine is",
-    "options": {
-      "A": "High speed",
-      "B": "High power to weight ratio",
-      "C": "High fuel consumption at part load",
-      "D": "Quick starting capability"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "1241 RE class of ships are fitted with",
-    "options": {
-      "A": "Cruise GT",
-      "B": "Boost GT",
-      "C": "Both a and b",
-      "D": "Cruise and boost GT"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Link shaft is available on",
-    "options": {
-      "A": "Petya",
-      "B": "1241 RE",
-      "C": "SNF",
-      "D": "Delhi"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "On a 1241 RE class ship _______ can be used to drive both the propellers",
-    "options": {
-      "A": "One cruise GT",
-      "B": "Two Boost",
-      "C": "Both a and b",
-      "D": "None of the above"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The Gas Turbine fitted on _______ class of ships is a reversible gas turbine",
-    "options": {
-      "A": "SNF",
-      "B": "Delhi",
-      "C": "1241 RE",
-      "D": "Petya"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The compressor discharge of pressurized air is delivered to",
-    "options": {
-      "A": "LPC",
-      "B": "Combustion chamber",
-      "C": "HPT",
-      "D": "LPT"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Rear accessory gear box is mounted on",
-    "options": {
-      "A": "Adapter unit",
-      "B": "Front housing",
-      "C": "Rear housing",
-      "D": "HPC"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Anti-surge device fitted in LM 2500 GT is operated by",
-    "options": {
-      "A": "Pneumatic system",
-      "B": "Electrical system",
-      "C": "Hydraulic system",
-      "D": "Electro hydraulic system"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Reheater is fitted between Compressor & Combustion Chamber.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "01 stage of stator and 01 stage of rotor consists of one stage in axial flow compressor.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "GT is a continuous & self-sustaining heat engine.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Power conversion section consists of compressor & Combustion Chamber.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas generating section consists of compressor & Combustion Chamber.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGOG plants fitted in 1241 RE class ships.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGAG plant fitted in SNF class ship.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGOG plants fitted in Shivalik class ships.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGOG plants are fitted Shivalik class of ships",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Torque developed by GT is continuous and uniform as compared to diesel engine.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "In Gas turbines power to weight ratio is high.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "In Gas turbines power to weight ratio is low",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "In open cycle any other gases other than air can be used.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Power conversion section consists of compressor and turbine.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGOG plants fitted in SNF class ships.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGAG plant fitted in 1241RE class ship.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGOG plants fitted in Talwar class ships.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "COGOG plants are fitted in Talwar class of ships.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Torque developed by GT is not continuous and uniform as compared to diesel engine.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "By adopting the combined propulsion arrangement, the endurance of ship at sea can be increased.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "CODOG arrangement is available in Shivalik class of ships.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas turbines are very sensitive to temperature.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "GT occupies more space as compared to diesel engine.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "GT occupies more space as compared to steam turbine.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Gas turbines have longer Life between major overhaul",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Vibrations are more in GT",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Working pressure of GT is low in comparison to ICE.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Due to less weight of GT ships center of gravity moves upwards.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Fuel consumption increases with the years of operation of GT plant",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "High infra-red signature is one of the advantages in GT",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Part load efficiency is poor in Gas Turbines.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Part load efficiency is high in Gas Turbines.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Torque developed by GT is not uniform",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "There are three zones in combustion theory",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Cannular type of combustion chamber can be of both reverse flow and straight flow",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Compressor fouling leads to surging",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Surging actually occurs during starting or rapid change of load.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Blow Off valve prevents surging by discharging air at some intermediate stages.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Thermal efficiency of the simple GT decreases by inter cooling the inter cooler.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Angle at which air is entering the rotor blade is known as incidence angle.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The flame tubes in combustion chamber are connected with the help of retainers.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Turbine blades can be cooled by air or liquid.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Film cooling is a type of Turbine blade cooling.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Air cooling of turbine blades can only be internal.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Air cooling of turbine blades can only be external.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Turbine blades can be cooled by sweat cooling (liquid through porous walls).",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Fir tree method is type of blade fixing in turbine.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Dove tail method is a type of blade fixing in compressor.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Combustion chamber is a space provided for combustion of air and fuel mixture Axial flow compressor are fitted to marine GTs for",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Both axial flow and centrifugal compressors can be used in Industrial GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Expansion of gases in turbine, results in production of mechanical power.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "With increase in TET, the efficiency decreases.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Material selection is based on creep strength",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Aluminum alloys can be used for compressor blades.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Aluminum alloys cannot be used for compressor blades.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Super alloys are used for turbine blades",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Titanium alloys are used for LP compressor.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Nimonic is an aluminum alloy.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "FV 535 is a type of steel.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Material for turbine should not have high creep strength",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Hardening elements are added to decrease the creep strength.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Compressor blades need to have high specific tensile strength.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Compressor blades need to have low specific tensile strength",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Turbine blades need to have resistance to thermal fatigue.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Compressor blades need to have high fatigue strength.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Compressor blades need to have low stiffness.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Compressor blades need to have high stiffness.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Turbine blades are coated with platinum to improve oxidation resistance.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Turbine blades are coated with platinum to improve erosion resistance.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Haynes 188 is one of the combustor material.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Titanium alloys used in compressor leads to reduction of weight",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Nimocast 247 is used for manufacturing of nozzle guide vanes.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "MATERIAL SELECTION",
-    "question": "Nimonic 901 is a super alloy used in manufacturing of compressor blades.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "For astern movement of ships fitted with LM 2500 GT, the CPP is used.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "The ships fitted with LM 2500 GT, the reduction gear is non reversible.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "LM 2500 GT is in combination with diesel engine",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Rated horse power of LM 2500 GT is 12000.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Rated output of LM 2500 GT is 33600 HP",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "The reduction gear used with LM 2500 GT in Shivalik class of ship is 20000 gear box.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "The combustion chamber of LM 2500 GT is annular type",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "There are 2 stages of HPT in LM 2500 GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "LM 2500 GT and diesel engine can be exploited together to achieve the maximum speed in Shivalik class of ships",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "LM 2500 GT is a twin spool GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Number of stages in PT of LM 2500 GT is 07.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Rated output of LM 2500 GT is 15000 HP.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "HPT of LM 2500 GT is axial flow with 2 stages.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Power turbine of LM 2500 GT has 3 in no. stages.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Combustion chamber fitted on LM 2500 GT is can type.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "18 in number burners are present in LM 2500 GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE GENERATOR (GTG)",
-    "question": "Generator rated power at Ambient air temperature of 15 APC is 900 KW.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE GENERATOR (GTG)",
-    "question": "Generator rated power at Ambient air temperature of 40 APC is 1250 KW.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Shut off valve is part of protection unit.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Cut off valve is part of protection unit.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "LM 2500 GT is a single spool GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Power turbine of LM 2500 GT has 6 in no. Stages.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Lube oil cooled by fresh water in case of LM 2500 GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "Inlet guide vanes assembly is variable in LM 2500 GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "LM 2500 GT is reversible GT",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "LM 2500 GAS TURBINE",
-    "question": "LM 2500 GT is non reversible GT.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE SYSTEMS",
-    "question": "CPD line is also connected to stop cock.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE SYSTEMS",
-    "question": "Dump valve when energized, decreases the HP fuel pump output.",
-    "options": {
-      "A": "True",
-      "B": "False"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "Number of air by Pass Valve On Combustion Chamber Casing Are",
-    "options": {
-      "A": "02",
-      "B": "04",
-      "C": "01",
-      "D": "08"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In M36 GT power turbine over speeds at",
-    "options": {
-      "A": "5000 to 5600",
-      "B": "5700 to 5950",
-      "C": "4600 to 4800",
-      "D": "7400"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE SYSTEMS",
-    "question": "The fuel pump drive is taken from",
-    "options": {
-      "A": "Rear accessory gear box",
-      "B": "Forward accessory gear box",
-      "C": "HPT supporting ring",
-      "D": "LPT supporting ring"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE SYSTEMS",
-    "question": "The engine lube oil pump drive is taken from",
-    "options": {
-      "A": "Central drive of adapter unit",
-      "B": "Central drive of front housing",
-      "C": "HPT supporting ring",
-      "D": "LPT supporting ring"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The Combustion Chamber is located",
-    "options": {
-      "A": "Between HPC and LPT",
-      "B": "Between rear housing and LPT",
-      "C": "Between rear housing and HPT",
-      "D": "Before the LPT"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "In no struts are incorporated in front housing.",
-    "options": {
-      "A": "06",
-      "B": "08",
-      "C": "04",
-      "D": "10"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE SYSTEMS",
-    "question": "PTR (pulse temperature regulator) is used to",
-    "options": {
-      "A": "Control the exhaust temperature",
-      "B": "To control the engine lub oil temperature",
-      "C": "To control the engine room temperature",
-      "D": "To control the RG lub oil temperature"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "Timer motor not in zero position is",
-    "options": {
-      "A": "A safety cut out",
-      "B": "A starting interlock",
-      "C": "An interlock during operation of GT.",
-      "D": "All of the above"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "Fuel stop cock in open position is",
-    "options": {
-      "A": "A safety cut out",
-      "B": "A starting interlock",
-      "C": "An interlock during operation of GT",
-      "D": "All of the above"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE SYSTEMS",
-    "question": "Fuel stop cock is in fuel system",
-    "options": {
-      "A": "Electrically operated valve",
-      "B": "Pneumatic operated valve",
-      "C": "Hydraulic operated valve",
-      "D": "Pneumatic and electric operated valve"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "Time required for normal preparation of gas turbine",
-    "options": {
-      "A": "01 hour",
-      "B": "10 minute",
-      "C": "15 minute",
-      "D": "120 sec"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "Time required for emergency preparation of gas turbine is",
-    "options": {
-      "A": "01 hour",
-      "B": "30 minute",
-      "C": "120 sec",
-      "D": "15 minute"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "Type of start perform on GT are",
-    "options": {
-      "A": "cold and false start",
-      "B": "False and hot start",
-      "C": "cold and hot start",
-      "D": "cold, hot and false start"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "Tech start is applicable for",
-    "options": {
-      "A": "Talwar Class Only",
-      "B": "Delhi Class Only",
-      "C": "Rajput and Delhi Class",
-      "D": "Talwar and Delhi Class"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "Cold start in GT is performed",
-    "options": {
-      "A": "to check the freeness of the rotors",
-      "B": "to clear the flow path",
-      "C": "To Preserve and De-Preserve the Fuel Equipment's",
-      "D": "to check the freeness of rotors and clear the flow path"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "False start in GT is performed",
-    "options": {
-      "A": "to clear the flow path",
-      "B": "to check the freeness of rotor",
-      "C": "to carry out the steam washing of compressors",
-      "D": "To Preserve and De-Preserve the Fuel Equipment's"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In false start of GT",
-    "options": {
-      "A": "Fuel system energized",
-      "B": "Ignition Unit energized",
-      "C": "Fuel System Energized but Not Ignition Unit",
-      "D": "Both Fuel and Ignition Unit Energized"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In crash stop of GT",
-    "options": {
-      "A": "Engine is stopped manually",
-      "B": "Engine is required to be operated for 5 to 10 minutes at idling speed",
-      "C": "Engine is required to be operated for 5 to 10 minutes at idling speed and is stopped manually",
-      "D": "Engine is stopped manually at any speed"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In emergency stop of GT",
-    "options": {
-      "A": "Engine is stopped manually",
-      "B": "Engine is required to be operated for 5 to 10 minutes at idling speed",
-      "C": "Engine is stopped manually at any speed",
-      "D": "Engine is stopped automatically due to operation of any safety cut outs"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In case of high exhaust gas temperature which stop will perform",
-    "options": {
-      "A": "Crash",
-      "B": "Emergency",
-      "C": "Emergency and crash",
-      "D": "Normal"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In case of heavy vibration in reduction gear which stop will perform",
-    "options": {
-      "A": "Normal and crash",
-      "B": "Normal",
-      "C": "Crash",
-      "D": "Emergency"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In case of heavy lube oil leakage which stop will perform",
-    "options": {
-      "A": "Normal",
-      "B": "Normal and crash",
-      "C": "Emergency",
-      "D": "Crash"
-    },
-    "answer": "C"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "In cold start of GT",
-    "options": {
-      "A": "Fuel system does not energized",
-      "B": "Ignition system does not energized",
-      "C": "Fuel system energized but not ignition system",
-      "D": "Both fuel and ignition system do not energized"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE OPERATION",
-    "question": "During steam washing of compressors in GT _______ start is performed",
-    "options": {
-      "A": "Cold",
-      "B": "False",
-      "C": "Cold and false",
-      "D": "False and hot"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE SYSTEMS",
-    "question": "LSHSD stands for",
-    "options": {
-      "A": "Low Sodium High Speed Diesel",
-      "B": "Low Sulfur High Speed Diesel",
-      "C": "Liquid Sodium High Speed Diesel",
-      "D": "None of the above"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The number of LP compressor stages in twin spool GT used in SNF class ships are",
-    "options": {
-      "A": "09",
-      "B": "10",
-      "C": "11",
-      "D": "12"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The number of HP compressor stages in twin spool GT used in SNF class ships are",
-    "options": {
-      "A": "09",
-      "B": "10",
-      "C": "11",
-      "D": "12"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The number of LP compressor stages in twin spool GT used in Delhi class ships are",
-    "options": {
-      "A": "09",
-      "B": "10",
-      "C": "11",
-      "D": "12"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The number of HP compressor stages in twin spool GT used in Delhi class ships are",
-    "options": {
-      "A": "09",
-      "B": "10",
-      "C": "11",
-      "D": "12"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "GAS TURBINE CONSTRUCTION",
-    "question": "The number of compressor stages in single spool GT (LM 2500) used in Shivalik class ships are",
-    "options": {
-      "A": "16",
-      "B": "15",
-      "C": "11",
-      "D": "12"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "In 1241 RE class of ships gear ratio of reduction gear for cruise engine is",
-    "options": {
-      "A": "1:21",
-      "B": "1:23.2",
-      "C": "1:45",
-      "D": "1:15"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "In 1241 RE class of ships gear ratio of reduction gear for boost engine is",
-    "options": {
-      "A": "1:10",
-      "B": "1:4.81",
-      "C": "1:23",
-      "D": "1:1.5"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "Function of the reduction gear is",
-    "options": {
-      "A": "To combine the power from various sources",
-      "B": "To reduce the speed and increase the torque",
-      "C": "To reverse the rotation of propeller",
-      "D": "All of these"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "Jaw coupling used in reduction gear is a _______ coupling",
-    "options": {
-      "A": "Friction",
-      "B": "Positive",
-      "C": "Hydraulic",
-      "D": "Magnet"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "Friction coupling used in reduction gear is an _______ coupling",
-    "options": {
-      "A": "Air operated",
-      "B": "Hydraulic operated",
-      "C": "Mechanical operated",
-      "D": "Magnetic operated"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "Hydraulic coupling is also known as",
-    "options": {
-      "A": "Hydraulic transformer",
-      "B": "Hydro dynamic coupling",
-      "C": "Fluid coupling",
-      "D": "All of these"
-    },
-    "answer": "D"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "Synchronous coupling is also known as",
-    "options": {
-      "A": "SSS coupling",
-      "B": "Hydraulic coupling",
-      "C": "Fluid coupling",
-      "D": "Jaw coupling"
-    },
-    "answer": "A"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "Gear ratio of reduction gear of SNF class of ships is",
-    "options": {
-      "A": "1:21",
-      "B": "1:11",
-      "C": "1:15",
-      "D": "1:45"
-    },
-    "answer": "B"
-  },
-  {
-    "subject": "REDUCTION GEAR",
-    "question": "Gear ratio of reduction gear of Delhi class of ships is",
-    "options": {
-      "A": "1:23.2",
-      "B": "1:1.5",
-      "C": "1:21",
-      "D": "1:10.7"
-    },
-    "answer": "D"
-  }
-]
+    {
+      "question_number": 1,
+      "pdf_page_number": 1,
+      "question": "The power output of a gas turbine is",
+      "options": [
+        "Intermittent",
+        "Limited",
+        "Cont. Uniform",
+        "None of the above"
+      ],
+      "answer": "Cont. Uniform"
+    },
+    {
+      "question_number": 2,
+      "pdf_page_number": 1,
+      "question": "The Function of the compressor is to __________ of the air",
+      "options": [
+        "Increase volume",
+        "Increase mass flow",
+        "Increase Quantity",
+        "Increase pressure"
+      ],
+      "answer": "Increase pressure"
+    },
+    {
+      "question_number": 3,
+      "pdf_page_number": 1,
+      "question": "Gas turbine becomes __________ after starters are cut off",
+      "options": [
+        "Stable",
+        "Dependent",
+        "Self-sustained",
+        "Unsafe"
+      ],
+      "answer": "Self-sustained"
+    },
+    {
+      "question_number": 4,
+      "pdf_page_number": 1,
+      "question": "__________ are used to start the Gas Turbine from cold condition.",
+      "options": [
+        "DC starter",
+        "AC starter",
+        "None",
+        "All"
+      ],
+      "answer": "DC starter"
+    },
+    {
+      "question_number": 5,
+      "pdf_page_number": 1,
+      "question": "Single spool gas turbines means",
+      "options": [
+        "One compressor one combustion chamber and one turbine",
+        "One compressor one combustion chamber and one turbine with free power turbine",
+        "One compressor one combustion chamber and two turbines",
+        "All of these"
+      ],
+      "answer": "One compressor one combustion chamber and one turbine"
+    },
+    {
+      "question_number": 6,
+      "pdf_page_number": 1,
+      "question": "The possible combination of steam propulsion with GT propulsion are",
+      "options": [
+        "COSAG",
+        "COSOG",
+        "COSAG and COSOG both",
+        "COGAG"
+      ],
+      "answer": "COSAG and COSOG both"
+    },
+    {
+      "question_number": 7,
+      "pdf_page_number": 1,
+      "question": "The possible combination of GT propulsion with GT propulsion are",
+      "options": [
+        "COGAG and COGOG both",
+        "COGAG",
+        "COGOG",
+        "COSAG"
+      ],
+      "answer": "COGAG and COGOG both"
+    },
+    {
+      "question_number": 8,
+      "pdf_page_number": 1,
+      "question": "The new generation Gas Turbine LM 2500 is Inducted in which class of ship",
+      "options": [
+        "Petya",
+        "1241 RE",
+        "Delhi",
+        "Shivalik"
+      ],
+      "answer": "Shivalik"
+    },
+    {
+      "question_number": 9,
+      "pdf_page_number": 1,
+      "question": "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
+      "options": [
+        "Delhi class and SNF class",
+        "Delhi class",
+        "SNF class",
+        "Shivalik class"
+      ],
+      "answer": "Delhi class and SNF class"
+    },
+    {
+      "question_number": 10,
+      "pdf_page_number": 1,
+      "question": "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
+      "options": [
+        "Talwar class",
+        "Delhi class",
+        "1241 RE class",
+        "Shivalik class"
+      ],
+      "answer": "1241 RE class"
+    },
+    {
+      "question_number": 11,
+      "pdf_page_number": 1,
+      "question": "The heat addition process of a Gas Turbine occurs in the",
+      "options": [
+        "Combustion chamber",
+        "Compressor",
+        "Turbine",
+        "None"
+      ],
+      "answer": "Combustion chamber"
+    },
+    {
+      "question_number": 12,
+      "pdf_page_number": 1,
+      "question": "The work output of the Gas Turbine is obtained from the",
+      "options": [
+        "Combustion chamber",
+        "Compressor",
+        "Turbine",
+        "DC starters"
+      ],
+      "answer": "Turbine"
+    },
+    {
+      "question_number": 13,
+      "pdf_page_number": 1,
+      "question": "The gas generating section consists of",
+      "options": [
+        "Combustion chamber",
+        "Compressor",
+        "Turbine",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_number": 14,
+      "pdf_page_number": 1,
+      "question": "The power conversion section consists of",
+      "options": [
+        "Turbine",
+        "Reduction gear",
+        "Propeller shaft",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_number": 15,
+      "pdf_page_number": 1,
+      "question": "__________ is used as fuel in marine gas turbine used in Indian Navy",
+      "options": [
+        "HFO",
+        "Coal",
+        "LSHSD",
+        "AVCAT"
+      ],
+      "answer": "LSHSD"
+    },
+    {
+      "question_number": 16,
+      "pdf_page_number": 1,
+      "question": "The working fluid of the gas turbine consists of",
+      "options": [
+        "Air",
+        "Fuel",
+        "Air and fuel",
+        "Feed water"
+      ],
+      "answer": "Air and fuel"
+    },
+    {
+      "question_number": 17,
+      "pdf_page_number": 1,
+      "question": "The gas turbine onboard Delhi class of ships",
+      "options": [
+        "Have a PT",
+        "Do not have a PT",
+        "Have two combustion chambers",
+        "None of the above"
+      ],
+      "answer": "Have a PT"
+    },
+    {
+      "question_number": 18,
+      "pdf_page_number": 1,
+      "question": "The Gas Turbine onboard 1241RE class of ships",
+      "options": [
+        "Have a PT",
+        "Do not have a PT",
+        "Have two combustion chambers",
+        "None of the above"
+      ],
+      "answer": "Have a PT"
+    },
+    {
+      "question_number": 19,
+      "pdf_page_number": 1,
+      "question": "The Gas Turbine onboard Shivalik class of ships",
+      "options": [
+        "Have a PT",
+        "Do not have a PT",
+        "Have two combustion chambers",
+        "None of the above"
+      ],
+      "answer": "Have a PT"
+    },
+    {
+      "question_number": 20,
+      "pdf_page_number": 1,
+      "question": "The Gas Turbine cycle is called",
+      "options": [
+        "Rankine",
+        "Brayton",
+        "Joule",
+        "Joule Brayton"
+      ],
+      "answer": "Joule Brayton"
+    },
+    {
+      "question_number": 21,
+      "pdf_page_number": 1,
+      "question": "Gas turbine can be divided into",
+      "options": [
+        "Gas generating section and power conversion section",
+        "Combustion chamber and turbine",
+        "Compressor and turbine",
+        "Combustion chamber and power turbine"
+      ],
+      "answer": "Gas generating section and power conversion section"
+    },
+    {
+      "question_number": 22,
+      "pdf_page_number": 1,
+      "question": "Gas turbine can be classified into __________ according to spool arrangement",
+      "options": [
+        "Single spool and multi spool",
+        "Open cycle and close cycle",
+        "Constant pressure cycle and constant volume cycle",
+        "All of these"
+      ],
+      "answer": "Single spool and multi spool"
+    },
+    {
+      "question_number": 23,
+      "pdf_page_number": 1,
+      "question": "Gas Turbine can be classified into __________ according to flow path of working media",
+      "options": [
+        "Single spool and multi spool",
+        "Open cycle and close cycle",
+        "Constant pressure cycle and constant volume cycle",
+        "All of these"
+      ],
+      "answer": "Open cycle and close cycle"
+    },
+    {
+      "question_number": 24,
+      "pdf_page_number": 1,
+      "question": "Air pressure required for the operation of air by pass valve during over speeding of power turbine is",
+      "options": [
+        "100 to 110 kgf/cm2",
+        "9 to 11 kgf/cm2",
+        "150 to 200 kgf/cm2",
+        "10 to 18 kgf/cm2"
+      ],
+      "answer": "100 to 110 kgf/cm2"
+    },
+    {
+      "question_number": 25,
+      "pdf_page_number": 1,
+      "question": "Reversing is achieved in SNF ships By",
+      "options": [
+        "Engine",
+        "Reduction Gear",
+        "Controllable Pitch Propeller (CPP)",
+        "Engine and Reduction Gear Both"
+      ],
+      "answer": "Reduction Gear"
+    },
+    {
+      "question_number": 26,
+      "pdf_page_number": 1,
+      "question": "The SFC of GT is __________ at part load.",
+      "options": [
+        "Poor",
+        "Average",
+        "Good",
+        "None of the above"
+      ],
+      "answer": "Poor"
+    },
+    {
+      "question_number": 27,
+      "pdf_page_number": 1,
+      "question": "The SFC of GT is __________ at peak power.",
+      "options": [
+        "Poor",
+        "Average",
+        "Good",
+        "None of the above"
+      ],
+      "answer": "Good"
+    },
+    {
+      "question_number": 28,
+      "pdf_page_number": 1,
+      "question": "The normal preparation time of GT is __________ mins.",
+      "options": [
+        "15",
+        "30",
+        "45",
+        "60"
+      ],
+      "answer": "60"
+    },
+    {
+      "question_number": 29,
+      "pdf_page_number": 2,
+      "question": "In Marine Gas Turbine used as a main propulsion unit the power is directly taken through",
+      "options": [
+        "Free power turbine",
+        "Turbine which is connected to compressor",
+        "Free power turbine and reduction gear",
+        "Turbine which is connected to compressor and reduction gear"
+      ],
+      "answer": "Free power turbine and reduction gear"
+    },
+    {
+      "question_number": 30,
+      "pdf_page_number": 2,
+      "question": "Disadvantages of Gas Turbine over steam propulsion is",
+      "options": [
+        "High power to weight ratio",
+        "Low installation and operating cost",
+        "Easy to start from cold condition",
+        "During starting compressors are required to be rotated through any external source"
+      ],
+      "answer": "During starting compressors are required to be rotated through any external source"
+    },
+    {
+      "question_number": 31,
+      "pdf_page_number": 2,
+      "question": "Disadvantages of Gas Turbine over diesel propulsion is",
+      "options": [
+        "High power to weight ratio",
+        "Less working pressure of working media",
+        "Uniform and continuous power",
+        "High fuel consumption at part load"
+      ],
+      "answer": "High fuel consumption at part load"
+    },
+    {
+      "question_number": 32,
+      "pdf_page_number": 2,
+      "question": "At present Indian Naval Ship with GT as a main propulsion are having",
+      "options": [
+        "CODAG",
+        "combination arrangement with diesel",
+        "CODOG",
+        "CODAG and CODOG both"
+      ],
+      "answer": "CODOG"
+    },
+    {
+      "question_number": 33,
+      "pdf_page_number": 2,
+      "question": "Gas Turbine can be used for",
+      "options": [
+        "Power generation",
+        "Air craft",
+        "Marine propulsion",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_number": 34,
+      "pdf_page_number": 2,
+      "question": "SW mounts are used in gas turbines",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 35,
+      "pdf_page_number": 2,
+      "question": "In a twin spool Gas Turbine, the LPC is connected to",
+      "options": [
+        "HPV",
+        "HPT",
+        "LPT",
+        "PT"
+      ],
+      "answer": "LPT"
+    },
+    {
+      "question_number": 36,
+      "pdf_page_number": 2,
+      "question": "In a twin spool Gas Turbine, the HPC is connected to",
+      "options": [
+        "LPC",
+        "HPT",
+        "LPT",
+        "PT"
+      ],
+      "answer": "HPT"
+    },
+    {
+      "question_number": 37,
+      "pdf_page_number": 2,
+      "question": "The Efficiency of GT __________ with a drop in ambient air temperature",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "None of the above"
+      ],
+      "answer": "Increases"
+    },
+    {
+      "question_number": 38,
+      "pdf_page_number": 2,
+      "question": "The heat addition process in a Gas Turbine is a __________ process",
+      "options": [
+        "Isentropic",
+        "Isothermal",
+        "Isochoric",
+        "Isobaric"
+      ],
+      "answer": "Isobaric"
+    },
+    {
+      "question_number": 39,
+      "pdf_page_number": 2,
+      "question": "The compression process in a Gas Turbine is a __________ process",
+      "options": [
+        "Isentropic",
+        "Isothermal",
+        "Isochoric",
+        "Isobaric"
+      ],
+      "answer": "Isentropic"
+    },
+    {
+      "question_number": 40,
+      "pdf_page_number": 2,
+      "question": "The expansion process in a Gas Turbine is a __________ process",
+      "options": [
+        "Isentropic",
+        "Isothermal",
+        "Isochoric",
+        "Isobaric"
+      ],
+      "answer": "Isentropic"
+    },
+    {
+      "question_number": 41,
+      "pdf_page_number": 2,
+      "question": "The inlet guide vanes in the __________ may be",
+      "options": [
+        "Variable",
+        "Fixed",
+        "Variable and fixed both",
+        "None of these"
+      ],
+      "answer": "Variable and fixed both"
+    },
+    {
+      "question_number": 42,
+      "pdf_page_number": 2,
+      "question": "Front housing is located",
+      "options": [
+        "Between air intake and LPC",
+        "Before the air intake",
+        "Between LPC and HPC",
+        "After the LPC"
+      ],
+      "answer": "Between air intake and LPC"
+    },
+    {
+      "question_number": 43,
+      "pdf_page_number": 2,
+      "question": "Low Pressure Compressor is driven by __________ during operation of gas turbine",
+      "options": [
+        "Low Pressure Turbine",
+        "High Pressure Turbine",
+        "Electric starter",
+        "Pneumatic starter"
+      ],
+      "answer": "Low Pressure Turbine"
+    },
+    {
+      "question_number": 44,
+      "pdf_page_number": 2,
+      "question": "The starter drive is taken from in DE 59 GT",
+      "options": [
+        "Rear accessory gear box",
+        "Forward accessory gear box",
+        "LPC",
+        "HPT"
+      ],
+      "answer": "Rear accessory gear box"
+    },
+    {
+      "question_number": 45,
+      "pdf_page_number": 2,
+      "question": "Type of burner used in M15 GT is",
+      "options": [
+        "Spill",
+        "Simplex",
+        "Duplex",
+        "Air pre mix"
+      ],
+      "answer": "Duplex"
+    },
+    {
+      "question_number": 46,
+      "pdf_page_number": 2,
+      "question": "Gas turbine is __________ using gas as a working media",
+      "options": [
+        "Self-sustained",
+        "Continuous cycle",
+        "Heat engine",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_number": 47,
+      "pdf_page_number": 2,
+      "question": "Number of Flame Tube in Combustion Chamber Are",
+      "options": [
+        "09",
+        "10",
+        "08",
+        "07"
+      ],
+      "answer": "10"
+    },
+    {
+      "question_number": 48,
+      "pdf_page_number": 2,
+      "question": "Number of Igniter in Combustion Chamber Are",
+      "options": [
+        "01",
+        "02",
+        "10",
+        "03"
+      ],
+      "answer": "02"
+    },
+    {
+      "question_number": 49,
+      "pdf_page_number": 2,
+      "question": "Surging occurs in",
+      "options": [
+        "Combustion chamber",
+        "Compressor",
+        "Turbine",
+        "All of the above"
+      ],
+      "answer": "Compressor"
+    },
+    {
+      "question_number": 50,
+      "pdf_page_number": 2,
+      "question": "Closed cycle Gas Turbines are used on",
+      "options": [
+        "Ships",
+        "Aircrafts",
+        "Power generation",
+        "None of the above"
+      ],
+      "answer": "Power generation"
+    },
+    {
+      "question_number": 51,
+      "pdf_page_number": 2,
+      "question": "Gas Turbines have __________ response when compared to Steam Engines.",
+      "options": [
+        "Slow",
+        "Fast",
+        "Same",
+        "None of the above"
+      ],
+      "answer": "Fast"
+    },
+    {
+      "question_number": 52,
+      "pdf_page_number": 2,
+      "question": "Twin spool Gas Turbine means",
+      "options": [
+        "Two compressors two combustion chambers and two turbines",
+        "Two compressors with two turbines and one combustion chamber",
+        "One compressor one combustion chamber with two turbines",
+        "All of these"
+      ],
+      "answer": "Two compressors with two turbines and one combustion chamber"
+    },
+    {
+      "question_number": 53,
+      "pdf_page_number": 2,
+      "question": "Disadvantages of gas Turbine is",
+      "options": [
+        "High speed",
+        "High power to weight ratio",
+        "High fuel consumption at part load",
+        "Quick starting capability"
+      ],
+      "answer": "High fuel consumption at part load"
+    },
+    {
+      "question_number": 54,
+      "pdf_page_number": 2,
+      "question": "1241 RE class of ships are fitted with",
+      "options": [
+        "Cruise GT",
+        "Boost GT",
+        "Cruise and boost GT",
+        "None"
+      ],
+      "answer": "Cruise and boost GT"
+    },
+    {
+      "question_number": 55,
+      "pdf_page_number": 2,
+      "question": "Link shaft is available on",
+      "options": [
+        "Petya",
+        "1241RE",
+        "SNF",
+        "Delhi"
+      ],
+      "answer": "1241RE"
+    },
+    {
+      "question_number": 56,
+      "pdf_page_number": 2,
+      "question": "On a 1241 RE class ship __________ can be used to drive both the propellers",
+      "options": [
+        "One cruise GT",
+        "Two Boost",
+        "Both a and b",
+        "None of the above"
+      ],
+      "answer": "Both a and b"
+    },
+    {
+      "question_number": 57,
+      "pdf_page_number": 2,
+      "question": "The Gas Turbine fitted on __________ class of ships is a reversible gas turbine",
+      "options": [
+        "SNF",
+        "Delhi",
+        "1241RE",
+        "Petya"
+      ],
+      "answer": "1241RE"
+    },
+    {
+      "question_number": 58,
+      "pdf_page_number": 2,
+      "question": "The compressor discharge of pressurized air is delivered to",
+      "options": [
+        "LPC",
+        "Combustion chamber",
+        "HPT",
+        "LPT"
+      ],
+      "answer": "Combustion chamber"
+    },
+    {
+      "question_number": 59,
+      "pdf_page_number": 2,
+      "question": "Rear accessory gear box is mounted on",
+      "options": [
+        "Adapter unit",
+        "Front housing",
+        "Rear housing",
+        "HPC"
+      ],
+      "answer": "HPC"
+    },
+    {
+      "question_number": 60,
+      "pdf_page_number": 2,
+      "question": "Anti-surge device fitted in LM 2500 GT is operated by",
+      "options": [
+        "Pneumatic system",
+        "Electrical system",
+        "Hydraulic system",
+        "Electro hydraulic system"
+      ],
+      "answer": "Electro hydraulic system"
+    },
+    {
+      "question_number": 61,
+      "pdf_page_number": 3,
+      "question": "Reheater is fitted between Compressor & Combustion Chamber.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 62,
+      "pdf_page_number": 3,
+      "question": "01 stage of stator and 01 stage of rotor consists of one stage in axial flow compressor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 63,
+      "pdf_page_number": 3,
+      "question": "GT is a continuous & self-sustaining heat engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 64,
+      "pdf_page_number": 3,
+      "question": "Power conversion section consists of compressor & Combustion Chamber.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 65,
+      "pdf_page_number": 3,
+      "question": "Gas generating section consists of compressor & Combustion Chamber.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 66,
+      "pdf_page_number": 3,
+      "question": "COGOG plants fitted in 1241 RE class ships.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 67,
+      "pdf_page_number": 3,
+      "question": "COGAG plant fitted in SNF class ship.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 68,
+      "pdf_page_number": 3,
+      "question": "COGOG plants fitted in Shivalik class ships.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 69,
+      "pdf_page_number": 3,
+      "question": "COGOG plants are fitted Shivalik class of ships",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 70,
+      "pdf_page_number": 3,
+      "question": "Torque developed by GT is continuous and uniform as compared to diesel engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 71,
+      "pdf_page_number": 3,
+      "question": "In Gas turbines power to weight ratio is high.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 72,
+      "pdf_page_number": 3,
+      "question": "In Gas turbines power to weight ratio is low",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 73,
+      "pdf_page_number": 3,
+      "question": "In open cycle any other gases other than air can be used.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 74,
+      "pdf_page_number": 3,
+      "question": "Power conversion section consists of compressor and turbine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 75,
+      "pdf_page_number": 3,
+      "question": "COGOG plants fitted in SNF class ships.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 76,
+      "pdf_page_number": 3,
+      "question": "COGAG plant fitted in 1241RE class ship.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 77,
+      "pdf_page_number": 3,
+      "question": "COGOG plants fitted in Talwar class ships.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 78,
+      "pdf_page_number": 3,
+      "question": "COGOG plants are fitted in Talwar class of ships.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 79,
+      "pdf_page_number": 3,
+      "question": "Torque developed by GT is not continuous and uniform as compared to diesel engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 80,
+      "pdf_page_number": 3,
+      "question": "By adopting the combined propulsion arrangement, the endurance of ship at sea can be increased.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 81,
+      "pdf_page_number": 3,
+      "question": "CODOG arrangement is available in Shivalik class of ships.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 82,
+      "pdf_page_number": 3,
+      "question": "Gas turbines are very sensitive to temperature.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 83,
+      "pdf_page_number": 3,
+      "question": "GT occupies more space as compared to diesel engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 84,
+      "pdf_page_number": 3,
+      "question": "GT occupies more space as compared to steam turbine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 85,
+      "pdf_page_number": 3,
+      "question": "Gas turbines have longer Life between major overhaul",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 86,
+      "pdf_page_number": 3,
+      "question": "Vibrations are more in GT",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 87,
+      "pdf_page_number": 3,
+      "question": "Working pressure of GT is low in comparison to ICE.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 88,
+      "pdf_page_number": 3,
+      "question": "Due to less weight of GT ships center of gravity moves upwards.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 89,
+      "pdf_page_number": 3,
+      "question": "Fuel consumption increases with the years of operation of GT plant",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 90,
+      "pdf_page_number": 3,
+      "question": "High infra-red signature is one of the advantages in GT",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 91,
+      "pdf_page_number": 4,
+      "question": "Part load efficiency is poor in Gas Turbines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 92,
+      "pdf_page_number": 4,
+      "question": "Part load efficiency is high in Gas Turbines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 93,
+      "pdf_page_number": 4,
+      "question": "Torque developed by GT is not uniform.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 94,
+      "pdf_page_number": 4,
+      "question": "There are three burners in combustion chamber",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 95,
+      "pdf_page_number": 4,
+      "question": "Cannular type of combustion chamber can be of both reverse flow and straight flow",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 96,
+      "pdf_page_number": 4,
+      "question": "Compressor fouling leads to surging",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 97,
+      "pdf_page_number": 4,
+      "question": "Surging actually occurs during starting or rapid change of load.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 98,
+      "pdf_page_number": 4,
+      "question": "Blow Off valve prevents surging by discharging air at some intermediate stages.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 99,
+      "pdf_page_number": 4,
+      "question": "Thermal efficiency of the simple GT decreases by inter cooling the inter cooler.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 100,
+      "pdf_page_number": 4,
+      "question": "Angle at which air is entering the rotor blade is known as incidence angle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 101,
+      "pdf_page_number": 4,
+      "question": "The angle of attack is the angle between the air and the blade chord.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 102,
+      "pdf_page_number": 4,
+      "question": "Work done on the air per unit mass is given by Work = Vw Vb / g.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 103,
+      "pdf_page_number": 4,
+      "question": "Maximum possible work per stage is limited by the danger of stalling.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 104,
+      "pdf_page_number": 4,
+      "question": "Efficiency of a well-designed compressor stage is 85-90 %.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 105,
+      "pdf_page_number": 4,
+      "question": "Surging is the complete breakdown of steady flow through the compressor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 106,
+      "pdf_page_number": 4,
+      "question": "Choking occurs when the flow through a passage reaches the speed of sound.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 107,
+      "pdf_page_number": 4,
+      "question": "Blade tip clearance is not very critical for compressor performance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 108,
+      "pdf_page_number": 4,
+      "question": "Centrifugal compressors are used for high mass flow rates.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 109,
+      "pdf_page_number": 4,
+      "question": "The primary zone of a combustion chamber is where the fuel is burnt.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 110,
+      "pdf_page_number": 4,
+      "question": "Dilution air is added to cool down the combustion gases before they enter the turbine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 111,
+      "pdf_page_number": 4,
+      "question": "Annular combustion chambers are more compact than can-type chambers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 112,
+      "pdf_page_number": 4,
+      "question": "The pressure drop across a combustion chamber should be as high as possible.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 113,
+      "pdf_page_number": 4,
+      "question": "Fuel atomization is crucial for efficient combustion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 114,
+      "pdf_page_number": 4,
+      "question": "Carbon deposits on the fuel burner can affect the spray pattern.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 115,
+      "pdf_page_number": 4,
+      "question": "Gas turbine rotors are usually supported by ball or roller bearings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 116,
+      "pdf_page_number": 4,
+      "question": "Labyrinth seals are used to prevent gas leakage along the shaft.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 117,
+      "pdf_page_number": 5,
+      "question": "Turbine blades are cooled by air extracted from the compressor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 118,
+      "pdf_page_number": 5,
+      "question": "Creep is the slow plastic deformation of a material under constant stress at high temperatures.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 119,
+      "pdf_page_number": 5,
+      "question": "Thermal fatigue is caused by rapid changes in temperature.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 120,
+      "pdf_page_number": 5,
+      "question": "The exhaust gas temperature is a critical parameter for monitoring turbine health.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 121,
+      "pdf_page_number": 5,
+      "question": "Variable Stator Vanes (VSVs) are used to improve compressor performance at low speeds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 122,
+      "pdf_page_number": 5,
+      "question": "The purpose of a regenerator is to recover heat from the exhaust gases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 123,
+      "pdf_page_number": 5,
+      "question": "Intercooling between compressor stages increases the work required for compression.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 124,
+      "pdf_page_number": 5,
+      "question": "Reheating between turbine stages increases the power output.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 125,
+      "pdf_page_number": 5,
+      "question": "A turbofan engine is more efficient than a turbojet at subsonic speeds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 126,
+      "pdf_page_number": 5,
+      "question": "The bypass ratio is the ratio of bypass air to core air in a turbofan engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 127,
+      "pdf_page_number": 5,
+      "question": "The thrust of a jet engine increases with altitude.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 128,
+      "pdf_page_number": 5,
+      "question": "Specific Fuel Consumption (SFC) is the amount of fuel consumed per unit of thrust or power.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 129,
+      "pdf_page_number": 5,
+      "question": "The compressor pressure ratio is the ratio of discharge pressure to inlet pressure.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 130,
+      "pdf_page_number": 5,
+      "question": "Igniters are used continuously during the operation of the gas turbine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 131,
+      "pdf_page_number": 5,
+      "question": "The turbine inlet temperature is limited by the material properties of the turbine blades.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 132,
+      "pdf_page_number": 5,
+      "question": "A free power turbine is mechanically coupled to the gas generator rotor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 133,
+      "pdf_page_number": 5,
+      "question": "Gas turbines can run on a variety of fuels, including natural gas and diesel.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 134,
+      "pdf_page_number": 5,
+      "question": "Water washing is performed to remove salt and dirt from compressor blades.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 135,
+      "pdf_page_number": 5,
+      "question": "The synthetic oil used in gas turbines has a high flash point.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 136,
+      "pdf_page_number": 5,
+      "question": "Magnetic chips detectors are used to monitor bearing wear.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 137,
+      "pdf_page_number": 5,
+      "question": "The bleed air system is used for anti-icing and cabin pressurization in aircraft.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 138,
+      "pdf_page_number": 5,
+      "question": "The diffuser converts kinetic energy of the air into pressure energy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 139,
+      "pdf_page_number": 5,
+      "question": "The secondary air in a combustion chamber is used for cooling the liner.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 140,
+      "pdf_page_number": 5,
+      "question": "Impulse turbines use the pressure drop in the moving blades to produce work.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question_number": 141,
+      "pdf_page_number": 5,
+      "question": "Reaction turbines have a pressure drop in both fixed and moving blades.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 142,
+      "pdf_page_number": 5,
+      "question": "The fir-tree root is a common method for attaching turbine blades to the disk.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 143,
+      "pdf_page_number": 5,
+      "question": "The fuel control unit regulates the fuel flow based on throttle position and engine parameters.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 144,
+      "pdf_page_number": 5,
+      "question": "Overspeed protection systems are designed to shut down the engine if it exceeds safe limits.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 145,
+      "pdf_page_number": 5,
+      "question": "Hot starts occur when the fuel ignites before the engine has reached sufficient speed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 146,
+      "pdf_page_number": 5,
+      "question": "Hung starts occur when the engine fails to accelerate to idle speed after ignition.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 147,
+      "pdf_page_number": 5,
+      "question": "The fire detection system uses sensors to detect heat or flame in the engine compartment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 148,
+      "pdf_page_number": 5,
+      "question": "The chip detector indicates the presence of metal particles in the oil system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 149,
+      "pdf_page_number": 5,
+      "question": "The air intake system must provide a smooth and uniform flow of air to the compressor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question_number": 150,
+      "pdf_page_number": 5,
+      "question": "Gas turbine maintenance includes periodic inspections using a borescope.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
