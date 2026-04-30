@@ -373,11 +373,11 @@
     "question": "Expand FUSS.",
     "options": [
       "Feedback on unit support shortfall",
-      "Feedback on upkeep shortfall",
+      "Feedback on upkeep support shortfall",
       "Feed on upcoming support shortfall",
       "Feedback on upkeep support & spare"
     ],
-    "answer": "Feedback on upkeep shortfall"
+    "answer": "Feedback on upkeep support shortfall"
   },
   {
     "subject": "Reports and Returns",
@@ -742,7 +742,7 @@
       "30000 to 39999",
       "31000 to 39999"
     ],
-    "answer": "10000 to 19999"
+    "answer": "30000 to 39999"
   },
   {
     "subject": "Refit Management",
@@ -829,7 +829,7 @@
       "CO/EO/MTU/DOCKYARD",
       "COMMAND HQS/MTU/CO/EO"
     ],
-    "answer": "CO/EO/MTU/DOCKYARD"
+    "answer": "MTU/ETMA/DOCKYARD/COMMAND HQS"
   },
   {
     "subject": "Refit Management",
@@ -1119,7 +1119,7 @@
     "subject": "Trials"
   },
   {
-    "question": "Brain trial is a type of sea trial (T/F).",
+    "question": "Basin trial is a type of sea trial (T/F).",
     "options": [
       "True",
       "False"
@@ -1630,9 +1630,9 @@
       "Cold Checks Of All The Equipment",
       "Hot Start Of Main Engines/Equipment",
       "Date Of Commissioning",
-      "SPTA Thorough Checks And Taken Over"
+      "D787/SPTA Thorough Checks And Taken Over"
     ],
-    "answer": "SPTA Thorough Checks And Taken Over",
+    "answer": "D787/SPTA Thorough Checks And Taken Over",
     "subject": "Commissioning of Ships"
   },
   {
@@ -1651,11 +1651,11 @@
     "question": "In Commissioning of ship, undocking date is indicated by cardinal date ________",
     "options": [
       "D4",
+      "D1",
       "D5",
-      "D6",
-      "D7"
+      "D6"
     ],
-    "answer": "D5"
+    "answer": "D1"
   },
   {
     "subject": "Commissioning of Ships",
@@ -1694,12 +1694,12 @@
     "subject": "Commissioning of Ships",
     "question": "In Commissioning of ship, cold checks of all the equipment’s is indicated by cardinal date ________",
     "options": [
-      "D1",
-      "D7",
       "D8",
+      "D7",
+      "D5",
       "D6"
     ],
-    "answer": "D1"
+    "answer": "D8"
   },
   {
     "subject": "Commissioning of Ships",
@@ -2413,12 +2413,12 @@
     "subject": "SD and ACR",
     "question": "Service Document is divided into ____ station.",
     "options": [
-      "10",
+      "2",
       "4",
-      "5",
-      "6"
+      "6",
+      "8"
     ],
-    "answer": "5"
+    "answer": "6"
   },
   {
     "subject": "SD and ACR",
@@ -2655,31 +2655,31 @@
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "A _____ machine is the machine that will be manipulated during the alignment process.",
     "options": ["Rigid", "Fixed", "Movable", "All of the above"],
     "answer": "Movable"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "A Movable machine is the machine that will be manipulated during the alignment process. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "What is the offset of the TIR is _______",
     "options": ["0.005\"", "0.010\"", "0.015\"", "0.020\""],
     "answer": "0.015\""
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "The offset of the TIR is 0.015\". (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "TIR in alignment stands for _________",
     "options": [
       "Total Direct Indicator Reading",
@@ -2690,13 +2690,13 @@
     "answer": "Total Dial Indicator Reading"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Radial and ______ are the two main type of alignments.",
     "options": ["Vertical", "Axial", "Horizontal", "All of the above"],
     "answer": "Axial"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "______ and ______ are the two main type of alignments.",
     "options": [
       "Radial and Vertical",
@@ -2707,67 +2707,67 @@
     "answer": "Radial and axial"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "A machine should be kept misaligned in cold alignment according to hot alignment values. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "A machine should not be kept misaligned in cold alignment according to hot alignment values. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Hot alignment values are given by machine manufactures. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "If the hot alignment values are not given by machine manufactures then machine should be aligned in cold condition and then made to run up to normal operating condition and then stop abruptly and take the misalignment reading within 5–10 mins. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Movable machine is one which is easy to move for shimming and correction of misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "______ machine is one which is easy to move for shimming and correction of misalignment.",
     "options": ["Rigid", "Fixed", "Movable", "All of the above"],
     "answer": "Movable"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "In Pump and motor, Pump will be fix machine and motor will moveable machine in most of cases. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "In pump and motor alignment pump is kept fixed because it is connected to piping. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "The feet of machine near to coupling is called Near feet or front feet. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "The feet of machine near to coupling is called rear feet or away feet. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "The feet of machine near to coupling is called ______ feet",
     "options": [
       "Near feet or front feet",
@@ -2778,7 +2778,7 @@
     "answer": "Near feet or front feet"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "The feet of machine away from machine are called rear feet or away feet. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
@@ -3000,7 +3000,7 @@
   "answer": "False"
 },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "_______ method is used to determine angular misalignment",
     "options": [
       "Face gap",
@@ -3011,67 +3011,67 @@
     "answer": "Face gap"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Cross laced metallic links are used in _______ type of coupling.",
     "options": ["Gear", "Flexible link", "Pin drive", "Flexible"],
     "answer": "Flexible link"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Pin drive coupling consists of _______ with leaf springs that engage directly into holes bored in shaft hubs.",
     "options": ["Metal pins", "Roller", "Gear Sprockets", "Disc"],
     "answer": "Metal pins"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Couplings can be lubricated in four ways. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Single charge lubricated coupling are lubricated with _______.",
     "options": ["Grease", "Lub oil", "Preservative", "None"],
     "answer": "Grease"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Continuous feed lubricated couplings use _______ for both lubrication and heat transfer purpose.",
     "options": ["Lub oil", "Grease", "Preservative", "None"],
     "answer": "Lub oil"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Coupling installation needs proper inspection of clearance, fits. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "_______ is characterized as up and down misalignment when viewed from either side of the coupling.",
     "options": ["Vertical offset", "Axial offset", "All of the above"],
-    "answer": "Axial offset"
+    "answer": "Vertical offset"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When the datum axis of two objects is neither parallel nor coaxial then this is known as angular misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When the datum axis of two objects is neither parallel nor coaxial then this is known as skew misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When the datum axis of two objects is neither parallel nor coaxial then this is known as _______ angular misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When the datum axis of two objects is neither parallel nor coaxial then this is known as",
     "options": [
       "Skew misalignment",
@@ -3082,7 +3082,7 @@
     "answer": "Angular misalignment"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When axial float is unmanageable _______ method is used.",
     "options": [
       "Reverse indicator",
@@ -3093,19 +3093,19 @@
     "answer": "Reverse indicator"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Skew misalignment is the combination of parallel offset and angular misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Angular misalignment is the combination of parallel offset and angular misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "_______ misalignment is the combination of parallel offset and angular misalignment.",
     "options": [
       "Skew misalignment",
@@ -3116,25 +3116,25 @@
     "answer": "Skew misalignment"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Excessive amount of quaze inside the coupling guard is an indication of misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Normal amount of quaze inside the coupling guard is an indication of misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When the axial float in machinery is unmanageable the reverse indicator method should be used. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When the axial float in machinery is unmanageable the ______ method should be used",
     "options": [
       "Direct Indicator",
@@ -3145,91 +3145,91 @@
     "answer": "Reverse Indicator"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "When the radial float in machinery is unmanageable the reverse indicator method should be used. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Straight edge method is ______ alignment method.",
     "options": ["Rough", "Direct", "Indirect", "Reverse"],
     "answer": "Rough"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Straight edge method is a rough alignment method. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Straight edge method is a smooth alignment method. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Straight edge method is useful in determining parallel gaps. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Machines driven at constant lower speeds under low loads are more vulnerable to misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "_______ is the process of positioning two or more machines with their shafts coupled to form a line.",
     "options": ["Alignment", "Misalignment", "Both A & B", "None of the above"],
     "answer": "Alignment"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Misalignment is nothing but one shaft colliding with other. (T/F)",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Shaft alignment increases the life of machinery. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Misalignment causes excessive vibration of machinery. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Misalignment increase ______ Between rotating parts.",
     "options": ["Friction", "Motion", "Lubrication", "Slippage"],
     "answer": "Friction"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Misalignment generates ______ in coupling, heat. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Premature seal failure is not a bad effect of poor shaft alignment. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Piping strain is one of the main reason of misalignment. (T/F)",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "subject": "Alignement",
+    "subject": "Alignment",
     "question": "Amount of parallel misalignment a coupling can accommodate is ______ to b/w power planes.",
     "options": [
       "Indirectly proportional, distance",
