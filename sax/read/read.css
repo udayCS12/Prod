@@ -7,6 +7,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
+  overflow:hidden;
 }
 /*
 #topFixed{
@@ -31,6 +32,7 @@ body {
 #quiz{
   overflow: auto;
   padding-bottom: 20px;
+  border:2px solid red;
 }
 #quiz::-webkit-scrollbar {
   display: none;
