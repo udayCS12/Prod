@@ -1,0 +1,1033 @@
+[
+  {
+    subject: "Gas Turbine Theory",
+    question: "Open cycle gas turbine is an ______ combustion engine",
+    options: ["External", "Internal", "Complete", "Incomplete"],
+    answer: "Internal"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Closed cycle gas turbine is an ______ combustion engine",
+    options: ["External", "Internal", "Complete", "Incomplete"],
+    answer: "External"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The power output of a gas turbine is ______",
+    options: ["Intermittent", "Limited", "Continuous", "None of the above"],
+    answer: "Continuous"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The function of the compressor is to ______ of the air",
+    options: [
+      "Increase volume",
+      "Increase mass flow",
+      "Increase quantity",
+      "Increase pressure"
+    ],
+    answer: "Increase pressure"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Gas turbine becomes ______ after starters are cut off",
+    options: ["Unstable", "Dependent", "Self-sustained", "Unsafe"],
+    answer: "Self-sustained"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "______ are used to start the Gas Turbine from cold condition",
+    options: ["DC starter", "AC starter", "DC pump", "AC pump"],
+    answer: "DC starter"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Single spool marine gas turbines means",
+    options: [
+      "One compressor one combustion chamber and one turbine",
+      "One compressor one combustion chamber and one turbine with free power turbine",
+      "One compressor one combustion chamber and two turbines",
+      "All of these"
+    ],
+    answer:
+      "One compressor one combustion chamber and one turbine with free power turbine"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The possible combination of steam propulsion with GT propulsion are",
+    options: ["COSAG", "COGAG", "COSAG and COSOG both", "COGAG"],
+    answer: "COSAG and COSOG both"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The possible combination of GT propulsion with GT propulsion are",
+    options: ["COGAG", "COGOG", "COGAG and COGOG both", "COSAG"],
+    answer: "COGAG and COGOG both"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The new generation Gas Turbine LM 2500 is inducted in which class of ship",
+    options: ["Petya", "1241 RE", "Delhi", "Shivalik"],
+    answer: "Shivalik"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
+    options: [
+      "Delhi class",
+      "SNF class",
+      "SNF class and SNF class",
+      "Shivalik class"
+    ],
+    answer: "Shivalik class"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
+    options: ["Talwar class", "Delhi class", "1242 RE class", "Shivalik class"],
+    answer: "Talwar class"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The heat addition process of a Gas Turbine occurs in the ______",
+    options: ["Combustion chamber", "Compressor", "Turbine", "Free turbine"],
+    answer: "Combustion chamber"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The work output of the Gas Turbine is obtained from the ______",
+    options: ["Combustion chamber", "Compressor", "Turbine"],
+    answer: "Turbine"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The gas generating section consists of _____",
+    options: [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine",
+      "All of the above"
+    ],
+    answer: "All of the above"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The power conversion section consists of _____",
+    options: [
+      "Turbine",
+      "Reduction gear",
+      "Propeller shaft",
+      "All of the above"
+    ],
+    answer: "All of the above"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "It is used as fuel in marine gas turbine used in Indian Navy.",
+    options: ["HFO", "Coal", "LSHSD", "LSHFO"],
+    answer: "LSHSD"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The working fluid of gas turbine consists of _____",
+    options: ["Air", "Fuel", "Air and fuel", "None of the above"],
+    answer: "Air"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Gas turbine onboard Delhi class of ships _____",
+    options: [
+      "Have two P T",
+      "Have two combustion chambers",
+      "Have one P T",
+      "None of the above"
+    ],
+    answer: "Have two P T"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Gas turbine onboard 1241RE class of ships _____",
+    options: [
+      "Have two P T",
+      "Have two combustion chambers",
+      "Have one P T",
+      "None of the above"
+    ],
+    answer: "Have two P T"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Gas turbine onboard Shivalik class of ships _____",
+    options: [
+      "Have two P T",
+      "Have two combustion chambers",
+      "Have one P T",
+      "None of the above"
+    ],
+    answer: "None of the above"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The Gas Turbine cycle is called _____",
+    options: ["Rankin", "Carnot", "Joule", "Brayton"],
+    answer: "Joule Brayton"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Gas turbine can be divided into _____ generating section and power conversion section",
+    options: [
+      "Combustion chamber and turbine",
+      "Compressor and turbine",
+      "Combustion chamber and power turbine",
+      "None of the above"
+    ],
+    answer: "Combustion chamber and turbine"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Gas turbine can be classified into _____ according to spool arrangement",
+    options: [
+      "Single spool and multi spool",
+      "Open cycle and close cycle",
+      "Constant pressure cycle and constant volume cycle",
+      "All of these"
+    ],
+    answer: "Single spool and multi spool"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Gas turbine can be classified into _____ according to flow path of working media",
+    options: [
+      "Open cycle and closed cycle",
+      "Single spool and multi spool",
+      "Constant pressure cycle and constant volume cycle",
+      "All of these"
+    ],
+    answer: "Open cycle and closed cycle"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Air pressure required for the operation of air by pass valve during over speeding of power turbine is _____",
+    options: [
+      "10 to 12 kg/cm2",
+      "12 to 14 kg/cm2",
+      "14 to 16 kg/cm2",
+      "16 to 18 kg/cm2"
+    ],
+    answer: "14 to 16 kg/cm2"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Reversing is achieved in SMP Ships by _____",
+    options: [
+      "Reversing Gear",
+      "Controllable Pitch Propeller (CPP)",
+      "Reversing and Reduction Gear both",
+      "None of the above"
+    ],
+    answer: "Controllable Pitch Propeller (CPP)"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Single spool marine gas turbines means",
+    options: [
+      "One compressor one combustion chamber and one turbine",
+      "One compressor one combustion chamber and one turbine with free power turbine",
+      "One compressor one combustion chamber and two turbines",
+      "All of these"
+    ],
+    answer:
+      "One compressor one combustion chamber and one turbine with free power turbine"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The possible combination of steam propulsion with GT propulsion are",
+    options: ["COSAG", "COGOG", "COSAG and COSOG both", "COGAG"],
+    answer: "COSAG and COSOG both"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The possible combination of GT propulsion with GT propulsion are",
+    options: ["COGAG", "COGOG", "COGAG and COGOG both", "COSAG"],
+    answer: "COGAG and COGOG both"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The new generation Gas Turbine LM 2500 is inducted in which class of ship",
+    options: ["Petya", "1241 RE", "Delhi", "Shivalik"],
+    answer: "Shivalik"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "List the Indian Naval Ships in which twin spool gas turbine is used as a main propulsion unit",
+    options: [
+      "Delhi class",
+      "SNF class",
+      "Delhi class and SNF class",
+      "Shivalik class"
+    ],
+    answer: "Delhi class and SNF class"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "List the Indian Naval Ships in which single spool gas turbine is used as a main propulsion unit",
+    options: ["Talwar class", "Delhi class", "1242 re class", "Shivalik class"],
+    answer: "Shivalik class"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The heat addition process of a Gas Turbine occurs in the _______",
+    options: ["Combustion chamber", "Compressor", "Turbine", "Power turbine"],
+    answer: "Combustion chamber"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The Work Output of the Gas Turbine is obtained from the _______",
+    options: ["Combustion chamber", "Compressor", "Turbine"],
+    answer: "Turbine"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The gas generating section consists of ______",
+    options: [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine",
+      "All of the above"
+    ],
+    answer: "All of the above"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The power conversion section consists of ______",
+    options: [
+      "Turbine",
+      "Reduction gear",
+      "Propeller shaft",
+      "All of the above"
+    ],
+    answer: "All of the above"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "______ is used as fuel in marine gas turbine used in Indian Navy.",
+    options: ["FFO", "Coal", "LSHSFD", "AVCAT"],
+    answer: "LSHSFD"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The working fluid of the gas turbine consists of ______",
+    options: ["Air", "Fuel", "Air and fuel", "Feed water"],
+    answer: "Air and fuel"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The gas turbine onboard Delhi class of ships ______",
+    options: [
+      "Have a PT",
+      "Do not have a PT",
+      "Have two combustion chambers",
+      "None of the above"
+    ],
+    answer: "Have a PT"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The Gas Turbine onboard 1241RE class of ships ______",
+    options: [
+      "Have a PT",
+      "Do not have a PT",
+      "Have two combustion chambers",
+      "None of the above"
+    ],
+    answer: "Have a PT"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The Gas Turbine onboard Shivalik class of ships ______",
+    options: [
+      "Have a PT",
+      "Do not have a PT",
+      "Have two combustion chambers",
+      "None of the above"
+    ],
+    answer: "Have a PT"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The Gas Turbine cycle is called _______",
+    options: ["Rankine", "Brayton", "Joule", "Joule Brayton"],
+    answer: "Joule Brayton"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Gas turbine can be divided into _______",
+    options: [
+      "Gas generating section and power conversion section",
+      "Combustion chamber and turbine",
+      "Compressor and turbine",
+      "Combustion chamber and power turbine"
+    ],
+    answer: "Gas generating section and power conversion section"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Gas turbine can be classified into _______ according to spool arrangement",
+    options: [
+      "Single spool and multi spool",
+      "Open cycle and close cycle",
+      "Constant pressure cycle and constant volume cycle",
+      "All of these"
+    ],
+    answer: "Single spool and multi spool"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Gas Turbine can be classified into _______ according to flow path of working media",
+    options: [
+      "Single spool and multi spool",
+      "Open cycle and close cycle",
+      "Constant pressure cycle and constant volume cycle",
+      "All of these"
+    ],
+    answer: "Open cycle and close cycle"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Air pressure required for the operation of air by pass valve during over speeding of power turbine is _______",
+    options: [
+      "100 to 110 kgf/cm2",
+      "150 to 200 kgf/cm2",
+      "8 to 11 kgf/cm2",
+      "16 to 18 kgf/cm2"
+    ],
+    answer: "100 to 110 kgf/cm2"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Reversing is achieved in SNF Ships By _______",
+    options: [
+      "Engine",
+      "Reduction Gear",
+      "Controllable Pitch Propeller (CPP)",
+      "Engine and Reduction Gear Both"
+    ],
+    answer: "Controllable Pitch Propeller (CPP)"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The SFC of GT is ___ at part load.",
+    options: ["Poor", "Average", "Good", "None of the above"],
+    answer: "Average"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The SFC of GT is ___ at peak power.",
+    options: ["Poor", "Average", "Good", "None of the above"],
+    answer: "Poor"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The normal preparation time of GT is ______ mins",
+    options: ["15", "30", "45", "60"],
+    answer: "60"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "In Marine Gas Turbine used as a main propulsion unit the power is directly taken through",
+    options: [
+      "Free power turbine",
+      "Turbine which is connected to compressor",
+      "Free power turbine and reduction gear",
+      "Turbine which is connected to compressor and reduction gear"
+    ],
+    answer: "Free power turbine and reduction gear"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Disadvantages of Gas Turbine over steam propulsion is",
+    options: [
+      "High power to weight ratio",
+      "Low installation and operating cost",
+      "Easy to start from cold condition",
+      "During starting compressors are required to be rotated through any external source"
+    ],
+    answer:
+      "During starting compressors are required to be rotated through any external source"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Disadvantages of Gas Turbine over diesel propulsion is",
+    options: [
+      "High power to weight ratio",
+      "Less working pressure of working media",
+      "Uniform and continuous power",
+      "High fuel consumption at part load"
+    ],
+    answer: "High fuel consumption at part load"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "At present Indian Naval Ship with GT as a main propulsion are having ____________ combination arrangement with diesel",
+    options: ["CODAG", "CODOG", "CODAG and CODOG both", "None of these"],
+    answer: "CODAG and CODOG both"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Gas Turbine can be used for",
+    options: [
+      "Power generation",
+      "Air craft",
+      "Marine propulsion",
+      "All of these"
+    ],
+    answer: "All of these"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "SV mounts are used in gas turbines",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "In a twin spool Gas Turbine, the LPC is connected to _____",
+    options: ["HPV", "HPT", "LPT", "PT"],
+    answer: "LPT"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "In a twin spool Gas Turbine, the HPC is connected to _____",
+    options: ["LPC", "HPT", "LPT", "PT"],
+    answer: "HPT"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The Efficiency of GT _____ with a drop in ambient air temperature",
+    options: [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "None of the above"
+    ],
+    answer: "Increases"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The heat addition process in a Gas Turbine is a _____ process",
+    options: ["Isentropic", "Isothermal", "Isochoric", "Isobaric"],
+    answer: "Isothermal"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The compression process in a Gas Turbine is a _____ process",
+    options: ["Isentropic", "Isothermal", "Isochoric", "Isobaric"],
+    answer: "Isentropic"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The expansion process in a Gas Turbine is a _____ process",
+    options: ["Isentropic", "Isothermal", "Isochoric", "Isobaric"],
+    answer: "Isentropic"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The inlet guide vanes in the axial flow compressor may be ________",
+    options: ["Variable", "Fixed", "Variable and fixed both", "None of these"],
+    answer: "Variable and fixed both"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Front housing is located ________",
+    options: [
+      "Between air intake and LPC",
+      "Before the air intake",
+      "Between LPC and HPC",
+      "After the LPC"
+    ],
+    answer: "Between air intake and LPC"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Low Pressure Compressor is driven by _____ during operation of gas turbine",
+    options: [
+      "Low Pressure Turbine",
+      "High Pressure Turbine",
+      "Electric starter",
+      "Pneumatic starter"
+    ],
+    answer: "Low Pressure Turbine"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The starter drive is taken from in DE 59 GT",
+    options: [
+      "Rear accessory Gear box",
+      "Forward accessory Gear box",
+      "LPC",
+      "HPT"
+    ],
+    answer: "Rear accessory Gear box"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Type of burner used in M15 GT is",
+    options: ["Spill", "Simplex", "Duplex", "Air pre mix"],
+    answer: "Duplex"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Gas turbine is ________",
+    options: [
+      "Self-sustained",
+      "Continuous cycle",
+      "Using gas as a working media",
+      "All of these"
+    ],
+    answer: "All of these"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Number of Flame Tube In Combustion Chamber Are",
+    options: ["09", "08", "10", "11"],
+    answer: "08"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Number of Igniter in Combustion Chamber Are",
+    options: ["01", "02", "10", "03"],
+    answer: "02"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Surging occurs in _______",
+    options: [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine",
+      "All of the above"
+    ],
+    answer: "Compressor"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Closed cycle Gas Turbines are used on _______",
+    options: ["Ships", "Aircrafts", "Power generation", "None of the above"],
+    answer: "Power generation"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Gas Turbines have _____ response when compared to Steam Engines.",
+    options: ["Slow", "Fast", "Same", "None of the above"],
+    answer: "Fast"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Twin spool Gas Turbine means",
+    options: [
+      "Two compressors two combustion chambers and two turbines",
+      "Two compressors with two turbines and one combustion chamber",
+      "One compressor two combustion chamber with two turbines",
+      "All of these"
+    ],
+    answer: "Two compressors with two turbines and one combustion chamber"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Disadvantages of Gas Turbine is",
+    options: [
+      "High speed",
+      "High power to weight ratio",
+      "High fuel consumption at part load",
+      "Quick starting capability"
+    ],
+    answer: "High fuel consumption at part load"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "1241 RE class of ships are fitted with ______",
+    options: ["Cruise GT", "Boost GT", "GTG", "Cruise and boost GT"],
+    answer: "Cruise and boost GT"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Link shaft is available on _____ class of ship",
+    options: ["Petya", "1241RE", "SNF", "Delhi"],
+    answer: "1241RE"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "On a 1241 RE class ship _____ can be used to drive both the propellers",
+    options: [
+      "One cruise GT",
+      "Two boost GT",
+      "Both a and b",
+      "None of the above"
+    ],
+    answer: "Both a and b"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "The Gas Turbine fitted on ______ class of ships is a reversible gas turbine",
+    options: ["SNF", "Delhi", "1241RE", "Petya"],
+    answer: "1241RE"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "The compressor discharge of pressurized air is delivered to",
+    options: ["LPC", "Combustion chamber", "HPT", "LPT"],
+    answer: "HPT"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Rear accessory gear box is mounted on",
+    options: ["Adapter unit", "Front housing", "Rear housing", "HPC"],
+    answer: "HPC"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Anti-surge device fitted in LM 2500 GT is operated by",
+    options: [
+      "Pneumatic system",
+      "Electrical system",
+      "Hydraulic system",
+      "Electro hydraulic system"
+    ],
+    answer: "Electro hydraulic system"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "Reheater is fitted between Compressor & Combustion Chamber.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Q2 stage of stator and 02 stage of rotor consists of one stage in axial flow compressor.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "GT is a continuous & self-sustaining heat engine.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Power conversion section consists of compressor & Combustion Chamber.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Gas generating section consists of compressor & Combustion Chamber.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "COGOG plants fitted in 1241 RE class ships.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "COGAG plant fitted in SNF class ship.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "COGOG plants fitted in Shivalik class ships.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "COGAG plants are fitted in Shivalik class of ships",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question:
+      "Torque developed by GT is continuous and uniform as compared to diesel engine.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "In Gas turbines power to weight ratio is high.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Theory",
+    question: "In Gas turbines power to weight ratio is low.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Reheater is fitted between Compressor & Combustion Chamber.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "In open cycle any other gases other than air can be used.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "02 stage of stator and 02 stage of rotor consists of one stage in axial flow compressor.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "GT is a continuous & self-sustaining heat engine.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Power conversion section consists of compressor & Combustion Chamber.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Gas generating section consists of compressor & Combustion Chamber.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Power conversion section consists of compressor and turbine.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "COGOG plants fitted in 1241 RE class ships.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "COGAG plant fitted in SNF class ship.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "COGOG plants fitted in Shivalik class ships.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "CODAG plants are fitted in Shivalik class of ships",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Film cooling is a type of Turbine blade cooling.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Air cooling of turbine blades can only be internal.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Air cooling of turbine blades can only be external.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Turbine blades can be cooled by sweat cooling (liquid through porous walls).",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Fir tree method is type of blade fixing in turbine.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Dovetail method is a type of blade fixing in compressor.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Combustion chamber is a space provided for combustion of air and fuel mixture Axial flow compressor are fitted in Marine Gas Turbine.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Axial flow and centrifugal compressors can be used in Industrial GT.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Expansion of gases in turbine, results in production of mechanical power.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Air cooling of turbine blades can only be internal.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Air cooling of turbine blades can only be external.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "With increase in TET, the efficiency decreases.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Material selection is based on creep strength.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Turbine blades are coated with platinum to improve erosion resistance.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Haynes 188 is one of the combustor material.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Titanium alloys used in compressor leads to reduction of weight",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Inconel 242 is used for manufacturing of nozzle guide vanes.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "Nimonic 901 is a super alloy used in manufacturing of compressor blades.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "With increase in TET, the efficiency decreases.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Material selection is based on creep strength.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Aluminum alloys can be used for compressor blades.",
+    options: ["True", "False"],
+    answer: "False"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Aluminum alloys cannot be used for compressor blades.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Super alloys are used for turbine blades.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "Titanium alloys are used for LP compressor.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question: "BS 8 is an aluminum alloy.",
+    options: ["True", "False"],
+    answer: "True"
+  },
+  {
+    subject: "Gas Turbine Construction",
+    question:
+      "FV 535 is a type of steel. For astern movement of ships fitted with LM 2500 GT, the CPP is used.",
+    options: ["True", "False"],
+    answer: "True"
+  }
+];
