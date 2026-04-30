@@ -7,6 +7,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
+  overflow: hidden;
 }
 
 #topFixed{
@@ -20,6 +21,7 @@ body {
 #quizTittle{
   text-align: center;
   text-decoration: underline;
+  margin-right: 10px;
 }
 
 #wingSl, #doneBtn{
@@ -31,11 +33,12 @@ body {
   overflow: auto;
   height: calc(100% - 60px);
   padding-bottom: 20px;
-  margin-top: 70px;
+  margin-top: 10px;
 }
+/*
 #quiz::-webkit-scrollbar {
   display: none;
-}
+}*/
 
 .subjectDiv{
   margin-top: 10px;
