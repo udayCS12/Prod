@@ -11,8 +11,8 @@ wingSl.onchange = async function () {
   let fileName;
   if (wing === "sax") {
     fileName = "sax1";
-  } else if (wing === "gtw") {
-    fileName = "gtw";
+  } else  {
+    fileName = wing;
   }
   if (fileName) {
     questions = await fetchData(fileName);
