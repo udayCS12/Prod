@@ -14,25 +14,45 @@
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "The function of the compressor is to:",
-    "options": ["Increase volume", "Increase mass flow", "Increase Quantity", "Increase pressure of the air"],
+    "options": [
+      "Increase volume",
+      "Increase mass flow",
+      "Increase Quantity",
+      "Increase pressure of the air"
+    ],
     "answer": "Increase pressure of the air"
   },
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "A gas turbine becomes self-sustained after:",
-    "options": ["Starters are cut off", "Ignition is off", "Fuel is cut off", "None of the above"],
+    "options": [
+      "Starters are cut off",
+      "Ignition is off",
+      "Fuel is cut off",
+      "None of the above"
+    ],
     "answer": "Starters are cut off"
   },
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "What are used to start the Gas Turbine from cold conditions?",
-    "options": ["DC starter", "AC starter", "Pneumatic starter", "All of the above"],
+    "options": [
+      "DC starter",
+      "AC starter",
+      "Pneumatic starter",
+      "All of the above"
+    ],
     "answer": "DC starter"
   },
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "Single spool gas turbines mean:",
-    "options": ["One compressor, one combustion chamber, and one turbine", "One compressor, one combustion chamber, and one turbine with free power turbine", "One compressor, one combustion chamber, and two turbines", "All of these"],
+    "options": [
+      "One compressor, one combustion chamber, and one turbine",
+      "One compressor, one combustion chamber, and one turbine with free power turbine",
+      "One compressor, one combustion chamber, and two turbines",
+      "All of these"
+    ],
     "answer": "One compressor, one combustion chamber, and one turbine"
   },
   {
@@ -50,13 +70,23 @@
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "In which Indian Naval Ships is a twin spool gas turbine used as a main propulsion unit?",
-    "options": ["Delhi class", "SNF class", "Delhi class and SNF class", "Shivalik class"],
+    "options": [
+      "Delhi class",
+      "SNF class",
+      "Delhi class and SNF class",
+      "Shivalik class"
+    ],
     "answer": "Delhi class and SNF class"
   },
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "The heat addition process of a Gas Turbine occurs in the:",
-    "options": ["Combustion chamber", "Compressor", "Turbine", "All of the above"],
+    "options": [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine",
+      "All of the above"
+    ],
     "answer": "Combustion chamber"
   },
   {
@@ -68,13 +98,23 @@
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "The gas generating section consists of:",
-    "options": ["Compressor", "Combustion chamber", "Turbine", "All of the above"],
+    "options": [
+      "Compressor",
+      "Combustion chamber",
+      "Turbine",
+      "All of the above"
+    ],
     "answer": "All of the above"
   },
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "The power conversion section consists of:",
-    "options": ["Turbine", "Reduction gear", "Propeller shaft", "All of the above"],
+    "options": [
+      "Turbine",
+      "Reduction gear",
+      "Propeller shaft",
+      "All of the above"
+    ],
     "answer": "All of the above"
   },
   {
@@ -86,13 +126,23 @@
   {
     "subject": "Gas Turbine Fundamentals & Construction",
     "question": "The gas turbine cycle is also called the:",
-    "options": ["Rankine Cycle", "Brayton Cycle", "Joule Cycle", "Joule Brayton Cycle"],
+    "options": [
+      "Rankine Cycle",
+      "Brayton Cycle",
+      "Joule Cycle",
+      "Joule Brayton Cycle"
+    ],
     "answer": "Joule Brayton Cycle"
   },
   {
     "subject": "Operations & Efficiency",
     "question": "Reversing in gas turbine ships is achieved by:",
-    "options": ["Engine", "Reduction Gear", "Controllable Pitch Propeller (CPP)", "Engine and Reduction Gear both"],
+    "options": [
+      "Engine",
+      "Reduction Gear",
+      "Controllable Pitch Propeller (CPP)",
+      "Engine and Reduction Gear both"
+    ],
     "answer": "Controllable Pitch Propeller (CPP)"
   },
   {
@@ -110,19 +160,34 @@
   {
     "subject": "Operations & Efficiency",
     "question": "A disadvantage of GT over steam propulsion is:",
-    "options": ["High power to weight ratio", "Low installation cost", "Easy to start from cold condition", "Compressors require rotation through an external source during starting"],
+    "options": [
+      "High power to weight ratio",
+      "Low installation cost",
+      "Easy to start from cold condition",
+      "Compressors require rotation through an external source during starting"
+    ],
     "answer": "Compressors require rotation through an external source during starting"
   },
   {
     "subject": "Operations & Efficiency",
     "question": "A disadvantage of GT over diesel propulsion is:",
-    "options": ["High power to weight ratio", "Less working pressure", "Uniform power", "High fuel consumption at part load"],
+    "options": [
+      "High power to weight ratio",
+      "Less working pressure",
+      "Uniform power",
+      "High fuel consumption at part load"
+    ],
     "answer": "High fuel consumption at part load"
   },
   {
     "subject": "Operations & Efficiency",
     "question": "Gas turbines can be used for:",
-    "options": ["Power generation", "Aircraft", "Marine propulsion", "All of these"],
+    "options": [
+      "Power generation",
+      "Aircraft",
+      "Marine propulsion",
+      "All of these"
+    ],
     "answer": "All of these"
   },
   {
@@ -134,7 +199,12 @@
   {
     "subject": "Operations & Efficiency",
     "question": "The efficiency of a GT increases with:",
-    "options": ["Increase in ambient temperature", "Drop in ambient air temperature", "Remaining constant", "None of the above"],
+    "options": [
+      "Increase in ambient temperature",
+      "Drop in ambient air temperature",
+      "Remaining constant",
+      "None of the above"
+    ],
     "answer": "Drop in ambient air temperature"
   },
   {
@@ -146,7 +216,12 @@
   {
     "subject": "Operations & Efficiency",
     "question": "Surging occurs in the:",
-    "options": ["Combustion chamber", "Compressor", "Turbine", "All of the above"],
+    "options": [
+      "Combustion chamber",
+      "Compressor",
+      "Turbine",
+      "All of the above"
+    ],
     "answer": "Compressor"
   },
   {
@@ -211,7 +286,7 @@
   },
   {
     "subject": "Specialized Components & Materials",
-    "question": \"Fir tree\" method is a type of blade fixing used in the turbine.",
+    "question": "Fir tree method is a type of blade fixing used in the turbine.",
     "options": ["True", "False"],
     "answer": "True"
   },
@@ -254,12 +329,17 @@
   {
     "subject": "Specialized Components & Materials",
     "question": "In a \"False Start\" of a GT:",
-    "options": ["Fuel system is energized", "Ignition unit is energized", "Fuel system is energized but not the Ignition unit", "Both are energized"],
+    "options": [
+      "Fuel system is energized",
+      "Ignition unit is energized",
+      "Fuel system is energized but not the Ignition unit",
+      "Both are energized"
+    ],
     "answer": "Fuel system is energized but not the Ignition unit"
   },
   {
     "subject": "Specialized Components & Materials",
-    "question": \"Crash stop\" means the engine is stopped manually at any speed without cooling down.",
+    "question": "Crash stop means the engine is stopped manually at any speed without cooling down.",
     "options": ["True", "False"],
     "answer": "True"
   },
@@ -272,19 +352,34 @@
   {
     "subject": "Specialized Components & Materials",
     "question": "The anti-surge device in LM 2500 GT is operated by an:",
-    "options": ["Pneumatic system", "Electrical system", "Hydraulic system", "Electro-hydraulic system"],
+    "options": [
+      "Pneumatic system",
+      "Electrical system",
+      "Hydraulic system",
+      "Electro-hydraulic system"
+    ],
     "answer": "Electro-hydraulic system"
   },
   {
     "subject": "Specialized Components & Materials",
     "question": "The igniter of a GT typically consists of:",
-    "options": ["01 Starting Injector and 01 Spark Plug", "01 Starting Injector and 02 Spark Plugs", "02 Starting Injectors and 01 Spark Plug", "02 Starting Injectors and 02 Spark Plugs"],
+    "options": [
+      "01 Starting Injector and 01 Spark Plug",
+      "01 Starting Injector and 02 Spark Plugs",
+      "02 Starting Injectors and 01 Spark Plug",
+      "02 Starting Injectors and 02 Spark Plugs"
+    ],
     "answer": "01 Starting Injector and 02 Spark Plugs"
   },
   {
     "subject": "Specialized Components & Materials",
-    "question": \"Slip\" indicates the deposition of foreign particles on:",
-    "options": ["Compressor Blades", "Turbine Blades", "Adapter", "Combustion Chamber"],
+    "question": "Slip indicates the deposition of foreign particles on:",
+    "options": [
+      "Compressor Blades",
+      "Turbine Blades",
+      "Adapter",
+      "Combustion Chamber"
+    ],
     "answer": "Compressor Blades"
   },
   {
@@ -296,7 +391,12 @@
   {
     "subject": "Specialized Components & Materials",
     "question": "The starter drive is taken from which gear box in the DE 59 GT?",
-    "options": ["Rear accessory gear box", "Forward accessory gear box", "LPC", "HPT"],
+    "options": [
+      "Rear accessory gear box",
+      "Forward accessory gear box",
+      "LPC",
+      "HPT"
+    ],
     "answer": "Rear accessory gear box"
   },
   {
@@ -320,7 +420,12 @@
   {
     "subject": "Gas Turbine Systems & Components",
     "question": "Low Pressure Compressor is driven by ________ during operation.",
-    "options": ["Low Pressure Turbine", "High Pressure Turbine", "Electric starter", "Pneumatic starter"],
+    "options": [
+      "Low Pressure Turbine",
+      "High Pressure Turbine",
+      "Electric starter",
+      "Pneumatic starter"
+    ],
     "answer": "Low Pressure Turbine"
   },
   {
@@ -350,7 +455,12 @@
   {
     "subject": "Gas Turbine Systems & Components",
     "question": "Twin spool Gas Turbine means:",
-    "options": ["Two compressors, two combustion chambers, and two turbines", "Two compressors with their turbines and one combustion chamber", "One compressor and two turbines", "All of these"],
+    "options": [
+      "Two compressors, two combustion chambers, and two turbines",
+      "Two compressors with their turbines and one combustion chamber",
+      "One compressor and two turbines",
+      "All of these"
+    ],
     "answer": "Two compressors with their turbines and one combustion chamber"
   },
   {
@@ -386,7 +496,12 @@
   {
     "subject": "Technical Specifications & Logic",
     "question": "One stage in an axial flow compressor consists of:",
-    "options": ["One stage of stator and one stage of rotor", "Two stages of stator", "Two stages of rotor", "None of the above"],
+    "options": [
+      "One stage of stator and one stage of rotor",
+      "Two stages of stator",
+      "Two stages of rotor",
+      "None of the above"
+    ],
     "answer": "One stage of stator and one stage of rotor"
   },
   {
@@ -446,7 +561,12 @@
   {
     "subject": "Technical Specifications & Logic",
     "question": "Can-annular type combustion chambers can be:",
-    "options": ["Reverse flow only", "Straight flow only", "Both reverse flow and straight flow", "None of the above"],
+    "options": [
+      "Reverse flow only",
+      "Straight flow only",
+      "Both reverse flow and straight flow",
+      "None of the above"
+    ],
     "answer": "Reverse flow only"
   },
   {
@@ -524,13 +644,23 @@
   {
     "subject": "GTG (Gas Turbine Generator) Specifics",
     "question": "GTG attains idling RPM at:",
-    "options": ["100 to 120 sec", "110 to 120 sec", "120 to 140 sec", "120 to 150 sec"],
+    "options": [
+      "100 to 120 sec",
+      "110 to 120 sec",
+      "120 to 140 sec",
+      "120 to 150 sec"
+    ],
     "answer": "120 to 150 sec"
   },
   {
     "subject": "GTG (Gas Turbine Generator) Specifics",
     "question": "Type of combustion chamber fitted in the GTG is:",
-    "options": ["Reverse flow dead end", "Reverse flow cannular", "Straight flow dead end", "Annular type"],
+    "options": [
+      "Reverse flow dead end",
+      "Reverse flow cannular",
+      "Straight flow dead end",
+      "Annular type"
+    ],
     "answer": "Reverse flow dead end"
   },
   {
@@ -566,7 +696,12 @@
   {
     "subject": "GTG (Gas Turbine Generator) Specifics",
     "question": "GTG blow off valve (BOV) closes at:",
-    "options": ["3500 to 4500 RPM", "5000 to 6000 RPM", "2000 to 3000 RPM", "8000 RPM"],
+    "options": [
+      "3500 to 4500 RPM",
+      "5000 to 6000 RPM",
+      "2000 to 3000 RPM",
+      "8000 RPM"
+    ],
     "answer": "3500 to 4500 RPM"
   },
   {
@@ -646,30 +781,19 @@
   {
     "subject": "Combined Propulsion & Ship Classes",
     "question": "COGOG plants fitted in SNF class ships is a statement that is:",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Combined Propulsion & Ship Classes",
     "question": "CODOG arrangement is available in Shivalik class of ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Classes",
     "question": "The rated output of the LM 2500 GT is:",
-    "options": [
-      "15000 HP",
-      "20000 HP",
-      "33160 HP",
-      "12000 HP"
-    ],
+    "options": ["15000 HP", "20000 HP", "33160 HP", "12000 HP"],
     "answer": "33160 HP"
   },
   {
@@ -708,23 +832,13 @@
   {
     "subject": "Reduction Gear & Couplings",
     "question": "The number of friction couplings in one reduction gear is:",
-    "options": [
-      "01",
-      "02",
-      "03",
-      "04"
-    ],
+    "options": ["01", "02", "03", "04"],
     "answer": "02"
   },
   {
     "subject": "Reduction Gear & Couplings",
     "question": "The number of hydraulic couplings in one reduction gear is:",
-    "options": [
-      "01",
-      "02",
-      "03",
-      "04"
-    ],
+    "options": ["01", "02", "03", "04"],
     "answer": "02"
   },
   {
@@ -763,52 +877,31 @@
   {
     "subject": "Reduction Gear & Couplings",
     "question": "The reduction ratio of the RE (Reduction Gear) during ahead engagement is:",
-    "options": [
-      "17.67:1",
-      "7.98:1",
-      "11.65:1",
-      "9.68:1"
-    ],
+    "options": ["17.67:1", "7.98:1", "11.65:1", "9.68:1"],
     "answer": "11.65:1"
   },
   {
     "subject": "Reduction Gear & Couplings",
     "question": "The function of the Hydraulic coupling is to engage the engine for astern running.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Reduction Gear & Couplings",
     "question": "SSS clutch stands for Synchronous Self-Shifting clutch.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "Time required for normal preparation of a Gas Turbine Generator (GTG) is:",
-    "options": [
-      "01 hour",
-      "10 minutes",
-      "15 minutes",
-      "120 seconds"
-    ],
+    "options": ["01 hour", "10 minutes", "15 minutes", "120 seconds"],
     "answer": "01 hour"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "Time required for emergency preparation of a GTG is:",
-    "options": [
-      "01 hour",
-      "30 minutes",
-      "120 seconds",
-      "15 minutes"
-    ],
+    "options": ["01 hour", "30 minutes", "120 seconds", "15 minutes"],
     "answer": "15 minutes"
   },
   {
@@ -835,138 +928,79 @@
   {
     "subject": "GTG Operation & Interlocks",
     "question": "The number of starters available to start the GTG is:",
-    "options": [
-      "01",
-      "02",
-      "03",
-      "04"
-    ],
+    "options": ["01", "02", "03", "04"],
     "answer": "02"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "Generator frequency of GTG is:",
-    "options": [
-      "50 Hz",
-      "60 Hz",
-      "400 Hz",
-      "415 Hz"
-    ],
+    "options": ["50 Hz", "60 Hz", "400 Hz", "415 Hz"],
     "answer": "50 Hz"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "Generator rated power at ambient air temperature of 40°C is:",
-    "options": [
-      "1250 KW",
-      "1000 KW",
-      "1500 KW",
-      "800 KW"
-    ],
+    "options": ["1250 KW", "1000 KW", "1500 KW", "800 KW"],
     "answer": "1000 KW"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "GTG starting cycle duration is:",
-    "options": [
-      "60 sec",
-      "90 sec",
-      "120 sec",
-      "150 sec"
-    ],
+    "options": ["60 sec", "90 sec", "120 sec", "150 sec"],
     "answer": "120 sec"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "Anti-surge valve open is a starting interlock for GTG.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "GTG blow off valve open lamp is an interlock for starting.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "Timer motor not at zero position is a starting interlock.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "GTG Operation & Interlocks",
     "question": "Oil temperature after the oil cooler should not be more than:",
-    "options": [
-      "50°C",
-      "60°C",
-      "70°C",
-      "80°C"
-    ],
+    "options": ["50°C", "60°C", "70°C", "80°C"],
     "answer": "60°C"
   },
   {
     "subject": "Fuel & Lubrication Systems",
     "question": "The booster section of the HP fuel pump is ________ type in LM 2500 GT.",
-    "options": [
-      "Impeller",
-      "Gear",
-      "Piston",
-      "Vane"
-    ],
+    "options": ["Impeller", "Gear", "Piston", "Vane"],
     "answer": "Impeller"
   },
   {
     "subject": "Fuel & Lubrication Systems",
     "question": "The pressure section of the HP fuel pump is ________ type in LM 2500 GT.",
-    "options": [
-      "Impeller",
-      "Gear",
-      "Piston",
-      "Vane"
-    ],
+    "options": ["Impeller", "Gear", "Piston", "Vane"],
     "answer": "Gear"
   },
   {
     "subject": "Fuel & Lubrication Systems",
     "question": "Metering valve of the LM 2500 GT fuel system works as a:",
-    "options": [
-      "Stop cock",
-      "Throttle cock",
-      "Check valve",
-      "Relief valve"
-    ],
+    "options": ["Stop cock", "Throttle cock", "Check valve", "Relief valve"],
     "answer": "Throttle cock"
   },
   {
     "subject": "Fuel & Lubrication Systems",
     "question": "There are ________ scavenging sections in the LM 2500 GT lube oil system.",
-    "options": [
-      "01",
-      "03",
-      "06",
-      "07"
-    ],
+    "options": ["01", "03", "06", "07"],
     "answer": "06"
   },
   {
     "subject": "Fuel & Lubrication Systems",
     "question": "There are ________ scavenging sections in the M36 GT lube oil system.",
-    "options": [
-      "01",
-      "03",
-      "04",
-      "06"
-    ],
+    "options": ["01", "03", "04", "06"],
     "answer": "06"
   },
   {
@@ -1005,21 +1039,13 @@
   {
     "subject": "Fuel & Lubrication Systems",
     "question": "Fuel stop cock in open position is a starting interlock.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "General GT Features",
     "question": "Gas turbines have a ________ response when compared to steam engines.",
-    "options": [
-      "Slow",
-      "Fast",
-      "Same",
-      "Negligible"
-    ],
+    "options": ["Slow", "Fast", "Same", "Negligible"],
     "answer": "Fast"
   },
   {
@@ -1036,95 +1062,61 @@
   {
     "subject": "General GT Features",
     "question": "Surging actually occurs during starting or rapid change of load.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "General GT Features",
     "question": "Thermal efficiency of simple GT decreases by inter-cooling.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "General GT Features",
     "question": "High fuel consumption at part load is a disadvantage compared to diesel.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "General GT Features",
     "question": "GTG starter is switched off after ________ seconds.",
-    "options": [
-      "30 ± 2",
-      "60 ± 2",
-      "90 ± 2",
-      "120 ± 2"
-    ],
+    "options": ["30 ± 2", "60 ± 2", "90 ± 2", "120 ± 2"],
     "answer": "60 ± 2"
   },
   {
     "subject": "General GT Features",
     "question": "Compressor fouling leads to surging.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "General GT Features",
     "question": "Turbine blades are coated with platinum to improve erosion resistance.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "General GT Features",
     "question": "Frequency of GTG is 50 Hz.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "General GT Features",
     "question": "GTG components maintenance is cheaper and easy.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "General GT Features",
     "question": "Cold start is given to check the freeness of the rotor.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "Which possible combination of GT propulsion with GT propulsion is used?",
-    "options": [
-      "COGAG and COGOG both",
-      "COGAG",
-      "COGOG",
-      "COSAG"
-    ],
+    "options": ["COGAG and COGOG both", "COGAG", "COGOG", "COSAG"],
     "answer": "COGAG and COGOG both"
   },
   {
@@ -1141,97 +1133,61 @@
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in 1241 RE class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGAG plants are fitted in SNF class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in Shivalik class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in SNF class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGAG plant is fitted in 1241 RE class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in Talwar class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "CODOG plants are fitted in Talwar class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "Which class of ship can use the Gas Turbine to drive both propellers?",
-    "options": [
-      "SNF",
-      "Shivalik",
-      "1241 RE",
-      "Petya"
-    ],
+    "options": ["SNF", "Shivalik", "1241 RE", "Petya"],
     "answer": "1241 RE"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "Number of stages of the Compressor in a GTG are:",
-    "options": [
-      "07",
-      "09",
-      "10",
-      "12"
-    ],
+    "options": ["07", "09", "10", "12"],
     "answer": "10"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "Number of stages of the Turbine in a GTG are:",
-    "options": [
-      "02",
-      "03",
-      "04",
-      "05"
-    ],
+    "options": ["02", "03", "04", "05"],
     "answer": "04"
   },
   {
@@ -1248,23 +1204,13 @@
   {
     "subject": "GTG Construction & Technical Data",
     "question": "What voltage DC supply is required for the GTG starter?",
-    "options": [
-      "110 volts DC",
-      "20 volts DC",
-      "27 volts DC",
-      "12 volts DC"
-    ],
+    "options": ["110 volts DC", "20 volts DC", "27 volts DC", "12 volts DC"],
     "answer": "27 volts DC"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "The generator rated power at an ambient air temperature of 15°C is:",
-    "options": [
-      "1250 KW",
-      "1000 KW",
-      "1500 KW",
-      "800 KW"
-    ],
+    "options": ["1250 KW", "1000 KW", "1500 KW", "800 KW"],
     "answer": "1250 KW"
   },
   {
@@ -1292,315 +1238,205 @@
   {
     "subject": "GTG Construction & Technical Data",
     "question": "The generator used in the GTG is:",
-    "options": [
-      "1500 RPM",
-      "07 RPM",
-      "1200 RPM",
-      "1800 RPM"
-    ],
+    "options": ["1500 RPM", "07 RPM", "1200 RPM", "1800 RPM"],
     "answer": "1500 RPM"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "GTG components maintenance is cheaper and easy.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "GTG occupies more space as compared to steam turbine.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "Chemical washing is preferred before Steam Washing.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "The main objective of chemical washing is to clean the flow path of the compressor.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "During chemical cleaning of compressors, which start is performed?",
-    "options": [
-      "Cold start",
-      "False start",
-      "Cold and false",
-      "False and hot"
-    ],
+    "options": ["Cold start", "False start", "Cold and false", "False and hot"],
     "answer": "False start"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "Chemical washing is carried out in GTG to soften the dirt.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "During steam washing of compressors in GT, which start is performed?",
-    "options": [
-      "Cold",
-      "False",
-      "Cold and false",
-      "False and hot"
-    ],
+    "options": ["Cold", "False", "Cold and false", "False and hot"],
     "answer": "Cold"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "Chemical washing is carried out once in a week.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Timer motor at zero position is a starting interlock of GT.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "GT starting cycle duration is 120 sec.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Shut off valve is part of the protection unit.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Cut off valve is part of the protection unit.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Fuel stop cock in open position is a starting interlock.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Air pressure required for operation of friction coupling is 16 to 18 kgf/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Air pressure supplied for engagement & disengagement of jaw damping coupling is 9 to 11 kgf/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Torque developed by GT is not uniform.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Fuel pressure difference across coarse filter limit value is 0.25 kg/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Temperature of compressor bearing should not be higher than 70°C.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Oil pressure in Lubrication system should not be less than 2.2 kg/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Titanium alloys are used for the LP compressor.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Nimocast 247 is used for manufacturing of nozzle guide vanes.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Compressor blades need to have high specific tensile strength.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Compressor blades need to have high fatigue strength.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Compressor blades need to have low stiffness.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Turbine blades are coated with platinum to improve oxidation resistance.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Haynes 188 is one of the combustor materials.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Material for turbine should not have high creep strength.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Super alloys are used for turbine blades.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "FV 535 is a type of steel.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Fir tree method is a type of blade fixing in turbine.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Dove tail method is a type of blade fixing in compressor.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Expansion of gases in turbine results in production of mechanical power.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "Which possible combination of GT propulsion with GT propulsion is used?",
-    "options": [
-      "COGAG and COGOG both",
-      "COGAG",
-      "COGOG",
-      "COSAG"
-    ],
+    "options": ["COGAG and COGOG both", "COGAG", "COGOG", "COSAG"],
     "answer": "COGAG and COGOG both"
   },
   {
@@ -1617,97 +1453,61 @@
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in 1241 RE class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGAG plants are fitted in SNF class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in Shivalik class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in SNF class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGAG plant is fitted in 1241 RE class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "COGOG plants are fitted in Talwar class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "CODOG plants are fitted in Talwar class ships.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Combined Propulsion & Ship Configurations",
     "question": "Which class of ship can use the Gas Turbine to drive both propellers?",
-    "options": [
-      "SNF",
-      "Shivalik",
-      "1241 RE",
-      "Petya"
-    ],
+    "options": ["SNF", "Shivalik", "1241 RE", "Petya"],
     "answer": "1241 RE"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "Number of stages of the Compressor in a GTG are:",
-    "options": [
-      "07",
-      "09",
-      "10",
-      "12"
-    ],
+    "options": ["07", "09", "10", "12"],
     "answer": "10"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "Number of stages of the Turbine in a GTG are:",
-    "options": [
-      "02",
-      "03",
-      "04",
-      "05"
-    ],
+    "options": ["02", "03", "04", "05"],
     "answer": "04"
   },
   {
@@ -1724,23 +1524,13 @@
   {
     "subject": "GTG Construction & Technical Data",
     "question": "What voltage DC supply is required for the GTG starter?",
-    "options": [
-      "110 volts DC",
-      "20 volts DC",
-      "27 volts DC",
-      "12 volts DC"
-    ],
+    "options": ["110 volts DC", "20 volts DC", "27 volts DC", "12 volts DC"],
     "answer": "27 volts DC"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "The generator rated power at an ambient air temperature of 15°C is:",
-    "options": [
-      "1250 KW",
-      "1000 KW",
-      "1500 KW",
-      "800 KW"
-    ],
+    "options": ["1250 KW", "1000 KW", "1500 KW", "800 KW"],
     "answer": "1250 KW"
   },
   {
@@ -1768,304 +1558,199 @@
   {
     "subject": "GTG Construction & Technical Data",
     "question": "The generator used in the GTG is:",
-    "options": [
-      "1500 RPM",
-      "07 RPM",
-      "1200 RPM",
-      "1800 RPM"
-    ],
+    "options": ["1500 RPM", "07 RPM", "1200 RPM", "1800 RPM"],
     "answer": "1500 RPM"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "GTG components maintenance is cheaper and easy.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "GTG Construction & Technical Data",
     "question": "GTG occupies more space as compared to steam turbine.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "Chemical washing is preferred before Steam Washing.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "The main objective of chemical washing is to clean the flow path of the compressor.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "During chemical cleaning of compressors, which start is performed?",
-    "options": [
-      "Cold start",
-      "False start",
-      "Cold and false",
-      "False and hot"
-    ],
+    "options": ["Cold start", "False start", "Cold and false", "False and hot"],
     "answer": "False start"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "Chemical washing is carried out in GTG to soften the dirt.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "During steam washing of compressors in GT, which start is performed?",
-    "options": [
-      "Cold",
-      "False",
-      "Cold and false",
-      "False and hot"
-    ],
+    "options": ["Cold", "False", "Cold and false", "False and hot"],
     "answer": "Cold"
   },
   {
     "subject": "Maintenance: Washing & Cleaning",
     "question": "Chemical washing is carried out once in a week.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Timer motor at zero position is a starting interlock of GT.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "GT starting cycle duration is 120 sec.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Shut off valve is part of the protection unit.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Cut off valve is part of the protection unit.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Fuel stop cock in open position is a starting interlock.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Air pressure required for operation of friction coupling is 16 to 18 kgf/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Air pressure supplied for engagement & disengagement of jaw damping coupling is 9 to 11 kgf/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Torque developed by GT is not uniform.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Fuel pressure difference across coarse filter limit value is 0.25 kg/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Temperature of compressor bearing should not be higher than 70°C.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Operational Interlocks & Protection",
     "question": "Oil pressure in Lubrication system should not be less than 2.2 kg/cm2.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Titanium alloys are used for the LP compressor.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Nimocast 247 is used for manufacturing of nozzle guide vanes.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Compressor blades need to have high specific tensile strength.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Compressor blades need to have high fatigue strength.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Compressor blades need to have low stiffness.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Turbine blades are coated with platinum to improve oxidation resistance.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Haynes 188 is one of the combustor materials.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Material for turbine should not have high creep strength.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Super alloys are used for turbine blades.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "FV 535 is a type of steel.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Fir tree method is a type of blade fixing in turbine.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Dove tail method is a type of blade fixing in compressor.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Materials & Construction Details",
     "question": "Expansion of gases in turbine results in production of mechanical power.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
@@ -2082,12 +1767,7 @@
   {
     "subject": "Control Systems & Instrumentation",
     "question": "The temperature of the compressor bearing should not exceed:",
-    "options": [
-      "60°C",
-      "70°C",
-      "80°C",
-      "90°C"
-    ],
+    "options": ["60°C", "70°C", "80°C", "90°C"],
     "answer": "70°C"
   },
   {
@@ -2104,12 +1784,7 @@
   {
     "subject": "Control Systems & Instrumentation",
     "question": "The GT starting cycle timer motor returns to the zero position at:",
-    "options": [
-      "60 sec",
-      "90 sec",
-      "100 sec",
-      "120 sec"
-    ],
+    "options": ["60 sec", "90 sec", "100 sec", "120 sec"],
     "answer": "100 sec"
   },
   {
@@ -2137,12 +1812,7 @@
   {
     "subject": "Ship Class Specifics (Extended)",
     "question": "The 'Free Power Turbine' configuration is a feature of:",
-    "options": [
-      "Petya class",
-      "1241 RE class",
-      "Delhi class",
-      "Both B and C"
-    ],
+    "options": ["Petya class", "1241 RE class", "Delhi class", "Both B and C"],
     "answer": "Both B and C"
   },
   {
@@ -2159,12 +1829,7 @@
   {
     "subject": "Ship Class Specifics (Extended)",
     "question": "The SNF class ships utilize which specific combination?",
-    "options": [
-      "COGOG",
-      "COGAG",
-      "CODOG",
-      "COSOG"
-    ],
+    "options": ["COGOG", "COGAG", "CODOG", "COSOG"],
     "answer": "COGAG"
   },
   {
@@ -2225,61 +1890,37 @@
   {
     "subject": "Troubleshooting & Emergency Procedures",
     "question": "Heavy vibrations in the Reduction Gear (RG) require a:",
-    "options": [
-      "Normal stop",
-      "Crash stop",
-      "Cold start",
-      "False start"
-    ],
+    "options": ["Normal stop", "Crash stop", "Cold start", "False start"],
     "answer": "A crash stop is performed"
   },
   {
     "subject": "Final Review: True or False",
     "question": "Gas Turbines are less sensitive to ambient temperature than Diesel engines.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Final Review: True or False",
     "question": "The 'Fir Tree' method of blade root attachment is common in turbines due to high centrifugal loads.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "True"
   },
   {
     "subject": "Final Review: True or False",
     "question": "Lube oil for the GTG is cooled by sea water directly.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Final Review: True or False",
     "question": "A Cold Start is used to preserve the GT fuel system.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   },
   {
     "subject": "Final Review: True or False",
     "question": "The 1.8 to 3.0 kg/cm^2 fuel pressure is maintained by the HP pump.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "options": ["True", "False"],
     "answer": "False"
   }
 ]
-
-
-
-
