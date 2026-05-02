@@ -1084,5 +1084,1705 @@
       "False"
     ],
     "answer": "False"
+  },
+  {
+    "id": 116,
+    "subject": "PLC",
+    "question": "PLC operates on _______ power supply.",
+    "options": [
+      "5V DC",
+      "12 V DC",
+      "24 V DC",
+      "None of the above"
+    ],
+    "answer": "24 V DC"
+  },
+  {
+    "id": 117,
+    "subject": "PLC",
+    "question": "Opto-couplers are used for galvanic isolation in PLC.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 118,
+    "subject": "PLC",
+    "question": "In PLC CPU stands for",
+    "options": [
+      "Computer Processing Unit",
+      "Central Processing Unit",
+      "Compact processing Unit",
+      "None of the above"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 119,
+    "subject": "PLC",
+    "question": "PLC has both memory i.e. RAM and ROM",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 120,
+    "subject": "PLC",
+    "question": "Data bus is not a bidirectional path in PLC",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 121,
+    "subject": "PLC",
+    "question": "PLC can only receive digital signals",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 122,
+    "subject": "Speed measurement",
+    "question": "What is the main function of a tachogenerator?",
+    "options": [
+      "Measure Temperature",
+      "Measure speed of rotation",
+      "Control current",
+      "Convert AC to DC"
+    ],
+    "answer": "Measure speed of rotation"
+  },
+  {
+    "id": 123,
+    "subject": "Speed measurement",
+    "question": "Which physical quantity is directly proportional to the output voltage of a DC tachogenerator?",
+    "options": [
+      "Torque",
+      "Resistance",
+      "Angular speed",
+      "Frequency"
+    ],
+    "answer": "Angular speed"
+  },
+  {
+    "id": 124,
+    "subject": "Speed measurement",
+    "question": "Which of the following materials is commonly used for the brushes in tachogenerators?",
+    "options": [
+      "Graphite",
+      "Copper",
+      "Aluminium",
+      "Plastic"
+    ],
+    "answer": "Graphite"
+  },
+  {
+    "id": 125,
+    "subject": "Speed measurement",
+    "question": "tachogenerators are commonly used to measure",
+    "options": [
+      "Linear velocity",
+      "Acceleration",
+      "Power factor",
+      "Angular velocity"
+    ],
+    "answer": "Angular velocity"
+  },
+  {
+    "id": 126,
+    "subject": "Speed measurement",
+    "question": "In a DC tachogenerator, the output voltage is",
+    "options": [
+      "Not related to speed",
+      "Constant regardless of speed",
+      "Inversely proportional to speed",
+      "Directly proportional to speed"
+    ],
+    "answer": "Directly proportional to speed"
+  },
+  {
+    "id": 127,
+    "subject": "Speed measurement",
+    "question": "Which type of tachogenerator gives polarity reversal when the direction of rotation is reversed?",
+    "options": [
+      "Digital tachogenerator",
+      "AC tachogenerator",
+      "DC tachogenerator",
+      "Optical tachogenerator"
+    ],
+    "answer": "DC tachogenerator"
+  },
+  {
+    "id": 128,
+    "subject": "Speed measurement",
+    "question": "The output of a tachogenerator can be used for speed feedback in control systems.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 129,
+    "subject": "Speed measurement",
+    "question": "Tachogenerators are only used in automobiles",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 130,
+    "subject": "Speed measurement",
+    "question": "An AC tachogenerator produces a sinusoidal output voltage",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 131,
+    "subject": "Speed measurement",
+    "question": "The output voltage of a tachogenerator increases with a decrease in speed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 132,
+    "subject": "Speed measurement",
+    "question": "Tachogenerators are contactless devices",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 133,
+    "subject": "Speed measurement",
+    "question": "A tachogenerator is a device used to measure",
+    "options": [
+      "Voltage",
+      "Speed",
+      "Current",
+      "Resistance"
+    ],
+    "answer": "Speed"
+  },
+  {
+    "id": 134,
+    "subject": "Speed measurement",
+    "question": "The output voltage of a DC tachogenerator is proportional to the shaft speed",
+    "options": [
+      "Directly",
+      "Inversely",
+      "Not",
+      "Exponentially"
+    ],
+    "answer": "Directly"
+  },
+  {
+    "id": 135,
+    "subject": "Speed measurement",
+    "question": "DC tachogenerators produce voltage",
+    "options": [
+      "Sinusoidal",
+      "Digital",
+      "DC",
+      "Binary"
+    ],
+    "answer": "DC"
+  },
+  {
+    "id": 136,
+    "subject": "Speed measurement",
+    "question": "In a tachogenerator reversal of shaft direction causes a change in output voltage",
+    "options": [
+      "Magnitude",
+      "Frequency",
+      "Amplitude",
+      "Polarity"
+    ],
+    "answer": "Polarity"
+  },
+  {
+    "id": 137,
+    "subject": "Speed measurement",
+    "question": "An AC tachogenerator generates a output signal",
+    "options": [
+      "Sinusoidal",
+      "Square wave",
+      "Constant",
+      "Pulsating DC"
+    ],
+    "answer": "Sinusoidal"
+  },
+  {
+    "id": 138,
+    "subject": "Speed measurement",
+    "question": "Tachogenerators are often used in output signal",
+    "options": [
+      "Lighting",
+      "Control",
+      "Cooling",
+      "Alarm"
+    ],
+    "answer": "Control"
+  },
+  {
+    "id": 139,
+    "subject": "Speed measurement",
+    "question": "The main components of a DC tachogenerator include a rotating coil, commutator, and",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Brushes",
+      "Sensor"
+    ],
+    "answer": "Brushes"
+  },
+  {
+    "id": 140,
+    "subject": "Speed measurement",
+    "question": "The unit of the output voltage from a tachogenerator is",
+    "options": [
+      "Volts",
+      "Meters",
+      "Amperes",
+      "Ohms"
+    ],
+    "answer": "Volts"
+  },
+  {
+    "id": 141,
+    "subject": "Speed measurement",
+    "question": "A tachogenerator converts mechanical energy into energy",
+    "options": [
+      "Thermal",
+      "Electrical",
+      "Digital pulse",
+      "Analog current"
+    ],
+    "answer": "Electrical"
+  },
+  {
+    "id": 142,
+    "subject": "Speed measurement",
+    "question": "The efficiency of speed measurement in a tachogenerator depends on the of the shaft",
+    "options": [
+      "Load",
+      "Material",
+      "Speed",
+      "Direction"
+    ],
+    "answer": "Speed"
+  },
+  {
+    "id": 143,
+    "subject": "Speed measurement",
+    "question": "What is the primary working principle of optical sensors?",
+    "options": [
+      "Electromagnetic Induction",
+      "Photoelectric effect",
+      "Piezoelectric effect",
+      "Capacitance change"
+    ],
+    "answer": "Photoelectric effect"
+  },
+  {
+    "id": 144,
+    "subject": "Speed measurement",
+    "question": "Optical speed sensors typically use which type of light source?",
+    "options": [
+      "Halogen bulb",
+      "LED or Laser",
+      "Neon lamp",
+      "Fluorescent tube"
+    ],
+    "answer": "LED or Laser"
+  },
+  {
+    "id": 145,
+    "subject": "Speed measurement",
+    "question": "Which component detects the reflected or interrupted light in an optical sensor?",
+    "options": [
+      "Photodiode or phototransistor",
+      "Inductor",
+      "Resistor",
+      "Capacitor"
+    ],
+    "answer": "Photodiode or phototransistor"
+  },
+  {
+    "id": 146,
+    "subject": "Speed measurement",
+    "question": "In reflective optical sensors, a light beam is",
+    "options": [
+      "Absorbed by the target",
+      "Blocked by air gaps",
+      "Reflected from the target",
+      "Ignored by the detector"
+    ],
+    "answer": "Reflected from the target"
+  },
+  {
+    "id": 147,
+    "subject": "Speed measurement",
+    "question": "Which of the following is a key advantage of optical sensor?",
+    "options": [
+      "Needs high current to operate",
+      "Works well in dirty environments",
+      "Requires physical contact",
+      "High accuracy and sensitivity"
+    ],
+    "answer": "High accuracy and sensitivity"
+  },
+  {
+    "id": 148,
+    "subject": "Speed measurement",
+    "question": "To measure speed, optical sensors count the number of",
+    "options": [
+      "Light pulses received",
+      "Magnetic poles passed",
+      "Heat changes detected",
+      "Gears rotated"
+    ],
+    "answer": "Light pulses received"
+  },
+  {
+    "id": 149,
+    "subject": "Speed measurement",
+    "question": "Which of the following conditions may reduce the accuracy of optical sensors?",
+    "options": [
+      "High temperature",
+      "Dust or oil contamination",
+      "Magnetic interference",
+      "High voltage"
+    ],
+    "answer": "Dust or oil contamination"
+  },
+  {
+    "id": 150,
+    "subject": "Speed measurement",
+    "question": "What kind of signal is typically produced by an optical sensor?",
+    "options": [
+      "AC waveform",
+      "Sinusoidal",
+      "Digital pulse",
+      "Interruptive"
+    ],
+    "answer": "Digital pulse"
+  },
+  {
+    "id": 151,
+    "subject": "Speed measurement",
+    "question": "Optical sensors can measure speed without touching the rotating object",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 152,
+    "subject": "Speed measurement",
+    "question": "Optical sensors work on the principle of electromagnetic induction.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 153,
+    "subject": "Speed measurement",
+    "question": "A reflective strip is commonly used with optical sensors to detect speed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 154,
+    "subject": "Speed measurement",
+    "question": "Optical sensors are ideal for use in dusty and oily environments.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 155,
+    "subject": "Speed measurement",
+    "question": "Light emitting diodes(LED) are often used as a light source in optical sensors.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 156,
+    "subject": "Speed measurement",
+    "question": "Optical speed sensors produce a digital pulse signal",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 157,
+    "subject": "Speed measurement",
+    "question": "Optical sensors need a ferromagnetic target to function",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 158,
+    "subject": "Speed measurement",
+    "question": "The output signal from an optical sensor remains constant regardless of the object's speed",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 159,
+    "subject": "Speed measurement",
+    "question": "Optical sensors operate based on the principle of",
+    "options": [
+      "Magnetism",
+      "Photoelectric effect",
+      "Thermoelectric effect",
+      "Electromagnetic induction"
+    ],
+    "answer": "Photoelectric effect"
+  },
+  {
+    "id": 160,
+    "subject": "Speed measurement",
+    "question": "Optical speed sensors are type of sensors",
+    "options": [
+      "Contact",
+      "Analog",
+      "Non-contact",
+      "Resistive"
+    ],
+    "answer": "Non-contact"
+  },
+  {
+    "id": 161,
+    "subject": "Speed measurement",
+    "question": "The two main types of optical sensors used in speed measurement are reflective and",
+    "options": [
+      "Thermal",
+      "Capacitive",
+      "Inductive",
+      "Optical"
+    ],
+    "answer": "Optical"
+  },
+  {
+    "id": 162,
+    "subject": "Speed measurement",
+    "question": "In a reflective optical sensor, the light is by the rotating surface.",
+    "options": [
+      "Reflected",
+      "Absorbed",
+      "Blocked",
+      "Refracted"
+    ],
+    "answer": "Reflected"
+  },
+  {
+    "id": 163,
+    "subject": "Speed measurement",
+    "question": "Optical sensors use as the source of light.",
+    "options": [
+      "Tungsten lamp",
+      "LED or laser",
+      "Mercury vapor lamp",
+      "Carbon rod"
+    ],
+    "answer": "LED or laser"
+  },
+  {
+    "id": 164,
+    "subject": "Speed measurement",
+    "question": "To measure the rotational speed, optical sensors count the number of per second",
+    "options": [
+      "Voltage drops",
+      "Gear teeth",
+      "Light pulses",
+      "Revolutions"
+    ],
+    "answer": "Light pulses"
+  },
+  {
+    "id": 165,
+    "subject": "Speed measurement",
+    "question": "A is often used on the rotating shaft to assist the optical sensor in detection",
+    "options": [
+      "Magnetic",
+      "Coil",
+      "Notch",
+      "Reflective strip"
+    ],
+    "answer": "Reflective strip"
+  },
+  {
+    "id": 166,
+    "subject": "Speed measurement",
+    "question": "The main advantage of optical sensors is their high",
+    "options": [
+      "Sensitivity",
+      "Power consumption",
+      "Weight",
+      "Temperature range"
+    ],
+    "answer": "Sensitivity"
+  },
+  {
+    "id": 167,
+    "subject": "Speed measurement",
+    "question": "What is the working principle of a magnetic pickup sensor?",
+    "options": [
+      "Hall effect",
+      "Faraday's law of Electromagnetic induction",
+      "Piezoelectric Effect",
+      "Photoelectric effect"
+    ],
+    "answer": "Faraday's law of Electromagnetic induction"
+  },
+  {
+    "id": 168,
+    "subject": "Speed measurement",
+    "question": "What physical quantity is directly sensed by a magnetic pickup sensor in speed measurement?",
+    "options": [
+      "Temperature",
+      "Acceleration",
+      "Magnetic Flux Change",
+      "Light intensity"
+    ],
+    "answer": "Magnetic Flux Change"
+  },
+  {
+    "id": 169,
+    "subject": "Speed measurement",
+    "question": "The output signal from a magnetic pickup sensor is generally:",
+    "options": [
+      "DC Pulse",
+      "Square wave",
+      "Digital serial data",
+      "Analog Voltage Sine Wave"
+    ],
+    "answer": "Analog Voltage Sine Wave"
+  },
+  {
+    "id": 170,
+    "subject": "Speed measurement",
+    "question": "The frequency of the output signal from a magnetic pickup is proportional to",
+    "options": [
+      "Speed of rotating object",
+      "Temperature",
+      "Distance",
+      "Pressure"
+    ],
+    "answer": "Speed of rotating object"
+  },
+  {
+    "id": 171,
+    "subject": "Speed measurement",
+    "question": "What material is commonly used in the tip of a magnetic pickup sensor?",
+    "options": [
+      "Plastic",
+      "Ferrite core",
+      "Copper",
+      "Aluminium"
+    ],
+    "answer": "Ferrite core"
+  },
+  {
+    "id": 172,
+    "subject": "Speed measurement",
+    "question": "In a magnetic pickup speed sensor, the output frequency increases with",
+    "options": [
+      "Increasing temperature",
+      "Decreasing gap",
+      "Increasing speed",
+      "Decreasing resistance"
+    ],
+    "answer": "Increasing speed"
+  },
+  {
+    "id": 173,
+    "subject": "Speed measurement",
+    "question": "Magnetic pickup sensors can measure rotational speed without physical contact",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 174,
+    "subject": "Speed measurement",
+    "question": "Magnetic pickup sensors need external power to operate",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 175,
+    "subject": "Speed measurement",
+    "question": "The output voltage of a magnetic pickup sensor decreases with increasing speed",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 176,
+    "subject": "Speed measurement",
+    "question": "Magnetic pickup sensors are effective even at very low rotational speeds",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 177,
+    "subject": "Speed measurement",
+    "question": "The gap between the sensor tip and the rotating target affects the sensor's output",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 178,
+    "subject": "Speed measurement",
+    "question": "The signal generated by a magnetic pickup sensor is typically sinusoidal",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 179,
+    "subject": "Speed measurement",
+    "question": "Magnetic pickup sensors operate based on",
+    "options": [
+      "Hall Effect",
+      "Piezoelectric effect",
+      "Coulomb's law",
+      "Faraday's law"
+    ],
+    "answer": "Faraday's law"
+  },
+  {
+    "id": 180,
+    "subject": "Speed measurement",
+    "question": "The magnetic pickup sensor detects changes in as a ferrous objects moves past it",
+    "options": [
+      "Magnetic field",
+      "Light",
+      "Capacitance",
+      "Pressure"
+    ],
+    "answer": "Magnetic field"
+  },
+  {
+    "id": 181,
+    "subject": "Speed measurement",
+    "question": "The output of a magnetic pickup sensor is in the form of a waveform",
+    "options": [
+      "Sinusoidal",
+      "Square",
+      "Digital",
+      "Triangular"
+    ],
+    "answer": "Sinusoidal"
+  },
+  {
+    "id": 182,
+    "subject": "Speed measurement",
+    "question": "Magnetic pickup sensors are considered sensors because they do not need external power to generate a signal.",
+    "options": [
+      "Optical",
+      "Active",
+      "Passive",
+      "Capacitive"
+    ],
+    "answer": "Passive"
+  },
+  {
+    "id": 183,
+    "subject": "Speed measurement",
+    "question": "The sensor detects motion by sensing the movement of past the sensor tip",
+    "options": [
+      "Air particles",
+      "Light rays",
+      "Liquid drops",
+      "Ferrous teeth"
+    ],
+    "answer": "Ferrous teeth"
+  },
+  {
+    "id": 184,
+    "subject": "Speed measurement",
+    "question": "At rotational speeds the output signal from a magnetic pickup sensor is typically",
+    "options": [
+      "Weak",
+      "Strong",
+      "Constant",
+      "Digital"
+    ],
+    "answer": "Weak"
+  },
+  {
+    "id": 185,
+    "subject": "Speed measurement",
+    "question": "Which type of proximity sensor is commonly used for detecting metallic targets in speed measurement applications?",
+    "options": [
+      "Capacitive sensor",
+      "Inductive sensor",
+      "Optical sensor",
+      "Ultrasonic sensor"
+    ],
+    "answer": "Inductive sensor"
+  },
+  {
+    "id": 186,
+    "subject": "Speed measurement",
+    "question": "Proximity sensors used in speed measurement work on the principle of",
+    "options": [
+      "Light reflection",
+      "Ultrasonic waves",
+      "Magnetic field interaction",
+      "Piezoelectric effect"
+    ],
+    "answer": "Magnetic field interaction"
+  },
+  {
+    "id": 187,
+    "subject": "Speed measurement",
+    "question": "In a proximity sensor based speed measurement system, speed is calculated using:",
+    "options": [
+      "Light intensity",
+      "Voltage drop",
+      "Resistance variation",
+      "Frequency pulses"
+    ],
+    "answer": "Frequency pulses"
+  },
+  {
+    "id": 188,
+    "subject": "Speed measurement",
+    "question": "Proximity sensors are used to detect the of a rotating object.",
+    "options": [
+      "Speed",
+      "Temperature",
+      "Color",
+      "Voltage"
+    ],
+    "answer": "Speed"
+  },
+  {
+    "id": 189,
+    "subject": "Speed measurement",
+    "question": "Inductive sensors can only detect materials.",
+    "options": [
+      "Wooden",
+      "Metallic",
+      "Plastic",
+      "Ceramic"
+    ],
+    "answer": "Metallic"
+  },
+  {
+    "id": 190,
+    "subject": "Speed measurement",
+    "question": "Capacitive proximity sensors are used to detect",
+    "options": [
+      "Only metals",
+      "Only non-metals",
+      "Both metals and non-metals.",
+      "Only magnetic materials"
+    ],
+    "answer": "Both metals and non-metals."
+  },
+  {
+    "id": 191,
+    "subject": "Speed measurement",
+    "question": "Speed measurement using proximity sensors is done by counting the number of in a given time",
+    "options": [
+      "Vibrations",
+      "Rotations",
+      "Reflections.",
+      "Pulses"
+    ],
+    "answer": "Pulses"
+  },
+  {
+    "id": 192,
+    "subject": "Speed measurement",
+    "question": "Capacitive proximity sensors detect changes in",
+    "options": [
+      "Capacitance",
+      "Magnetic Flux",
+      "Voltage",
+      "Resistance"
+    ],
+    "answer": "Capacitance"
+  },
+  {
+    "id": 193,
+    "subject": "Speed measurement",
+    "question": "Optical proximity sensors work based on the interruption of a beam.",
+    "options": [
+      "Sound",
+      "Infrared",
+      "Laser",
+      "Microwave"
+    ],
+    "answer": "Infrared"
+  },
+  {
+    "id": 194,
+    "subject": "Speed measurement",
+    "question": "Proximity sensors require physical contact to detect motion",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 195,
+    "subject": "Speed measurement",
+    "question": "Inductive proximity sensors are not suitable for detecting plastic targets",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 196,
+    "subject": "Speed measurement",
+    "question": "Speed is determined by the time interval between successive signals from a proximity sensor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 197,
+    "subject": "Speed measurement",
+    "question": "Proximity sensors are affected by temperature but not by moisture",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 198,
+    "subject": "Speed measurement",
+    "question": "Proximity sensors are ideal for high wear mechanical environments",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 199,
+    "subject": "Speed measurement",
+    "question": "A stroboscope is used to measure",
+    "options": [
+      "Temperature",
+      "Speed of rotating objects",
+      "Pressure",
+      "Voltage"
+    ],
+    "answer": "Speed of rotating objects"
+  },
+  {
+    "id": 200,
+    "subject": "Speed measurement",
+    "question": "The unit of measurement for the flashing frequency of a stroboscope is",
+    "options": [
+      "RPM",
+      "m/s",
+      "Hz",
+      "Rad/s"
+    ],
+    "answer": "Hz"
+  },
+  {
+    "id": 201,
+    "subject": "Speed measurement",
+    "question": "Stroboscope measurement is most effective for",
+    "options": [
+      "Linear motion",
+      "Irregular motion",
+      "Continuous motion",
+      "Periodic rotatory motion"
+    ],
+    "answer": "Periodic rotatory motion"
+  },
+  {
+    "id": 202,
+    "subject": "Speed measurement",
+    "question": "Stroboscope speed measurement works on the principle of",
+    "options": [
+      "Optical illusion",
+      "Doppler effect",
+      "Eddy current",
+      "Magnetic Induction"
+    ],
+    "answer": "Optical illusion"
+  },
+  {
+    "id": 203,
+    "subject": "Speed measurement",
+    "question": "Which parameter needs to be adjusted on a stroboscope to match the objects speed?",
+    "options": [
+      "Pulse width",
+      "Frequency of flashes",
+      "Flash duration",
+      "Phase angle"
+    ],
+    "answer": "Frequency of flashes"
+  },
+  {
+    "id": 204,
+    "subject": "Speed measurement",
+    "question": "A stroboscope can measure speed of fan blade.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 205,
+    "subject": "Speed measurement",
+    "question": "A stroboscopic method provides contactless speed measurement",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 206,
+    "subject": "Speed measurement",
+    "question": "Stroboscope requires calibration each time before use",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 207,
+    "subject": "Speed measurement",
+    "question": "Stroboscope can measure speed accurately even when ambient light is too bright.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 208,
+    "subject": "process control",
+    "question": "A controller has the input signal as the error signal",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 209,
+    "subject": "process control",
+    "question": "Derivative controller is used to increase the speed of response in control systems.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 210,
+    "subject": "process control",
+    "question": "PID stands for",
+    "options": [
+      "Proportional Internal Derivative",
+      "Proportional Integral Diffusion",
+      "Proportional Integral Derivative",
+      "None of the above"
+    ],
+    "answer": "Proportional Integral Derivative"
+  },
+  {
+    "id": 211,
+    "subject": "process control",
+    "question": "Proportional constant is represented by Kp.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 212,
+    "subject": "process control",
+    "question": "PID controller is not effective for processes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 213,
+    "subject": "process control",
+    "question": "PI controller is used to reduce the ________ of the system.",
+    "options": [
+      "Gain",
+      "Stability",
+      "Response",
+      "Steady State Error"
+    ],
+    "answer": "Steady State Error"
+  },
+  {
+    "id": 214,
+    "subject": "process control",
+    "question": "PI controller is used to improve the stability of the system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 215,
+    "subject": "process control",
+    "question": "________ is the time taken for a signal to increase from 10% to 90% of its final value.",
+    "options": [
+      "Peak Time",
+      "Initial Time",
+      "Settling Time",
+      "Rise Time"
+    ],
+    "answer": "Rise Time"
+  },
+  {
+    "id": 216,
+    "subject": "process control",
+    "question": "________ is the time taken for the system response to reach its maximum overshoot value after a step change in the input signal.",
+    "options": [
+      "Starting Time",
+      "Peak Time",
+      "Settling Time",
+      "Rise Time"
+    ],
+    "answer": "Peak Time"
+  },
+  {
+    "id": 217,
+    "subject": "process control",
+    "question": "Settling time refers to the time taken by a signal to reach its desirable level.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 218,
+    "subject": "process control",
+    "question": "Overshoot in control system represents the maximum deviation of the output from the desirable value.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 219,
+    "subject": "process control",
+    "question": "The overshoot does not occur in ________ type of controller.",
+    "options": [
+      "PID",
+      "PI",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "PI"
+  },
+  {
+    "id": 220,
+    "subject": "process control",
+    "question": "In close loop control system, EMD stands for",
+    "options": [
+      "Error magnifying Device",
+      "Error modulated Device",
+      "Error Measuring Device",
+      "Error Mode Device"
+    ],
+    "answer": "Error Measuring Device"
+  },
+  {
+    "id": 221,
+    "subject": "process control",
+    "question": "In close loop control system, COD stands for",
+    "options": [
+      "Continuous Order Device",
+      "Compact Output Device",
+      "Command Output Device",
+      "Command order Device"
+    ],
+    "answer": "Command order Device"
+  },
+  {
+    "id": 222,
+    "subject": "process control",
+    "question": "In a twin tank setup, PID control is primarily used to control",
+    "options": [
+      "Motor speed",
+      "Pressure",
+      "Liquid level",
+      "Pipe diameter"
+    ],
+    "answer": "Liquid level"
+  },
+  {
+    "id": 223,
+    "subject": "process control",
+    "question": "The proportional term in a PID controller",
+    "options": [
+      "Integrates past errors",
+      "Reacts to the rate of change of error",
+      "Eliminates steady state error",
+      "Acts based on the present error"
+    ],
+    "answer": "Acts based on the present error"
+  },
+  {
+    "id": 224,
+    "subject": "process control",
+    "question": "The derivative term in a PID controller provides",
+    "options": [
+      "Prediction of future trend of error",
+      "Control action based on accumulated error",
+      "Fast correction of error",
+      "Smoothing of output"
+    ],
+    "answer": "Prediction of future trend of error"
+  },
+  {
+    "id": 225,
+    "subject": "process control",
+    "question": "In a twin tank system the major controlled variable is typically",
+    "options": [
+      "Inlet valve voltage",
+      "Tank level difference",
+      "Input flow rate",
+      "Output pressure"
+    ],
+    "answer": "Tank level difference"
+  },
+  {
+    "id": 226,
+    "subject": "process control",
+    "question": "If the system exhibits oscillation and overshoot, which PID term may need to be reduced?",
+    "options": [
+      "Proportional",
+      "Integral",
+      "Derivative",
+      "Gain"
+    ],
+    "answer": "Proportional"
+  },
+  {
+    "id": 227,
+    "subject": "process control",
+    "question": "PID controller can be used in both open loop and closed loop system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 228,
+    "subject": "process control",
+    "question": "Twin tank system is typical example of interacting system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 229,
+    "subject": "process control",
+    "question": "Derivative action improves system response to sudden changes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 230,
+    "subject": "process control",
+    "question": "Integral control helps in predicting the future error.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 231,
+    "subject": "process control",
+    "question": "PID stands for Proportional Integral Differential.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 232,
+    "subject": "process control",
+    "question": "Integral term in PID controller helps to eliminate steady state error.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 233,
+    "subject": "process control",
+    "question": "The ________ term in a PID controller helps to eliminate the steady state error.",
+    "options": [
+      "Proportional",
+      "Derivative",
+      "Integral",
+      "Reactive"
+    ],
+    "answer": "Integral"
+  },
+  {
+    "id": 234,
+    "subject": "process control",
+    "question": "The PID controller adjusts the ________ to control the flow between tank 1 and tank 2.",
+    "options": [
+      "Pump speed",
+      "Heater",
+      "Flow sensor",
+      "Valve"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "id": 235,
+    "subject": "process control",
+    "question": "The derivative term in PID controller predicts the future trend of the ________.",
+    "options": [
+      "Error",
+      "Input",
+      "Output",
+      "Set-point"
+    ],
+    "answer": "Error"
+  },
+  {
+    "id": 236,
+    "subject": "process control",
+    "question": "The output of a PID controller in twin tank systems is typically a control signal to the ________.",
+    "options": [
+      "Water source",
+      "Valve actuator",
+      "Sensor",
+      "Controller display"
+    ],
+    "answer": "Valve actuator"
+  },
+  {
+    "id": 237,
+    "subject": "Automatic control system",
+    "question": "An automatic control system is designed to ________.",
+    "options": [
+      "Increase power consumption",
+      "Manually control input",
+      "Automatically maintain the output within a desired range",
+      "Create manual feedback"
+    ],
+    "answer": "Automatically maintain the output within a desired range"
+  },
+  {
+    "id": 238,
+    "subject": "Automatic control system",
+    "question": "Which of the following is an example of open loop control system?",
+    "options": [
+      "Room heater with thermostat",
+      "AC with temperature sensor",
+      "Cruise control in car",
+      "Electric hand dryer"
+    ],
+    "answer": "Electric hand dryer"
+  },
+  {
+    "id": 239,
+    "subject": "Automatic control system",
+    "question": "Which of the following is not a component of a closed loop system?",
+    "options": [
+      "Feedback element",
+      "Controller",
+      "Manual switch",
+      "Actuator"
+    ],
+    "answer": "Manual switch"
+  },
+  {
+    "id": 240,
+    "subject": "Automatic control system",
+    "question": "In a closed loop system, feedback is used to ________.",
+    "options": [
+      "Increase system complexity",
+      "Reduce cost",
+      "Eliminate controller",
+      "Improve accuracy and stability"
+    ],
+    "answer": "Improve accuracy and stability"
+  },
+  {
+    "id": 241,
+    "subject": "Automatic control system",
+    "question": "Which of the following statements is true?",
+    "options": [
+      "Open loop systems always require feedback",
+      "Closed loop system are never stable",
+      "Closed loop system corrects error automatically",
+      "Open loop system are more accurate than closed loop system"
+    ],
+    "answer": "Closed loop system corrects error automatically"
+  },
+  {
+    "id": 242,
+    "subject": "Automatic control system",
+    "question": "Automatic control systems always require human intervention.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 243,
+    "subject": "Automatic control system",
+    "question": "Open loop systems have no feedback path.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 244,
+    "subject": "Automatic control system",
+    "question": "Closed loop system are less accurate than open loop system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 245,
+    "subject": "Automatic control system",
+    "question": "Cruise control in car is a type of closed loop system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 246,
+    "subject": "Automatic control system",
+    "question": "Error detector is a device used to provide feedback in a closed loop system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 247,
+    "subject": "Automatic control system",
+    "question": "An open loop control system lacks ________.",
+    "options": [
+      "Output",
+      "Controller",
+      "Sensor",
+      "Feedback"
+    ],
+    "answer": "Feedback"
+  },
+  {
+    "id": 248,
+    "subject": "Automatic control system",
+    "question": "A ________ monitors and adjusts the output to match the desired value in closed loop system.",
+    "options": [
+      "Display",
+      "Relay",
+      "Feedback loop",
+      "Switch"
+    ],
+    "answer": "Feedback loop"
+  },
+  {
+    "id": 249,
+    "subject": "Automatic control system",
+    "question": "________ compares the output signal to the input signal in a closed loop system.",
+    "options": [
+      "Error detector",
+      "Actuator",
+      "Feedback unit",
+      "Processing Unit"
+    ],
+    "answer": "Error detector"
+  },
+  {
+    "id": 250,
+    "subject": "Automatic control system",
+    "question": "________ systems are generally more complex and expensive but provide better accuracy.",
+    "options": [
+      "Open loop",
+      "Closed loop",
+      "Manual",
+      "Digital"
+    ],
+    "answer": "Closed loop"
+  },
+  {
+    "id": 251,
+    "subject": "Automatic control system",
+    "question": "Washing machine is an example of closed loop system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 252,
+    "subject": "Calibration",
+    "question": "Calibration is the process of comparing a measuring instrument with a ________.",
+    "options": [
+      "Stopwatch",
+      "Software",
+      "Standard",
+      "Diagram"
+    ],
+    "answer": "Standard"
+  },
+  {
+    "id": 253,
+    "subject": "Calibration",
+    "question": "________ calibration is done at fixed intervals regardless of usage.",
+    "options": [
+      "Routine",
+      "Emergency",
+      "Safety",
+      "Periodic"
+    ],
+    "answer": "Periodic"
+  },
+  {
+    "id": 254,
+    "subject": "Calibration",
+    "question": "NAGMAN calibrators are commonly used for ________ calibration.",
+    "options": [
+      "Pressure",
+      "Level setting",
+      "Flow setting",
+      "Chemical"
+    ],
+    "answer": "Pressure"
+  },
+  {
+    "id": 255,
+    "subject": "Calibration",
+    "question": "The output of a pressure calibrator is generally measured in ________.",
+    "options": [
+      "Lux",
+      "PSI or bar",
+      "Newton",
+      "Ampere"
+    ],
+    "answer": "PSI or bar"
+  },
+  {
+    "id": 256,
+    "subject": "Calibration",
+    "question": "Calibration frequency depends on the ________ of the instrument.",
+    "options": [
+      "Color",
+      "Material",
+      "Usage",
+      "Model"
+    ],
+    "answer": "Usage"
+  },
+  {
+    "id": 257,
+    "subject": "Calibration",
+    "question": "Field calibration is less accurate than laboratory calibration.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 258,
+    "subject": "Calibration",
+    "question": "NAGMAN calibrators are not suitable for electrical signal testing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 259,
+    "subject": "Calibration",
+    "question": "Emergency calibration is done when there is a critical failure in the system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 260,
+    "subject": "Calibration",
+    "question": "Calibration is not needed if the instrument is used rarely.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 261,
+    "subject": "Calibration",
+    "question": "Calibration results must always be within the defined tolerance limits.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 262,
+    "subject": "Calibration",
+    "question": "Which of the following is a type of calibration?",
+    "options": [
+      "Manual",
+      "Field",
+      "Open loop",
+      "Real time"
+    ],
+    "answer": "Field"
+  },
+  {
+    "id": 263,
+    "subject": "Calibration",
+    "question": "What is the common occasion for recalibration?",
+    "options": [
+      "After shipment",
+      "After shutdown",
+      "After repair",
+      "After every use"
+    ],
+    "answer": "After repair"
+  },
+  {
+    "id": 264,
+    "subject": "Calibration",
+    "question": "NAGMAN calibrators can simulate which signal?",
+    "options": [
+      "Audio signal",
+      "Optical signal",
+      "Clock signal",
+      "Temperature (RTD/TC)"
+    ],
+    "answer": "Temperature (RTD/TC)"
+  },
+  {
+    "id": 265,
+    "subject": "Calibration",
+    "question": "Calibration should be done after ________ the instrument from external sources.",
+    "options": [
+      "Repairing",
+      "Buying",
+      "Breaking",
+      "Transporting"
+    ],
+    "answer": "Repairing"
+  },
+  {
+    "id": 266,
+    "subject": "Calibration",
+    "question": "________ calibration involves verifying instruments under normal operating conditions.",
+    "options": [
+      "Factory",
+      "Field",
+      "Zero",
+      "Dry"
+    ],
+    "answer": "Field"
   }
 ]
