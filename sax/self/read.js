@@ -6,25 +6,17 @@ let questions = [];
 
 wingSl.onchange = async function () {
   quizDiv.innerHTML = "";
-  loadingSpan.textContent = "Loading...";
-  const wing = wingSl.value;
-  let fileName;
-  if (wing === "sax") {
-    fileName = "sax1";
-  } else  {
-    fileName = wing;
-  }
-  if (fileName) {
-    questions = await fetchData(fileName);
-    renderQuestions();
-    loadingSpan.textContent = "";
-  }
+  await getQuestions();
 };
 
-document.getElementById("testBtn").onclick = () => {
+document.getElementById("testBtn").onclick = async () => {
   const wing = wingSl.value;
   if (wing) {
-    quizDiv.innerHTML = "<div id='report'></div><div id='testContainer'></div>";
+    await getQuestions();
+    let html = "<div id='report'></div><div id='testContainer'></div>";
+    html += `<button id='wrongBtn' onclick="renderWrongs()">Wrongs</button>`;
+    html += "<div id='wrongsContainer'></div>";
+    quizDiv.innerHTML = html;
     for (let i = questions.length - 1; i > 0; i--) {
       let j = Math.floor(Math.random() * (i + 1)); // 0 to i
       [questions[i], questions[j]] = [questions[j], questions[i]]; // swap
@@ -33,6 +25,26 @@ document.getElementById("testBtn").onclick = () => {
     startTest(0);
   }
 };
+
+async function getQuestions() {
+  const wing = wingSl.value;
+
+  wing && (loadingSpan.textContent = "Loading...");
+  !wing && (questions = []);
+
+  let fileName;
+
+  if (wing === "sax") {
+    fileName = "sax1";
+  } else {
+    fileName = wing;
+  }
+  if (fileName) {
+    questions = await fetchData(fileName);
+    renderQuestions();
+    loadingSpan.textContent = "";
+  }
+}
 
 function renderQuestions() {
   let subject = "";
@@ -179,4 +191,38 @@ function reportCard(qNum) {
     correct: nCorrect,
     percent: `${percent}%`
   };
+}
+
+function renderWrongs() {
+  const wrongsContainer = document.getElementById("wrongsContainer");
+  wrongsContainer.innerHTML =
+    "<button id='closeBtn' onclick='this.parentElement.style.display = `none`'>X</button>";
+  wrongsContainer.style.display = "block";
+
+  questions.forEach((q, inx) => {
+    if (q.answered === "wrong") {
+      const qContainer = getEachQ(q, inx);
+      const radios = qContainer.querySelectorAll("input");
+      checkCorrect(radios, q);
+
+      radios.forEach((radio) => {
+        radio.onclick = () => {
+          checkCorrect(radios, q);
+        };
+      });
+      wrongsContainer.appendChild(qContainer);
+    }
+  });
+
+  function checkCorrect(radios, q) {
+    radios.forEach((radio) => {
+      if (radio.value === q.answer) {
+        radio.checked = true;
+      } else {
+        radio.checked = false;
+      }
+    });
+  }
+
+  document.body.appendChild(wrongsContainer);
 }
