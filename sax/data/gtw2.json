@@ -1,1 +1,554 @@
+[
+  {
+    "question": "The main purpose of conducting trials on power generation machinery is to:",
+    "options": {
+      "A": "Increase fuel consumption",
+      "B": "Verify performance and safety",
+      "C": "Reduce power output",
+      "D": "Increase noise levels"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Which trial is conducted to check mechanical integrity of machinery?",
+    "options": {
+      "A": "Electrical trial",
+      "B": "Thermal trial",
+      "C": "Mechanical trial",
+      "D": "Chemical trial"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Vibration trials in gas turbines are mainly carried out to:",
+    "options": {
+      "A": "Improve combustion efficiency",
+      "B": "Detect mechanical faults",
+      "C": "Increase turbine speed",
+      "D": "Reduce exhaust temperature"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Which of the following is NOT a cause of vibration in gas turbines?",
+    "options": {
+      "A": "Rotor unbalance",
+      "B": "Shaft misalignment",
+      "C": "Proper lubrication",
+      "D": "Bearing wear"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "The instrument commonly used to measure vibration in gas turbines is:",
+    "options": {
+      "A": "Thermocouple",
+      "B": "Accelerometer",
+      "C": "Ammeter",
+      "D": "Pressure gauge"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "FFT analysis in vibration monitoring is used to:",
+    "options": {
+      "A": "Increase speed",
+      "B": "Measure temperature",
+      "C": "Identify vibration frequency components",
+      "D": "Reduce noise"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "During vibration trials, critical speed is the speed at which:",
+    "options": {
+      "A": "Fuel consumption is maximum",
+      "B": "Power output is zero",
+      "C": "Vibration amplitude becomes maximum",
+      "D": "Temperature is minimum"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Which test ensures automatic shutdown during unsafe conditions?",
+    "options": {
+      "A": "Load test",
+      "B": "Overspeed trip test",
+      "C": "Efficiency test",
+      "D": "Alignment test"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "The acceptable vibration limit for large gas turbines is approximately:",
+    "options": {
+      "A": "0.5 mm/s",
+      "B": "1 mm/s",
+      "C": "4.5 mm/s (rms)",
+      "D": "10 mm/s"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Proximity probes in vibration trials measure:",
+    "options": {
+      "A": "Temperature",
+      "B": "Shaft displacement",
+      "C": "Velocity",
+      "D": "Acceleration"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Vibration measurement during coast-down test helps in:",
+    "options": {
+      "A": "Fuel analysis",
+      "B": "Detecting resonance problems",
+      "C": "Cooling analysis",
+      "D": "Electrical fault detection"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "ISO 10816 standard is related to:",
+    "options": {
+      "A": "Electrical insulation",
+      "B": "Thermal efficiency",
+      "C": "Machinery vibration limits",
+      "D": "Fuel quality"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Which trial is conducted before synchronizing a generator with the grid?",
+    "options": {
+      "A": "Heat rate test",
+      "B": "No-load run test",
+      "C": "Chemical test",
+      "D": "Fire test"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Excessive vibration in gas turbines can lead to:",
+    "options": {
+      "A": "Increased efficiency",
+      "B": "Blade and bearing failure",
+      "C": "Reduced noise",
+      "D": "Improved alignment"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Vibration monitoring helps mainly in:",
+    "options": {
+      "A": "Increasing capital cost",
+      "B": "Preventive maintenance",
+      "C": "Reducing turbine size",
+      "D": "Increasing fuel consumption"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Which sensor measures vibration velocity?",
+    "options": {
+      "A": "Proximity probe",
+      "B": "Accelerometer",
+      "C": "Velocity transducer",
+      "D": "Thermistor"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Alignment errors in turbines mainly cause:",
+    "options": {
+      "A": "Thermal loss",
+      "B": "Electrical imbalance",
+      "C": "Mechanical vibration",
+      "D": "Fuel leakage"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "During full-load vibration trial, readings are compared with:",
+    "options": {
+      "A": "Manufacturer’s limits",
+      "B": "Fuel standards",
+      "C": "Ambient temperature",
+      "D": "Grid frequency"
+    },
+    "answer": "A",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Which of the following is a safety trial?",
+    "options": {
+      "A": "Load test",
+      "B": "IR test",
+      "C": "Emergency shutdown test",
+      "D": "Heat rate test"
+    },
+    "answer": "C",
+    "subject": "Vibration"
+  },
+  {
+    "question": "Vibration trend monitoring is useful for:",
+    "options": {
+      "A": "Immediate shutdown only",
+      "B": "Long-term condition assessment",
+      "C": "Fuel optimization",
+      "D": "Speed control"
+    },
+    "answer": "B",
+    "subject": "Vibration"
+  },
+  {
+    "question": "The foremost responsibility of a Section Chief is:",
+    "options": {
+      "A": "Completing documentation",
+      "B": "Supervising contractors",
+      "C": "Ensuring readiness, safety, and welfare",
+      "D": "Maintaining discipline only"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "A Section Chief derives authority mainly from:",
+    "options": {
+      "A": "Rank only",
+      "B": "Seniority",
+      "C": "Appointment and responsibility",
+      "D": "Personal influence"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "A defect affecting ship safety should be:",
+    "options": {
+      "A": "Logged later",
+      "B": "Ignored if minor",
+      "C": "Treated as high priority",
+      "D": "Rectified during refit only"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "NBCD responsibility of Section Chief includes:",
+    "options": {
+      "A": "Fire only",
+      "B": "Chemical only",
+      "C": "Fire, flooding, damage control readiness",
+      "D": "Harbour drills only"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Toolbox talks are conducted:",
+    "options": {
+      "A": "After completion of work",
+      "B": "Before hazardous tasks",
+      "C": "During inspections",
+      "D": "Only during refit"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Best method to improve section morale:",
+    "options": {
+      "A": "Reduce workload",
+      "B": "Fair tasking and welfare concern",
+      "C": "Strict discipline only",
+      "D": "Avoid interaction"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Safety violations reported by a sailor should be:",
+    "options": {
+      "A": "Ignored if urgent work",
+      "B": "Investigated immediately",
+      "C": "Reported later",
+      "D": "Discouraged"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Accountability for section tools rests with:",
+    "options": {
+      "A": "Store Officer",
+      "B": "Dockyard",
+      "C": "Section Chief",
+      "D": "XO"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "PMS deviation without approval is:",
+    "options": {
+      "A": "Allowed during operations",
+      "B": "Allowed during refit",
+      "C": "Not permitted",
+      "D": "Encouraged"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Section training records are maintained to:",
+    "options": {
+      "A": "Reduce training",
+      "B": "Track competence",
+      "C": "Satisfy Dockyard",
+      "D": "Replace PMS"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "During emergency, initiative by Section Chief should be:",
+    "options": {
+      "A": "Avoided",
+      "B": "Independent",
+      "C": "As per training and orders",
+      "D": "Delayed"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Correct delegation means:",
+    "options": {
+      "A": "Passing responsibility",
+      "B": "Assigning tasks with supervision",
+      "C": "Avoiding involvement",
+      "D": "Giving random tasks"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "A professional Section Chief always ensures:",
+    "options": {
+      "A": "Personal convenience",
+      "B": "Compliance with naval ethos",
+      "C": "Minimum reporting",
+      "D": "Informal practices"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Defect registers are used to record:",
+    "options": {
+      "A": "Training",
+      "B": "Equipment defects",
+      "C": "Stores demands",
+      "D": "Standing Orders"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "A Section Chief’s effectiveness is judged by:",
+    "options": {
+      "A": "Reports written",
+      "B": "Equipment readiness & team performance",
+      "C": "Seniority",
+      "D": "Dockyard feedback"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "During inspections, Section Chief should:",
+    "options": {
+      "A": "Conceal defects",
+      "B": "Accept responsibility and brief accurately",
+      "C": "Shift blame",
+      "D": "Avoid questions"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Discipline at section level is maintained by:",
+    "options": {
+      "A": "Regulating staff",
+      "B": "Section Chief",
+      "C": "XO",
+      "D": "Safety Officer"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Risk assessment before maintenance aims to:",
+    "options": {
+      "A": "Reduce paperwork",
+      "B": "Prevent accidents",
+      "C": "Increase speed",
+      "D": "Satisfy audits"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "A sailor underperforming technically should be:",
+    "options": {
+      "A": "Punished",
+      "B": "Ignored",
+      "C": "Counseled and trained",
+      "D": "Transferred"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Communication with DCPO/DO should be:",
+    "options": {
+      "A": "Occasional",
+      "B": "Only written",
+      "C": "Timely and accurate",
+      "D": "During inspections only"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Section Chief acts as SME for:",
+    "options": {
+      "A": "Entire ship",
+      "B": "Section equipment",
+      "C": "Naval regulations",
+      "D": "Dockyard rules"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Hot work onboard requires:",
+    "options": {
+      "A": "Experience only",
+      "B": "Permit and fire watch",
+      "C": "Verbal approval",
+      "D": "Dockyard presence only"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Configuration control ensures:",
+    "options": {
+      "A": "Informal modifications",
+      "B": "Authorised documented changes",
+      "C": "Faster refit",
+      "D": "Reduced audits"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Section manpower planning ensures:",
+    "options": {
+      "A": "Reduced workload",
+      "B": "Meeting operational demands",
+      "C": "Avoiding watches",
+      "D": "Less training"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "The ultimate aim of a Section Chief is:",
+    "options": {
+      "A": "Completing refit",
+      "B": "Maintaining discipline only",
+      "C": "Mission readiness of ship",
+      "D": "Documentation"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Safety briefings should be:",
+    "options": {
+      "A": "Optional",
+      "B": "Before hazardous tasks",
+      "C": "After completion",
+      "D": "During audits"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Leadership at MCPO level requires:",
+    "options": {
+      "A": "Authority only",
+      "B": "Technical skill only",
+      "C": "Judgement and responsibility",
+      "D": "Documentation focus"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "During harbour routine, Section Chief should:",
+    "options": {
+      "A": "Relax standards",
+      "B": "Continue PMS & training",
+      "C": "Stop inspections",
+      "D": "Await refit"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Grievances at section level should be:",
+    "options": {
+      "A": "Ignored",
+      "B": "Escalated immediately",
+      "C": "Addressed promptly and fairly",
+      "D": "Discouraged"
+    },
+    "answer": "C",
+    "subject": "Section Chief Responsibility"
+  },
+  {
+    "question": "Section Chief supports audits by:",
+    "options": {
+      "A": "Avoiding questions",
+      "B": "Producing accurate records",
+      "C": "Relying on officers",
+      "D": "Referring all queries"
+    },
+    "answer": "B",
+    "subject": "Section Chief Responsibility"
+  }
+]
+
 
