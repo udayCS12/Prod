@@ -114,3 +114,24 @@ body {
   color: white;
   margin-top: 0px;
 }
+
+#wrongsContainer {
+  display: none;
+  position: fixed;
+  top: 80px;
+  left: 20px;
+  background-color: white;
+  height: 800px;
+  width: 100vw;
+  overflow: auto;
+  padding-bottom: 280px;
+}
+
+#closeBtn {
+  position: absolute;
+  top: 2px;
+  right: 30px;
+  padding: 3px 5px;
+  background-color: transparent;
+  border: none;
+}
