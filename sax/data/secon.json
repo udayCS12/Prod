@@ -1,0 +1,1088 @@
+[
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 1,
+    "question": "RTD has _________ temperature co-efficient",
+    "options": [
+      "Positive",
+      "Negative",
+      "Both",
+      "None of the above"
+    ],
+    "answer": "Positive"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 2,
+    "question": "_________ temperature sensor has positive temperature co-efficient",
+    "options": [
+      "Thermocouple",
+      "Thermistor",
+      "RTD",
+      "Thermometer"
+    ],
+    "answer": "RTD"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 3,
+    "question": "Thermocouple works on the principle of",
+    "options": [
+      "Whitestone Bridge",
+      "Seebeck Effect",
+      "Capillary Effect",
+      "None of the above"
+    ],
+    "answer": "Seebeck Effect"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 4,
+    "question": "_________ temperature sensor works on the principle of seebeck effect.",
+    "options": [
+      "Thermistor",
+      "RTD",
+      "Thermometer",
+      "Thermocouple"
+    ],
+    "answer": "Thermocouple"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 5,
+    "question": "Optical pyrometer is used to measure the",
+    "options": [
+      "Pressure",
+      "Flow",
+      "Speed",
+      "Temperature"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 6,
+    "question": "Bimetallic thermometer converts the temperature into mechanical displacement by using bimetallic strip",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 7,
+    "question": "In pressure sensing devices, Diaphragm converts _________ into _________.",
+    "options": [
+      "Pressure, Current",
+      "Displacement, Displacement",
+      "Pressure, Displacement",
+      "Pressure, Voltage"
+    ],
+    "answer": "Pressure, Displacement"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 8,
+    "question": "Diaphragm is a primary sensing device.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 9,
+    "question": "Bellows can be used to measure the",
+    "options": [
+      "Displacement",
+      "Speed",
+      "Pressure",
+      "Gain"
+    ],
+    "answer": "Pressure"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 10,
+    "question": "Flow into tube converts the Bourdon _________",
+    "options": [
+      "Pressure Force",
+      "Pressure, Displacement",
+      "Pressure, Current",
+      "Pressure, Voltage"
+    ],
+    "answer": "Pressure, Displacement"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 11,
+    "question": "Bourdon tube is not a primary sensing device",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 12,
+    "question": "Bourdon tube is used to measure the gauge pressure of gas and liquid fluid",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 13,
+    "question": "Differential pressure cell has diaphragm inside to measure the pressure",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 14,
+    "question": "Sight glass method is direct method of level measurement",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 15,
+    "question": "The main advantage of bubbler system for level measurement is that it isolates the pressure transmitter from the process fluid",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 16,
+    "question": "Float level gauges is not suitable for measuring the level of liquids with high viscosity",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 17,
+    "question": "Pneumerator gauges are used to measure the level.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 18,
+    "question": "Rota meter is used to measure the",
+    "options": [
+      "Level",
+      "Pressure",
+      "Flow",
+      "Speed"
+    ],
+    "answer": "Flow"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 19,
+    "question": "_________ and _________ transducers can be used for level measurement.",
+    "options": [
+      "KDG Gauges",
+      "IGEMA gauge",
+      "Radar Sensor",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 20,
+    "question": "_________ and _________ transducers can be used for flow measurement",
+    "options": [
+      "Orifice plate",
+      "Turbine meter",
+      "Venture tube",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 21,
+    "question": "Orifice plate is used to measure the differential pressure.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 22,
+    "question": "Nozzle is used to measure the",
+    "options": [
+      "Pressure",
+      "Level",
+      "Flow",
+      "Speed"
+    ],
+    "answer": "Flow"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 23,
+    "question": "Venture tube is used to measure the level.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 24,
+    "question": "Turbine meter is used to measure the",
+    "options": [
+      "Speed",
+      "Level",
+      "Pressure",
+      "Flow"
+    ],
+    "answer": "Flow"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 25,
+    "question": "KDG Gauge is used to measure the",
+    "options": [
+      "Level",
+      "Flow",
+      "Pressure",
+      "Speed"
+    ],
+    "answer": "Level"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 26,
+    "question": "IGEMA gauge is used to measure the",
+    "options": [
+      "Flow",
+      "Pressure",
+      "Level",
+      "Speed"
+    ],
+    "answer": "Level"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 27,
+    "question": "A controller has the input signal as the error signal",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 28,
+    "question": "Derivative controller is used to increase the speed of response in control systems.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 29,
+    "question": "PID stands for",
+    "options": [
+      "Proportional Internal Derivative",
+      "Proportional Integral Diffusion",
+      "Proportional Integral Derivative",
+      "None of the above"
+    ],
+    "answer": "Proportional Integral Derivative"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 30,
+    "question": "Proportional constant is represented by Kp.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 31,
+    "question": "PID controller is not effective for processes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 32,
+    "question": "PI controller is used to reduce the _________ of the system",
+    "options": [
+      "Gain",
+      "Stability",
+      "Response",
+      "Steady State Error"
+    ],
+    "answer": "Steady State Error"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 33,
+    "question": "PI controller is used to improve the stability of the system",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 34,
+    "question": "_________ is the time taken for a signal to increase from 10% to 90% of its final value",
+    "options": [
+      "Peak Time",
+      "Initial Time",
+      "Settling Time",
+      "Rise Time"
+    ],
+    "answer": "Rise Time"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 35,
+    "question": "_________ is the time taken for the system response to reach its maximum overshoot value after a step change in the input signal.",
+    "options": [
+      "Starting Time",
+      "Peak Time",
+      "Settling Time",
+      "Rise Time"
+    ],
+    "answer": "Peak Time"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 36,
+    "question": "Settling time refers to the time taken by a signal to reach its desirable level",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 37,
+    "question": "Overshoot in control system represents the maximum deviation of the output from the desirable value.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 38,
+    "question": "The overshoot does not occur in _________ type of controller.",
+    "options": [
+      "PID",
+      "PI",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "PI"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 39,
+    "question": "In close loop control system, EMD stands for",
+    "options": [
+      "Error magnifying Device",
+      "Error modulated Device",
+      "Error Measuring Device",
+      "Error Mode Device"
+    ],
+    "answer": "Error Measuring Device"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 40,
+    "question": "In close loop control system, COD stands for",
+    "options": [
+      "Continuous Order Device",
+      "Compact Output Device",
+      "Command Output Device",
+      "Command Order Device"
+    ],
+    "answer": "Command Order Device"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 41,
+    "question": "Burya is a digital control system to generate commands for gas turbine control system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 42,
+    "question": "Burya is a PLC based control system",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 43,
+    "question": "In MIL STD-1553B communication standard single twisted cable pair is used with a maximum length of 200 meter",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 44,
+    "question": "Bus controller controls the data flow in MIL-STD-1553B communication",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 45,
+    "question": "VME stands for",
+    "options": [
+      "Versa Mapped Europa",
+      "Versa Molded Europa",
+      "Versa Module Europa",
+      "None of the above"
+    ],
+    "answer": "Versa Module Europa"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 46,
+    "question": "In MIL-STD-1553B, MIL-STD refers as",
+    "options": [
+      "Mile Standard",
+      "Military Strands",
+      "Military Stripped",
+      "Military Standard"
+    ],
+    "answer": "Military Standard"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 47,
+    "question": "Data transfer rate in MIL-STD-1553B communication is",
+    "options": [
+      "10 Megabit per second",
+      "1 Megabit per second",
+      "5 Megabit per second",
+      "40 Megabit per second"
+    ],
+    "answer": "1 Megabit per second"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 48,
+    "question": "RS 485 has _________ transmitter",
+    "options": [
+      "24",
+      "30",
+      "20",
+      "32"
+    ],
+    "answer": "32"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 49,
+    "question": "RS 485 has _________ receiver",
+    "options": [
+      "24",
+      "30",
+      "32",
+      "42"
+    ],
+    "answer": "32"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 50,
+    "question": "Maximum cable length in RS 485 is",
+    "options": [
+      "4000 feet",
+      "1200 feet",
+      "400 feet",
+      "200 feet"
+    ],
+    "answer": "4000 feet"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 51,
+    "question": "CAT 5 and CAT 6 twisted cable is used in Ethernet",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 52,
+    "question": "_________ communication is used between Burya console and LTS.",
+    "options": [
+      "Ethernet",
+      "MIL-STD-1553B",
+      "RS 485",
+      "None of the above"
+    ],
+    "answer": "MIL-STD-1553B"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 53,
+    "question": "Ethernet communication is used between Burya console and LTS",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 54,
+    "question": "Zarya is a _________ logic based control system",
+    "options": [
+      "Micro processor",
+      "PLC",
+      "Micro controller",
+      "Relay"
+    ],
+    "answer": "Relay"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 55,
+    "question": "Intra-device communication in Burya system is",
+    "options": [
+      "Ethernet",
+      "MIL-STD-1553B",
+      "RS 485",
+      "VME"
+    ],
+    "answer": "VME"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 56,
+    "question": "_________ is used between Burya control panels in MCR and ECR",
+    "options": [
+      "RS 485",
+      "MIL-STD-1553B",
+      "Ethernet",
+      "VME"
+    ],
+    "answer": "Ethernet"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 57,
+    "question": "In Burya control system, LTS stands for",
+    "options": [
+      "Local Terminal Station",
+      "Local Transmission Station",
+      "Local Transfer Station",
+      "Local Technological Station"
+    ],
+    "answer": "Local Technological Station"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 58,
+    "question": "In Burya control system, SCD stands for",
+    "options": [
+      "System Communication Device",
+      "Servo Communication Device",
+      "Servo Control Device",
+      "None of the above"
+    ],
+    "answer": "Servo Control Device"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 59,
+    "question": "LTS is the intermediate device between Burya and Zarya control systems",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 60,
+    "question": "SCD device is not used for processing the throttle command signal in Burya control system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 61,
+    "question": "In steering system, Final error signal is calculated by",
+    "options": [
+      "RCU",
+      "RTU",
+      "LCU",
+      "All of the above"
+    ],
+    "answer": "LCU"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 62,
+    "question": "_________ and _________ are essential signals for automatic mode in steering gear system",
+    "options": [
+      "Actual Course, Demand Course, Rudder angle",
+      "Actual Course, Rudder Angle, Speed",
+      "Speed, Demand Course, Rudder angle",
+      "Actual Course, Demand Course, Speed"
+    ],
+    "answer": "Actual Course, Demand Course, Rudder angle"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 63,
+    "question": "In steering gear system, RTU stands for",
+    "options": [
+      "Rudder Terminal Unit",
+      "Rudder Transmission Unit",
+      "Rudder Transport Unit",
+      "Rudder Transfer Unit"
+    ],
+    "answer": "Rudder Transmission Unit"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 64,
+    "question": "In steering gear system, _________ mode is used in case of total power supply failure",
+    "options": [
+      "Manual Mode",
+      "NFU Mode",
+      "Emergency Mode",
+      "All of the above"
+    ],
+    "answer": "Emergency Mode"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 65,
+    "question": "In steering gear system, remote control device calculates the final error signal",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 66,
+    "question": "Multi meter showing zero reading in continuity test indicates open circuit",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 67,
+    "question": "Fault finding is not easy in electrical system",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 68,
+    "question": "Fault finding is not easy in mechanical system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 69,
+    "question": "Pressure gauge is an example of _________ type system",
+    "options": [
+      "Digital",
+      "Semi digital",
+      "Analog",
+      "All of the above"
+    ],
+    "answer": "Analog"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 70,
+    "question": "7 segment display is an example of _________ system",
+    "options": [
+      "Digital",
+      "Semi digital",
+      "Analog",
+      "All of the above"
+    ],
+    "answer": "Digital"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 71,
+    "question": "Steering gear system is a closed loop type control system",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 72,
+    "question": "Control supply for DA control panel is",
+    "options": [
+      "220 V AC",
+      "415 V AC",
+      "24 V AC",
+      "24 V DC"
+    ],
+    "answer": "24 V DC"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 73,
+    "question": "Magnetic pickup is used for _________ measurement in DA control system.",
+    "options": [
+      "Flow",
+      "Vibration",
+      "Speed",
+      "None of the above"
+    ],
+    "answer": "Speed"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 74,
+    "question": "Exhaust temperature is measured by _________ in DA control system.",
+    "options": [
+      "RTD",
+      "Thermocouple",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "Thermocouple"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 84,
+    "question": "DCV stands for",
+    "options": [
+      "Direct Control Valve",
+      "Direction Control Valve",
+      "Direction Counter Valve",
+      "None of the above"
+    ],
+    "answer": "Direction Control Valve"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 85,
+    "question": "Hydraulic systems are used to move heavy loads",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 86,
+    "question": "Pneumatic system has slow response than hydraulic system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 87,
+    "question": "Hydraulic system has fast operation and is self-lubricated.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 88,
+    "question": "Spool valve is a directional control valve",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 89,
+    "question": "Return pipe is required in pneumatic systems",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "subject": "COMPONENTS OF CONTROL SYSTEM",
+    "id": 90,
+    "question": "Poppet valve is flow control valve.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 91,
+    "question": "AC Tongtester works on the principle of",
+    "options": [
+      "Hall Effect",
+      "Mutual Induction",
+      "Whitestone bridge",
+      "None of the above"
+    ],
+    "answer": "Mutual Induction"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 92,
+    "question": "DC Tongtester works on the principle of",
+    "options": [
+      "Hall Effect",
+      "Mutual Induction",
+      "Whitestone bridge",
+      "None of the above"
+    ],
+    "answer": "Hall Effect"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 93,
+    "question": "Tongtester/clamp meter is used to measure the",
+    "options": [
+      "AC Current",
+      "DC Current",
+      "Both AC and DC Current",
+      "None of the above"
+    ],
+    "answer": "Both AC and DC Current"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 94,
+    "question": "EMC stands for",
+    "options": [
+      "Electric Mutual Current",
+      "Electric Magnetic Checker",
+      "Electronic Media Checker",
+      "Electric Motor Checker"
+    ],
+    "answer": "Electric Motor Checker"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 95,
+    "question": "EMC 22 is used to check the inductance, resistance and current of a motor",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 96,
+    "question": "In DMM, NCV stands for",
+    "options": [
+      "No Current Value",
+      "No Conduct Voltage",
+      "No Contact Voltage",
+      "None of the above"
+    ],
+    "answer": "No Contact Voltage"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 97,
+    "question": "Megger is used to measure the",
+    "options": [
+      "Inductance",
+      "Current",
+      "Voltage",
+      "Insulation"
+    ],
+    "answer": "Insulation"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 98,
+    "question": "EMC 22 is used to check _________ and _________ of a motor",
+    "options": [
+      "Current, Resistance, Inductance",
+      "Insulation, Resistance, Inductance",
+      "Insulation, Inductance, Voltage",
+      "None of the above"
+    ],
+    "answer": "Insulation, Resistance, Inductance"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 99,
+    "question": "Minimum insulation value of a motor is _________ MOhm",
+    "options": [
+      "1",
+      "5",
+      "10",
+      "None of the above"
+    ],
+    "answer": "1"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 100,
+    "question": "Running current of a motor is measured by using",
+    "options": [
+      "Megger",
+      "EMC 22",
+      "Clamp Meter",
+      "All of the above"
+    ],
+    "answer": "Clamp Meter"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 101,
+    "question": "CTE stands for",
+    "options": [
+      "Common Tuning equipment",
+      "Common Test Equipment",
+      "Compact Test Equipment",
+      "None of the above"
+    ],
+    "answer": "Common Test Equipment"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 102,
+    "question": "CRETE stands for",
+    "options": [
+      "Common Range Electronic Test Equipment",
+      "Contacts Range Electronic Test Equipment",
+      "Common Range Electrical Test Equipment",
+      "None of the above"
+    ],
+    "answer": "Common Range Electronic Test Equipment"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 103,
+    "question": "DMM stands for",
+    "options": [
+      "Dielectric Medium Mode",
+      "Digital Multimeter",
+      "Digital Measurement Machine",
+      "Digital Magnetic Mode"
+    ],
+    "answer": "Digital Multimeter"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 104,
+    "question": "In DMM Red probe is known as",
+    "options": [
+      "Common Probe",
+      "Signal Probe",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "Signal Probe"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 105,
+    "question": "In DMM Black probe is known as",
+    "options": [
+      "Common Probe",
+      "Signal Probe",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "Common Probe"
+  },
+  {
+    "subject": "FAULT FINDING",
+    "id": 106,
+    "question": "Insulation resistance can be measured in live equipment (True/False)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  }
+]
