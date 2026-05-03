@@ -14,8 +14,8 @@ document.getElementById("testBtn").onclick = async () => {
   if (wing) {
     await getQuestions();
     let html = "<div id='report'></div><div id='testContainer'></div>";
-    html += `<button id='wrongBtn' onclick="renderWrongs()">Wrongs</button>`;
-    html += "<div id='wrongsContainer'></div>";
+    /*html += `<button id='wrongBtn' onclick="renderWrongs()">Wrongs</button>`;
+    html += "<div id='wrongsContainer'></div>";*/
     quizDiv.innerHTML = html;
     for (let i = questions.length - 1; i > 0; i--) {
       let j = Math.floor(Math.random() * (i + 1)); // 0 to i
